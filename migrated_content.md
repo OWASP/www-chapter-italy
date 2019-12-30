@@ -32,7 +32,7 @@ McGraw](https://en.wikipedia.org/wiki/Gary_McGraw)
 
 More information here:
 
-[<https://www.owasp.org/index.php/Italy_OWASP_Day_Udine_2019>](Italy_OWASP_Day_Udine_2019 "wikilink")
+[<https://www.owasp.org/index.php/Italy_OWASP_Day_Udine_2019>](Italy_OWASP_Day_Udine_2019 )
 
 ## **OWASP/WIA initiatives - 26th March 2019**
 
@@ -56,7 +56,7 @@ When: 14th March 2019 at 16:10-16:50
 Where: UNAHOTELS EXPO FIERA, via Keplero 12, Pero
 Please see the presentations here:
 [Federico De Meo: "Cloud Security
-Testing"](https://www.owasp.org/images/a/aa/OWASPCloudTestingMar19.pdf)
+Testing"](/www-pdf-archive/OWASPCloudTestingMar19.pdf)
 
 [Giuseppe Trotta: "New generation of phishing
 attacks"](https://drive.google.com/file/d/1AU2zQXcy2Lnc1jI9UxYnkw1rKrDwPcYW/view)
@@ -66,14 +66,14 @@ attacks"](https://drive.google.com/file/d/1AU2zQXcy2Lnc1jI9UxYnkw1rKrDwPcYW/view
 Università di Cagliari.
 
 More information here: [Italy OWASP Day
-2018](Italy_OWASP_Day_Cagliari_2018 "wikilink")
+2018](Italy_OWASP_Day_Cagliari_2018 )
 
 ## **OWASP-Italy Day 2018 @ Milano 16th June 2018**
 
 Politecnico of Milano
 
 More information here: [Italy OWASP Day
-2018](Italy_OWASP_Day_2018 "wikilink")
+2018](Italy_OWASP_Day_2018 )
 
 ## OWASP Italy @ Security Summit 2018
 
@@ -87,7 +87,7 @@ More information here:
 Cagliari , 6th October 2017, Università di Cagliari
 
 More information here: [Italy OWASP Day
-2017](Italy_OWASP_Day_2017 "wikilink")
+2017](Italy_OWASP_Day_2017 )
 
 ## OWASP-Isaca Conference @ Venice 6th October 2017
 
@@ -144,7 +144,7 @@ members** and **3 major OpenSource projects**. At the end of the six
 months period, OWASP Italy will publish results and feedback from both
 volunteers and OSS maintainers.
 The official flyer can be [downloaded from
-here](https://www.owasp.org/images/0/07/AdoptOSSManifest-OWASPItaly.pdf).
+here](/www-pdf-archive/AdoptOSSManifest-OWASPItaly.pdf).
 
 ### Ntopng
 
@@ -231,7 +231,7 @@ The agenda is online\!
 The agenda:
 ![<File:Venice2014.jpg>](Venice2014.jpg "File:Venice2014.jpg")
 Here is the
-[flyer](https://www.owasp.org/images/d/d3/OWASPVenice2014.pdf)
+[flyer](/www-pdf-archive/OWASPVenice2014.pdf)
 
 ## OWASP-Italy Day @ the University of Genova (14th May 2014)
 
@@ -1011,7 +1011,7 @@ Fedon](http://www.isacaroma.it/html/newsletter/node/322)
 Banca Finanza, the italian magazine about finance and banking, has
 interviewed Raoul Chiesa talking about the new risks for the on-line
 banking security. Raoul speaks about OWASP and web application security
-[Media:042006BF.pdf](Media:042006BF.pdf "wikilink")
+[Media:042006BF.pdf](Media:042006BF.pdf )
 
 ### June, 2006 - Quaderno CLUSIT
 
@@ -1135,5 +1135,5 @@ you can download the tool
 
 __NOTOC__ <headertabs></headertabs>
 
-[Category:OWASP_Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Europe](Category:Europe "wikilink")
+[Category:OWASP_Chapter](Category:OWASP_Chapter )
+[Category:Europe](Category:Europe )

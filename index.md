@@ -39,7 +39,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 #### WELCOME
 
-<paypal>Italy</paypal>
 
 ## **OWASP-Italy@311verona**
 Next 17th December 2020 we will have a talk on OWASP to the students of 311 Verona.
@@ -50,8 +49,8 @@ Next 17th December 2020 we will have a talk on OWASP to the students of 311 Vero
 Thanks to ISACA Venice, we had a talk on Software Security last 4th October 2020.
 Where: UNAHOTELS EXPO FIERA, via Keplero 12, Pero
 Please see the presentations here:
-[Matteo Meucci: "Software Security: the good, the bad and the ugly"](/https://drive.google.com/drive/folders/1HqxcNxJ-Q-HnxFpqfplp-YtrnJsGdV7d)
-More information here: [https://web.cvent.com/event/756e22c5-e900-4266-9e5f-90c88198dca4/summary?rp=00000000-0000-0000-0000-000000000000](ISACA VENICE AppSec Conf 2020)
+[Matteo Meucci: "Software Security: the good, the bad and the ugly"](https://drive.google.com/drive/folders/1HqxcNxJ-Q-HnxFpqfplp-YtrnJsGdV7d)
+More information here: [ISACA VENICE AppSec Conf 2020](https://web.cvent.com/event/756e22c5-e900-4266-9e5f-90c88198dca4/summary?rp=00000000-0000-0000-0000-000000000000)
 
 ## OWASP Day in Udine - 14th December 2019**
 

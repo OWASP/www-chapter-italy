@@ -33,7 +33,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 <center>
 
-![OWASP-Italy](https://user-images.githubusercontent.com/26579136/110215744-b2405500-7eab-11eb-93f7-9b4bb8553348.PNG)
+/assets/images/<OWASP-Italy.PNG>
 
 
 </center>

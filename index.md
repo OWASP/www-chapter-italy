@@ -33,7 +33,8 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 <center>
 
-![Image:OWASP-Italy.PNG](OWASP-Italy.PNG "Image:OWASP-Italy.PNG")
+![OWASP-Italy](https://user-images.githubusercontent.com/26579136/110215744-b2405500-7eab-11eb-93f7-9b4bb8553348.PNG)
+
 
 </center>
 
@@ -41,7 +42,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 
 ## **OWASP-Italy@311verona**
-Next 17th December 2020 we will have a talk on OWASP to the students of 311 Verona.
+17th December 2020 - we had a talk on OWASP to the students of 311 Verona.
 
 
 ## **OWASP-Italy@ISACA VENICE 2020**

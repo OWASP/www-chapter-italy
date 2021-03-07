@@ -27,14 +27,20 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
-## Local News
-- We are planning two new OWASP Day for this year, stay tuned!
+## 2021 Local News
+- We are planning the next OWASP Italy Day  28th April 2021 and other 2 meetup meeting, stay tuned!
 - Everyone is welcome to join us at our chapter meetings.
 
+## OWASP-Italy Day - 28th April 2021
+We are planning the new OWASP-Italy Day. A CFP will be shared soon.
 
-## OWASP-Italy@311verona
-17th December 2020 - we had a talk on OWASP to the students of 311 Verona.
+## OWASP-Italy MeetUp- June 2021
+TBD - we will have a meetup of the Chapter.
 
+## OWASP-Italy MeetUp - October 2021
+TBD - we will have a meetup of the Chapter.
+
+## PAST EVENT
 
 ## OWASP-Italy@ISACA VENICE 2020
 

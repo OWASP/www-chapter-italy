@@ -303,14 +303,6 @@ next 23rd November 2012.
 More information
 [here](https://www.owasp.org/index.php?title=Italy_OWASP_Day_2012)
 
-## OWASP-Italy Board
-
-  - This is the **OWASP-Italy Board**:
-
-Founder and Chair: Matteo Meucci (Jan 2005)
-OWASP Italy Board: Paolo Perego, Luca Carettoni, Antonio Parata, Giorgio
-Fedon, Stefano Di Paola, Mauro Bregolin, Claudio Merloni, Raoul Chiesa.
-
 #### Partnerships
 
   - ISC2-Italian Chapter: Thanks to Marco Misitano, Paolo Ottolino and

@@ -1,5 +1,5 @@
 ### Chapter Information
-* Chapter Region
+* OWASP-Italy
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-italy-meetup-group/)

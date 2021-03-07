@@ -31,29 +31,23 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - We are planning two new OWASP Day for this year, stay tuned!
 - Everyone is welcome to join us at our chapter meetings.
 
-<center>
 
-/assets/images/<OWASP-Italy.PNG>
-
-
-</center>
-
-#### WELCOME
-
-
-## **OWASP-Italy@311verona**
+## OWASP-Italy@311verona
 17th December 2020 - we had a talk on OWASP to the students of 311 Verona.
 
 
-## **OWASP-Italy@ISACA VENICE 2020**
+## OWASP-Italy@ISACA VENICE 2020
 
 Thanks to ISACA Venice, we had a talk on Software Security last 4th October 2020.
 Where: UNAHOTELS EXPO FIERA, via Keplero 12, Pero
 Please see the presentations here:
-Matteo Meucci: "Software Security: the good, the bad and the ugly"[https://drive.google.com/drive/folders/1HqxcNxJ-Q-HnxFpqfplp-YtrnJsGdV7d]
-More information here: ISACA VENICE AppSec Conf 2020[https://web.cvent.com/event/756e22c5-e900-4266-9e5f-90c88198dca4/summary?rp=00000000-0000-0000-0000-000000000000]
+Matteo Meucci: "Software Security: the good, the bad and the ugly"
+[https://drive.google.com/drive/folders/1HqxcNxJ-Q-HnxFpqfplp-YtrnJsGdV7d]
 
-## OWASP Day in Udine - 14th December 2019**
+More information here: ISACA VENICE AppSec Conf 2020
+[https://web.cvent.com/event/756e22c5-e900-4266-9e5f-90c88198dca4/summary?rp=00000000-0000-0000-0000-000000000000]
+
+## OWASP Day in Udine - 14th December 2019
 
 The conference has taken place September 14th December 2019.
 

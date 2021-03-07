@@ -296,15 +296,7 @@ details](http://milano2013.securitysummit.it/eventi/view/35)
 
 ## OWASP Italy Day 2012: "Web Security in a Mobile World"
 
-<center>
-
-![<File:OWASPITDay2012.jpg>](OWASPITDay2012.jpg
-"File:OWASPITDay2012.jpg")
-
-</center>
-
-We are pleased to announce that the [OWASP Italy
-chapter](http://www.owasp.org/index.php/Italy) will host the OWASP Italy
+We are pleased to announce that the OWASP Italy Chapeter will host the OWASP Italy
 Day 2012 conference in Rome, Italy at the University of Rome La Sapienza
 next 23rd November 2012.
 

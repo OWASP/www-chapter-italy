@@ -11,13 +11,13 @@ region: Europe
 
 <a href="https://owasp.org/www-chapter-italy/"><img src="assets/images/OWASP-Italy.PNG" alt="OWASP-Italy"/></a>
 
-## Welcome to the OWASP Italy Chapter!
+# Welcome to the OWASP Italy Chapter!
 
-  We aim to organize the next activities 
-* Two annual conferences;
+  We aim to organize the next activities:
+* One annual conference;
 * Periodic meetings and workshops. 
 
-If you would like to host a meeting or speak in one contact [Matteo Meucci](mailto:matteo.meucci@owasp.org)
+If you would like to host a meeting or speak in one, contact [the leaders](mailto:owasp-italy@owasp.org)
 
 * Spreading the Word - Reaching out for more people, especially outside of the AppSec community.
 
@@ -33,7 +33,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - Everyone is welcome to join us at our chapter meetings.
 
 ## OWASP-Italy Day - 28th April 2021
-We are planning the new OWASP-Italy Day. A CFP will be shared soon.
+We are currently organizing the new OWASP-Italy Day. The CfP is available [online](/www-chapter-italy/cfp/owasp-day-210428).
 
 ## OWASP-Italy MeetUp- June 2021
 TBD - we will have a meetup of the Chapter.

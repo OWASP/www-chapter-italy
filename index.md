@@ -30,10 +30,11 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## 2021 Local News
 - We are planning the next OWASP Italy Day 28th April 2021 and other 2 meetup meetings, stay tuned!
+- The CfP of the next OWASP Italy day is [online](/www-chapter-italy/cfp/owasp-day-210428)!
 - Everyone is welcome to join us at our chapter meetings.
 
 ## OWASP-Italy Day - 28th April 2021
-We are currently organizing the new OWASP-Italy Day. The CfP is available [online](/www-chapter-italy/cfp/owasp-day-210428).
+We are currently organizing the new OWASP Italy Day. The CfP is available [online](/www-chapter-italy/cfp/owasp-day-210428)!
 
 ## OWASP-Italy MeetUp- June 2021
 TBD - we will have a meetup of the Chapter.

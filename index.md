@@ -13,13 +13,13 @@ region: Europe
 
 # Welcome to the OWASP Italy Chapter!
 
-  We aim to organize the next activities:
+We aim to organize the next activities of the chapter:
 * One annual conference;
 * Periodic meetings and workshops. 
 
-If you would like to host a meeting or speak in one, contact [the leaders](mailto:owasp-italy@owasp.org)
-
-* Spreading the Word - Reaching out for more people, especially outside of the AppSec community.
+How can you help?
+* If you would like to host a meeting or speak in one, contact [the leaders](mailto:owasp-italy@owasp.org)
+* Spread the word: Reaching out for more people, especially outside of the AppSec community.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -29,7 +29,7 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
 ## 2021 Local News
-- We are planning the next OWASP Italy Day  28th April 2021 and other 2 meetup meeting, stay tuned!
+- We are planning the next OWASP Italy Day 28th April 2021 and other 2 meetup meetings, stay tuned!
 - Everyone is welcome to join us at our chapter meetings.
 
 ## OWASP-Italy Day - 28th April 2021
@@ -40,5 +40,3 @@ TBD - we will have a meetup of the Chapter.
 
 ## OWASP-Italy MeetUp - October 2021
 TBD - we will have a meetup of the Chapter.
-
-

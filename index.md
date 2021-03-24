@@ -33,6 +33,13 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - The CfP of the next OWASP Italy day is [online](/www-chapter-italy/cfp/owasp-day-210428)!
 - Everyone is welcome to join us at our chapter meetings.
 
+## OWASP-Italy MeetUp- 26th February 2021
+14:00 OWASP News and Introduction - Matteo Meucci, Stefano Calzavara
+14.30 - 17: Heap exploitation and CTF - f00kies@unive
+
+Please see it for details:
+https://www.meetup.com/owasp-italy-meetup-group/
+
 ## OWASP-Italy Day - 28th April 2021
 We are currently organizing the new OWASP Italy Day. The CfP is available [online](/www-chapter-italy/cfp/owasp-day-210428)!
 

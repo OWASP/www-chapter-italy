@@ -31,3 +31,5 @@ Registration is free of charge and can be performed by subscribing to the [event
 ### ORGANIZERS
 - Matteo Meucci, OWASP Italy Chair & IMQ Minded Security
 - Stefano Calzavara, OWASP Italy Chair & Università Ca' Foscari Venezia
+
+Back to the [OWASP-Italy Chapter](https://owasp.org/www-chapter-italy)

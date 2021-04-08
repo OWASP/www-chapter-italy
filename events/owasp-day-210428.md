@@ -18,7 +18,7 @@ The event will take place from 9 AM to 1 PM (Italian time) over Zoom. We are del
 | Time          | Speakers                                                                       | Title |
 | :---          | :---                                                                           | :---          |
 | 09.00 - 09.10 | Stefano Calzavara (Università Ca' Foscari) and Matteo Meucci (IMQ Minded Security) | Welcome and opening by the OWASP Italy chairs |
-| 09.00 - 10.00 | Simone Curzi (Microsoft)                                                       | Threat Modeling with Threats Manager Studio Step by Step (Keynote) |
+| 09.10 - 10.00 | Simone Curzi (Microsoft)                                                       | Threat Modeling with Threats Manager Studio Step by Step (Keynote) |
 | 10.00 - 10.45 | Andrea Valenza (IMQ Minded Security)                                           | Never Trust Your Victim: Weaponizing Vulnerabilities in Security Scanners |
 | 10.45 - 11.30 | Seyed Ali Mirheidari (University of Trento)                                    | Cached and Confused: Web Cache Deception in the Wild |
 | 11.30 - 12.15 | Andrea Bisegna (FBK and University of Genova)                                  | Integrating a Pentesting Tool for IdM Protocols in a Continuous Delivery Pipeline |

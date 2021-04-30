@@ -36,9 +36,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Future Events
 
-### OWASP-Italy Day - 28th April 2021
-The program of the event is available [online](/www-chapter-italy/events/owasp-day-210428)!
-
 ### OWASP-Italy MeetUp - June 2021
 TBD - we will have a meetup of the Chapter.
 
@@ -46,6 +43,9 @@ TBD - we will have a meetup of the Chapter.
 TBD - we will have a meetup of the Chapter.
 
 ## Past Events
+
+### OWASP-Italy Day - 28th April 2021
+The program of the event is available [online](/www-chapter-italy/events/owasp-day-210428)
 
 ### OWASP-Italy MeetUp - 26th February 2021
 14:00 OWASP News and Introduction - Matteo Meucci, Stefano Calzavara

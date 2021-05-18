@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Italy
 tags: home, Italy
 level: 0
+meetup group: owasp-italy-meetup-group
 site_side: true
 region: Europe
 
@@ -52,3 +53,5 @@ The program of the event is available [here](https://owasp.org/www-chapter-italy
 
 Please see it for details:
 https://www.meetup.com/owasp-italy-meetup-group/
+
+{% include chapter_events.html group=page.meetup-group %}

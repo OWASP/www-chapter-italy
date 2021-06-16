@@ -34,7 +34,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - We are planning other 2 meetup meetings, stay tuned!
 - Everyone is welcome to join us at our chapter meetings.
 
-## Future Eventshtt
+## Future Events
 
 ### Upcoming Meetings
 

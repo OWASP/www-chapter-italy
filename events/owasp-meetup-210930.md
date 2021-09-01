@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: Virtual OWASP Italy Day 2021
+title: OWASP Italy September Meetup 2021
 tags: event, Italy
 level: 0
 site_side: true

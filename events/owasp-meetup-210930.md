@@ -18,8 +18,7 @@ The event will take place from 5 PM to 6.40 PM (Italian time) over Zoom. We are 
 | Time          | Speakers                                                                       | Title |
 | :---          | :---                                                                           | :---          |
 | 17.00 - 17.10 | Stefano Calzavara (Università Ca' Foscari) and Matteo Meucci (IMQ Minded Security) | Welcome and opening by the OWASP Italy chairs |
-| 17.10 - 17.40 | Salvatore Manfredi (FBK and Università di Genova)                              | TLSAssistant: a comprehensive tool for identifying and mitigating TLS vulnerabilities
- |
+| 17.10 - 17.40 | Salvatore Manfredi (FBK and Università di Genova)                              | TLSAssistant: a comprehensive tool for identifying and mitigating TLS vulnerabilities |
 | 17.40 - 18.10 | Marino Miculan (Università di Udine)                                           | Automated Symbolic Verification of Telegram's MTProto 2.0 |
 | 18.10 - 18.40 | Alvise Rabitti (Università Ca' Foscari)                                        | Phish in a barrel: comparing the effectiveness of phishing techniques |
 

@@ -19,7 +19,7 @@ The event will take place from 2:30 PM to 4:30 PM (Italian time) over Zoom. We a
 | :---          | :---                                                                           | :---          |
 | 14.30 - 14.40 | Stefano Calzavara (Università Ca' Foscari) and Matteo Meucci (IMQ Minded Security) | Welcome and opening by the OWASP Italy chairs |
 | 14.40 - 15.20 | Lorenzo Cazzaro                                                                    | Un’introduzione alla sicurezza dell’AI        |
-| 15.20 - 16.00 | Samuele Casarin                                                                    |                                               |
+| 15.20 - 16.00 | Samuele Casarin                                                                    |  What Storage? An Empirical Analysis of Web Storage in the Wild |
 
 ### REGISTRATION
 

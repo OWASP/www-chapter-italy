@@ -4,7 +4,6 @@ layout: col-sidebar
 title: OWASP Italy
 tags: home, Italy
 level: 0
-meetup-group: owasp-italy-meetup-group
 site_side: true
 region: Europe
 
@@ -14,41 +13,45 @@ region: Europe
 
 # Welcome to the OWASP Italy Chapter!
 
-We are here to organize the regular activities of the chapter:
-* One annual conference, the OWASP Italy Day;
-* Periodic meetings and workshops. 
+We aim to regularly organize the following activities of the chapter:
+* One annual conference, the *OWASP Italy Day*
+* Three virtual *OWASP Italy Meetups* (over Zoom)
 
 How can you help?
-* If you would like to host a meeting or speak in one, contact [the leaders](mailto:owasp-italy@owasp.org)
-* Spread the word: Reaching out for more people, especially outside of the AppSec community.
+* If you would like to speak at the OWASP Italy Day, keep an eye on open *calls for speakers* before the event
+* If you would like to organize or be involved in a meetup, contact [the leaders](mailto:owasp-italy@owasp.org)
+* Attend the events: The success of the events depends upon you!
+* Spread the word: Reaching out for more people who may be interested in our activities
+* Keep in touch: Join our community on [Meetup](https://www.meetup.com/owasp-italy-meetup-group/)
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
-Chapters are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/). Financial contributions should only be made online using the authorized online donation button. To be a speaker at any OWASP Chapter in the world simply review the [speaker agreement](https://owasp.org/www-policy/) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
-### Upcoming Events
+## Planned Events
+For 2022, we plan the following activities:
+- March 2022: First OWASP Italy meetup
+- June 2022: OWASP Italy Day
+- September 2022: Second OWASP Italy meetup
+- December 2022: Third OWASP Italy meetup
 
-We schedule our meetings on the [OWASP Italy Meetup Group](https://www.meetup.com/owasp-italy-meetup-group/)
-
-{% include chapter_events.html group=page.meetup-group %}
-
-Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
-
-The next OWASP Italy meetup is planned on September 30th, 2021. It will be a virtual event over Zoom. Full details are available [here](https://owasp.org/www-chapter-italy/events/owasp-meetup-210930).
+Organization details including specific details will follow.
 
 ## Past Events
 
-### OWASP-Italy Day - 28th April 2021
-The program of the event is available [here](https://owasp.org/www-chapter-italy/events/owasp-day-210428)
+### OWASP Italy Meetup - 17th December 2021
+The program of the event is available [online](https://owasp.org/www-chapter-italy/events/owasp-meetup-171221)
 
-### OWASP-Italy MeetUp - 26th February 2021
+### OWASP Italy Meetup - 30th September 2021
+The program of the event is available [online](https://owasp.org/www-chapter-italy/events/owasp-meetup-210930)
+
+### OWASP Italy Day - 28th April 2021
+The program of the event is available [online](/www-chapter-italy/events/owasp-day-210428)
+
+### OWASP Italy Meetup - 26th March 2021
 14:00 OWASP News and Introduction - Matteo Meucci, Stefano Calzavara
-14.30 - 17: Heap exploitation and CTF - f00kies@unive
-
-Please see it for details:
-https://www.meetup.com/owasp-italy-meetup-group/
-
+14:30 - 17.00: Heap exploitation and CTF - f00kies@unive
 

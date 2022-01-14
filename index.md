@@ -14,12 +14,12 @@ region: Europe
 # Welcome to the OWASP Italy Chapter!
 
 We aim to regularly organize the following activities of the chapter:
-* One annual conference, the *OWASP Italy Day*
-* Three virtual *OWASP Italy Meetups* (over Zoom)
+* One annual conference, the **OWASP Italy Day**
+* Three virtual **OWASP Italy Meetups** (over Zoom)
 
 How can you help?
-* If you would like to speak at the OWASP Italy Day, keep an eye on open *calls for speakers* before the event
-* If you would like to organize or be involved in a meetup, contact [the leaders](mailto:owasp-italy@owasp.org)
+* If you would like to speak at the OWASP Italy Day, keep an eye on open *calls for speakers* before the event or contact [the leaders](mailto:owasp-italy@owasp.org) for informal inquiries
+* If you would like to organize or be involved in a meetup, contact [the leaders](mailto:owasp-italy@owasp.org) to apply
 * Attend the events: The success of the events depends upon you!
 * Spread the word: Reaching out for more people who may be interested in our activities
 * Keep in touch: Join our community on [Meetup](https://www.meetup.com/owasp-italy-meetup-group/)
@@ -52,6 +52,6 @@ The program of the event is available [online](https://owasp.org/www-chapter-ita
 The program of the event is available [online](/www-chapter-italy/events/owasp-day-210428)
 
 ### OWASP Italy Meetup - 26th March 2021
-14:00 OWASP News and Introduction - Matteo Meucci, Stefano Calzavara
-14:30 - 17.00: Heap exploitation and CTF - f00kies@unive
+- 14:00 OWASP News and Introduction - Matteo Meucci, Stefano Calzavara
+- 14:30 - 17.00: Heap exploitation and CTF - f00kies@unive
 

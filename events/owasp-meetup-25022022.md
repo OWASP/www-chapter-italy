@@ -15,11 +15,12 @@ The OWASP Italy March Meetup 2022 will be held as a virtual event on March 25th,
 
 The event will take place from 4 PM to 6 PM (CET time) over Zoom. We are delighted to announce a strong program with three speakers from reputable institutions:
 
-| Time          | Speakers                                                                       | Title |
-| :---          | :---                                                                           | :---          |
+| Time          | Speakers                                                                           | Title                                         |
+| :---          | :---                                                                               | :---                                          |
 | 16.00 - 16.15 | Stefano Calzavara (Università Ca' Foscari) and Matteo Meucci (IMQ Minded Security) | Welcome and opening by the OWASP Italy chairs |
 | 16.15 - 17.00 | Paolo Perego (SuSe)                                                                | (opensource == sicuro)? Yes if...             |
 | 17.00 - 17.45 | Fabrizio Bugli (Checkmarx)                                                         | To Add                                        |
+
 ### REGISTRATION
 
 Registration is free of charge and can be performed by subscribing to the event in the [OWASP Italy Meetup](https://www.meetup.com/it-IT/owasp-italy-meetup-group/). We encourage participants to subscribe to the meetup to be informed about future events organized by the chapter.

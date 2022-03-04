@@ -18,7 +18,7 @@ The event will take place from 4 PM to 6 PM (CET time) over Zoom. We are delight
 | Time          | Speakers                                                                           | Title                                         |
 | :---          | :---                                                                               | :---                                          |
 | 16.00 - 16.15 | Stefano Calzavara (Università Ca' Foscari) and Matteo Meucci (IMQ Minded Security) | Welcome and opening by the OWASP Italy chairs |
-| 16.15 - 17.00 | Paolo Perego (SuSe)                                                                | (opensource == sicuro)? Yes if...             |
+| 16.15 - 17.00 | Paolo Perego (SUSE)                                                                | (opensource == sicuro)? Yes if...             |
 | 17.00 - 17.45 | Fabrizio Bugli (Checkmarx)                                                         | OWASP API Security - Top 10                   |
 
 ### REGISTRATION

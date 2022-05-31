@@ -36,7 +36,9 @@ For 2022, we plan the following activities:
 ### OWASP Italy meetup - 16th June 2022
 The program of the event is available [online](https://owasp.org/www-chapter-italy/events/owasp-16062022)
 
-- June 2022: OWASP Italy Day
+### OWASP Italy @ RomHack 2022
+We will be part of the RomHack Community next 23-24-25th September 2022.
+More information [online](https://romhack.camp)  
 
 - September 2022: Second OWASP Italy meetup
 - December 2022: Third OWASP Italy meetup

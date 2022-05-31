@@ -33,16 +33,20 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Planned Events
 For 2022, we plan the following activities:
-### OWASP Italy meetup - 25th March 2022
-The program of the event is available [online](https://owasp.org/www-chapter-italy/events/owasp-meetup-25022022)
+### OWASP Italy meetup - 16th June 2022
+The program of the event is available [online](https://owasp.org/www-chapter-italy/events/owasp-16062022)
 
 - June 2022: OWASP Italy Day
+
 - September 2022: Second OWASP Italy meetup
 - December 2022: Third OWASP Italy meetup
 
 Organization details including specific details will follow.
 
 ## Past Events
+
+### OWASP Italy meetup - 25th March 2022
+The program of the event is available [online](https://owasp.org/www-chapter-italy/events/owasp-meetup-25022022)
 
 ### OWASP Italy Meetup - 17th December 2021
 The program of the event is available [online](https://owasp.org/www-chapter-italy/events/owasp-meetup-171221)

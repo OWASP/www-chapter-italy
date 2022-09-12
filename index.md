@@ -36,7 +36,7 @@ For 2022, we plan the following activities:
 
 ### ASSG 2022: AppSec and Cybersecurity Governance 2022
 Ca’ Foscari University of Venice, ISACA Venice and OWASP Italy would like to announce a call for talks for “AppSec and Cybersecurity Governance 2022”, to be held in Mestre (Venice), Italy, on 7 October 2022. The event will take place in the scientific campus of Ca’ Foscari. This will be a free, one day, informal conference (in Italian), aimed at increasing awareness and knowledge of application security and related topics. 
-More information [online](https://easychair.org/cfp/ASSG2022)  
+Please register [here!](https://sites.google.com/owasp.org/assg2022)  
 
 ### OWASP Italy @ RomHack 2022
 We will be part of the RomHack Community next 23-24-25th September 2022.

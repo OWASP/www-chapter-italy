@@ -49,7 +49,7 @@ Organization details including specific details will follow.
 
 ### ASSG 2022: AppSec and Cybersecurity Governance 2022
 Last 7th October 2022 thanks to the collaboration with Ca’ Foscari University of Venice and ISACA Venice we held the AppSec and CyberSec Governance Conferance in the scientific campus of Ca’ Foscari. 
-More information [here](https://romhack.camp](https://sites.google.com/owasp.org/assg2022)  
+More information [here](https://sites.google.com/owasp.org/assg2022)
 
 ### OWASP Italy @ RomHack 2022
 We had the chance to be part of the RomHack Community last 23-24-25th September 2022.

@@ -32,22 +32,29 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
 ## Planned Events
-For 2022, we plan the following activities:
+We are panning the following event for the 2023:
 
-### ASSG 2022: AppSec and Cybersecurity Governance 2022
-Ca’ Foscari University of Venice, ISACA Venice and OWASP Italy would like to announce a call for talks for “AppSec and Cybersecurity Governance 2022”, to be held in Mestre (Venice), Italy, on 7 October 2022. The event will take place in the scientific campus of Ca’ Foscari. This will be a free, one day, informal conference (in Italian), aimed at increasing awareness and knowledge of application security and related topics. 
+### OWASP Italy meetup - 24th March 2023
+TBD
 
-Please register [here!](https://sites.google.com/owasp.org/assg2022)  
+### OWASP Italy Meetup - 16th June 2023
+TBD
 
-### OWASP Italy @ RomHack 2022
-We will be part of the RomHack Community next 23-24-25th September 2022.
-More information [online](https://romhack.camp)  
-
-
+### OWASP Italy Meetup - 22th September 2023
+TBD
 
 Organization details including specific details will follow.
 
 ## Past Events
+
+### ASSG 2022: AppSec and Cybersecurity Governance 2022
+Last 7th October 2022 thanks to the collaboration with Ca’ Foscari University of Venice and ISACA Venice we held the AppSec and CyberSec Governance Conferance in the scientific campus of Ca’ Foscari. 
+More information [here](https://romhack.camp](https://sites.google.com/owasp.org/assg2022)  
+
+### OWASP Italy @ RomHack 2022
+We had the chance to be part of the RomHack Community last 23-24-25th September 2022.
+More information [online](https://romhack.camp)  
+
 
 ### OWASP Italy meetup - 16th June 2022
 The program of the event is available [online](https://owasp.org/www-chapter-italy/events/owasp-16062022)

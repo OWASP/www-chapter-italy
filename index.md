@@ -34,8 +34,10 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ## Planned Events
 We are panning the following event for the 2023:
 
-### OWASP Italy meetup - 24th March 2023
-TBD
+### OWASP Italy @ Security Summit 2013
+Where: Unahotels Expo Fiera Milano, Via Giovanni Keplero 12, Pero (Mi)
+https://securitysummit.it/eventi/milano-2023/info
+When: 15th March at 3 PM.
 
 ### OWASP Italy Meetup - 16th June 2023
 TBD

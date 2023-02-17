@@ -36,8 +36,10 @@ We are panning the following event for the 2023:
 
 ### OWASP Italy @ Security Summit 2013
 Where: Unahotels Expo Fiera Milano, Via Giovanni Keplero 12, Pero (Mi)
-https://securitysummit.it/eventi/milano-2023/info
+
 When: 15th March at 3 PM.
+
+More information [here](https://securitysummit.it/eventi/milano-2023/info)
 
 ### OWASP Italy Meetup - 16th June 2023
 TBD

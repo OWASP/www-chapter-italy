@@ -39,7 +39,7 @@ Where: Unahotels Expo Fiera Milano, Via Giovanni Keplero 12, Pero (Mi)
 
 When: 15th March at 3 PM.
 
-More information [here](https://securitysummit.it/eventi/milano-2023/info)
+More information [here](https://securitysummit.it/eventi/milano-2023/sessioni/seminario-a-cura-del-capitolo-italiano-di-owasp)
 
 ### OWASP Italy Meetup - 16th June 2023
 TBD

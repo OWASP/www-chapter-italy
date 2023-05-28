@@ -34,7 +34,17 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ## Planned Events
 We are panning the following event for the 2023:
 
-### OWASP Italy @ Security Summit 2013
+### OWASP Italy @ CyberJourney 2023
+
+Where: Thotel Cagliari
+
+When: 22nd  June 2023
+
+Thanks to AssureMoss H2020 and CyberJourney, we will have 4 talks from our chapter talking about AppSec and OWASP!
+
+Link: https://cyberjourney.it
+
+### OWASP Italy @ Security Summit 2023
 Where: Unahotels Expo Fiera Milano, Via Giovanni Keplero 12, Pero (Mi)
 
 When: 15th March at 3 PM.

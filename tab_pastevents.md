@@ -3,7 +3,7 @@ title: pastevents
 displaytext: Past events
 layout: null
 tab: true
-order: 2
+order: 3
 tags: Italy
 region: Europe
 

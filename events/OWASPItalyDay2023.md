@@ -13,7 +13,7 @@ The OWASP Italy Day 2023 will be held at the Politecnico of Milan (Polimi) on Se
 
 ### PROGRAM
 
-The event will take place from 9 AM to 5 PM (Italian time). We are delighted to announce a strong program with five speakers from reputable institutions:
+The event will take place from 9 AM to 5 PM (Italian time). We are working on the program at the moment.
 
 | Time          | Speakers                                                                       | Title |
 | :---          | :---                                                                           | :---          |

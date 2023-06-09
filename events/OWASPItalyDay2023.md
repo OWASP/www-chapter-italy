@@ -31,7 +31,7 @@ The event will take place from 9 AM to 5 PM (Italian time). We are delighted to 
 
 ### REGISTRATION
 
-Registration is free of charge and can be performed by subscribing to the [event](https://www.meetup.com/it-IT/owasp-italy-meetup-group/events/277407026/) in the [OWASP Italy Meetup](https://www.meetup.com/it-IT/owasp-italy-meetup-group/). We encourage participants to subscribe to the meetup to be informed about future events organized by the chapter.
+Registration is free of charge and can be performed by subscribing to the [event](https://www.meetup.com/it-IT/owasp-italy-meetup-group/events/294083412/) in the [OWASP Italy Meetup](https://www.meetup.com/it-IT/owasp-italy-meetup-group/). We encourage participants to subscribe to the meetup to be informed about future events organized by the chapter.
 
 ### ORGANIZERS
 - Matteo Meucci, OWASP Italy Chair & IMQ Minded Security

@@ -8,7 +8,7 @@ site_side: true
 region: Europe
 
 ---
-| <img src="https://owasp.org/assets/images/logo.png" alt="OWASP-Italy"/> | <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/01_Polimi_centrato_COL_positivo.jpg"/>|
+| <img src="https://owasp.org/assets/images/logo.png" alt="OWASP-Italy"/> | <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/01_Polimi_centrato_COL_positivo.jpg?raw=true"/>|
 | :---          | :---          |
 
 

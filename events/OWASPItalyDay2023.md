@@ -8,9 +8,9 @@ site_side: true
 region: Europe
 
 ---
+| <img src="https://owasp.org/assets/images/logo.png" alt="OWASP-Italy"/> | <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/01_Polimi_centrato_COL_positivo.jpg"/>|
+| :---          | :---          |
 
-<a href="https://owasp.org/www-chapter-italy/"><img src="https://owasp.org/assets/images/logo.png" alt="OWASP-Italy"/></a>
-<a href="https://owasp.org/www-chapter-italy/"><img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/01_Polimi_centrato_COL_positivo.jpg" alt="PoliMi"/></a>
 
 
 In collaboration with Politecnico di Milano (Polimi) University, we are excited to announce the upcoming OWASP Italy Day 2023 on September 11th. It will be a full-day event dedicated to application security (AppSec)!

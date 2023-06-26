@@ -9,6 +9,8 @@ region: Europe
 
 ---
 
+In collaboration with Politecnico di Milano (Polimi) University, we are excited to announce the upcoming OWASP Italy Day 2023 on September 11st. It will be a full-day event dedicated to application security (AppSec)!
+
 The OWASP Italy Day 2023 will be held at the Politecnico of Milan (Polimi) on September 11st, 2023. This will be a free, one-day, informal event, aimed at increasing awareness and knowledge of web application security. The event is primarily intended to appeal to security professionals, software developers, software quality engineers and computer science students with a strong interest in computer security. The goal of the event is to stimulate interest in web application security and secure software engineering practices and foster new initiatives within organizations.
 
 ### PROGRAM
@@ -17,7 +19,7 @@ The event will take place from 9 AM to 5 PM (Italian time). We are working on th
 
 | Time          | Speakers                                                                       | Title |
 | :---          | :---                                                                           | :---          |
-| 09.00 - 09.15 | Stefano Calzavara (Università Ca' Foscari) and Matteo Meucci (IMQ Minded Security) | Welcome and opening by the OWASP Italy chairs |
+| 09.00 - 09.15 | TBA | Welcome and opening by the OWASP Italy chairs and PoliMi |
 | 09.15 - 10.00 | TBA                                                      | Title |
 | 10.00 - 10.45 | TBA                                           | Title |
 | 10.45 - 11.30 | TBA                                    | Title |
@@ -36,5 +38,9 @@ Registration is free of charge and can be performed by subscribing to the [event
 ### ORGANIZERS
 - Matteo Meucci, OWASP Italy Chair & IMQ Minded Security
 - Stefano Calzavara, OWASP Italy Chair & Università Ca' Foscari Venezia
+- Stefano Zanero, full professor at DEIB, the computer engineering department of Politecnico di Milano.
+- Michele Carminati, Ph.D. Assistant Professor (RTDb) Politecnico di Milano - Dip. Elettronica, Informazione e Bioingegneria - NECSTLab
+- Stefano Longari, Postdoctoral Researcher at Politecnico di Milano
+
 
 Back to the [OWASP-Italy Chapter](https://owasp.org/www-chapter-italy)

@@ -34,7 +34,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ## Planned Events
 We are panning the following event for the 2023:
 
-### OWASP Italy Day - PoliMi University - 12th September 2023
+### OWASP Italy Day - PoliMi University - 11th September 2023
 
 For further details regarding the OWASP Italy Day 2023, please refer to the following [link](https://owasp.org/www-chapter-italy/events/OWASPItalyDay2023)
 

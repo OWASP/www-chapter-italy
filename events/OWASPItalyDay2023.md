@@ -21,30 +21,50 @@ The event is primarily intended to appeal to security professionals, software de
 
 The goal of the event is to stimulate interest in web application security and secure software engineering practices and foster new initiatives within organizations.
 
-### Call for Paper
-We will open soon the CFP, stay tuned!
+### Call for Paper is open!
+Please see here for details:  https://easychair.org/cfp/OWASP-IT23
+
+Those who are interested in participating as speakers at the conference can submit an abstract of their proposed talk via Easychair by July 23, 2023. 
+The abstract must be in PDF format and should contain the following information: 
+
+    Name and surname of the speaker
+    Institutions and roles of the speaker therein
+    Short biography of the speaker
+    Title of the contribution 
+    Abstract of the presentation
+
+The submission must be no longer than 2 pages overall. No additional formatting requirements are in place.
+
+The submission will be reviewed by the program committee and the most interesting talk proposals will be selected for the conference.
+List of Topics
+
+Selected topics of interest include:
+
+    DevSecOps
+    Threat modeling
+    Blockchain and smart contract security
+    Mobile security: emerging topics and new attack techniques
+    IoT security
+    Ransomware and cyber threats
+    Security of AI and AI for security
+    Web security: emerging topics and new attack techniques
+    Automotive security
+    Risk assessment and management
+    Security architectures
+
+We encourage local students, security professionals, and academics to present proposals as an opportunity to share knowledge and lessons learned on relevant application and software security topics with previous experience in presenting at security conferences. 
+
+### Call for Sponsorships is open!
+Please see [**here for details**](https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/2023%20OWASP%20Italy%20Day%20Sponsorship.pdf) 
+
+### REGISTRATION
+
+Registration is free of charge and can be performed by subscribing to the [event](https://www.meetup.com/it-IT/owasp-italy-meetup-group/events/294083412/) in the [OWASP Italy Meetup](https://www.meetup.com/it-IT/owasp-italy-meetup-group/). We encourage participants to subscribe to the meetup to be informed about future events organized by the chapter.
 
 ### PROGRAM
 
 The event will take place from 9 AM to 5 PM (Italian time). We are working on the program at the moment.
 
-| Time          | Speakers                                                                       | Title |
-| :---          | :---                                                                           | :---          |
-| 09.00 - 09.15 | TBA | Welcome and opening by the OWASP Italy chairs and PoliMi |
-| 09.15 - 10.00 | TBA                                                      | Title |
-| 10.00 - 10.45 | TBA                                           | Title |
-| 10.45 - 11.30 | TBA                                    | Title |
-| 11.30 - 12.15 | TBA                               | Title |
-| 12.15 - 13.00 | TBA                                                     | Title|
-| 13.00 - 14.00 | Lunch                                                     | A |
-| 14.00 - 14.45 | TBA                                           | Title |
-| 14.45 - 15.30 | TBA                                    | Title |
-| 15.30 - 16.15 | TBA                               | Title |
-| 16.15 - 17.00 | TBA                                                     | Title|
-
-### REGISTRATION
-
-Registration is free of charge and can be performed by subscribing to the [event](https://www.meetup.com/it-IT/owasp-italy-meetup-group/events/294083412/) in the [OWASP Italy Meetup](https://www.meetup.com/it-IT/owasp-italy-meetup-group/). We encourage participants to subscribe to the meetup to be informed about future events organized by the chapter.
 
 ### ORGANIZERS
 - Matteo Meucci, OWASP Italy Chair & IMQ Minded Security

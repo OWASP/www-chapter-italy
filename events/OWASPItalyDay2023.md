@@ -22,7 +22,7 @@ The event is primarily intended to appeal to security professionals, software de
 The goal of the event is to stimulate interest in web application security and secure software engineering practices and foster new initiatives within organizations.
 
 ### Call for Paper is open!
-Please see here for details:  https://easychair.org/cfp/OWASP-IT23
+Please see here for details:   for details**](https://easychair.org/cfp/OWASP-IT23)
 
 Those who are interested in participating as speakers at the conference can submit an abstract of their proposed talk via Easychair by July 23, 2023. 
 The abstract must be in PDF format and should contain the following information: 

@@ -23,7 +23,7 @@ The goal of the event is to stimulate interest in web application security and s
 
 #### GOLD SPONSORS
 
-<img src="https://github.com/OWASP/www-chapter-italy/blob/fa210fb801c80db191f922d10775bef2a25161ae/assets/images/Contrast%20Logo%2023.png?raw=true" width=400/>|
+<img src="https://github.com/OWASP/www-chapter-italy/blob/fa210fb801c80db191f922d10775bef2a25161ae/assets/images/Contrast%20Logo%2023.png?raw=true" width=400/>
 
 ### Call for Paper is open!
 Please see [**here for details**](https://easychair.org/cfp/OWASP-IT23)

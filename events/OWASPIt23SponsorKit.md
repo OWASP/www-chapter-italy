@@ -9,7 +9,7 @@ region: Europe
 
 ---
 
-| <img src="https://owasp.org/assets/images/logo.png"/> | <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/01_Polimi_centrato_COL_positivo.jpg?raw=true"/>|
+| <img src="https://owasp.org/assets/images/logo.png" width=200/> | <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/01_Polimi_centrato_COL_positivo.jpg?raw=true" width=200 />|
 | :---          | :---         |
 |  |  |
 
@@ -27,7 +27,7 @@ The OWASP Foundation has been presenting events focused on education around soft
 This confirmation packet provides important information including preparing for the event, registering your team, booking your hotel, getting your team and materials to the event, as well as other important details and deadlines.
 
 ### Checklist
-- Register your onsite team: https://www.meetup.com/it-IT/owasp-italy-meetup-group/events/294083412/
+- Register your onsite team [here](https://www.meetup.com/it-IT/owasp-italy-meetup-group/events/294083412/) 
 - Book your hotel room: Suggested hotels
 - Shipping Materials: Where and when
 - Gold Exhibitor check-in & set-up Sunday?September 10th 1pm-5pm?
@@ -36,13 +36,12 @@ This confirmation packet provides important information including preparing for 
 
 Gold and Silver sponsorships include 2 Coffee breaks and lunch on Monday September 11th, access to the conference talks & expo area, social events, and conference activities.
 
-### REGISTRATION
+### Registration
 
-Registration is free of charge and can be performed by subscribing to the [event](https://www.meetup.com/it-IT/owasp-italy-meetup-group/events/294083412/) in the [OWASP Italy Meetup](https://www.meetup.com/it-IT/owasp-italy-meetup-group/). We encourage participants to subscribe to the meetup to be informed about future events organized by the chapter.
+Registration is free of charge and can be performed by subscribing to the [event](https://www.meetup.com/it-IT/owasp-italy-meetup-group/events/294083412/)
 
 ### Preparing for the Conference
 Event Location: Politecnico di Milano - Via Edoardo Bonardi, 9 · Milano, MI, phone: +39
-
 
 ### Contact Information
 - Matteo Meucci, OWASP-Italy Co-chair matteo.meucci@owasp.org +393283019559

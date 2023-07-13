@@ -13,6 +13,8 @@ region: Europe
 | :---          | :---         |
 |  |  |
 
+###  /// DRAFT To Review ///
+
 #### OWASP Italy Day 11th September 2023 - Exhibitor Packet 
 
 ## Overview 

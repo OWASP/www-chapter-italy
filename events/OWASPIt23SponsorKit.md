@@ -28,23 +28,25 @@ The OWASP Foundation has been presenting events focused on education around soft
 This confirmation packet provides important information including preparing for the event, registering your team, booking your hotel, getting your team and materials to the event, as well as other important details and deadlines.
 
 ### Checklist
-- Register your onsite team [here](https://www.meetup.com/it-IT/owasp-italy-meetup-group/events/294083412/) 
-- Book your hotel room: the event will be at Polimi Aula Rogers. Via Andrea Maria Ampère, 10, 20131 Milano MI, nearby the metro station Piola. We suggested to book your hotel near the Stazione Centrale, for example, Best Western Madison Hotel, 
+
+- Register your onsite team [here](https://www.meetup.com/it-IT/owasp-italy-meetup-group/events/294083412/)
+- Book your hotel room: the event will be at Polimi Aula Rogers. Via Andrea Maria Ampère, 10, 20131 Milano MI, nearby the metro station Piola. We suggested booking your hotel near the Stazione Centrale, for example, Best Western Madison Hotel, 
 NYX Hotel Milan, UNAHOTELS Century Milano.
-- Shipping Materials: you can ship your materials to the University starting from 21th August.
+- Shipping Materials: you can ship your materials to the University starting from 21st August.
   Address:
   Michele Carminati
   Dipartimento di Elettronica, Informazione e Bioingegneria
   Via Giuseppe Ponzio, 34, 20133 Milano MI
 - Gold Exhibitor check-in & set-up on Sunday 10th September 10 AM 3 PM
-- Gold Exhibitor tear-down Monday September 11th  5:30pm-7pm
-- Wi-Fi Shared conference Wi-Fi will be available?
+- Gold Exhibitors will have a Monitor for each booth thanks to PoliMI.
+- Gold Exhibitor tear-down Monday, September 11th,  5:30 PM -7 PM
 
-Gold and Silver sponsorships include 2 Coffee breaks and lunch on Monday September 11th, access to the conference talks & expo area, social events, and conference activities.
+
+Gold and Silver sponsorships include 2 Coffee breaks and lunch on Monday, September 11th, access to the conference talks & expo area, social events, and conference activities.
 
 ### Registration
 
-Registration is free of charge and can be performed by subscribing to the [event](https://www.meetup.com/it-IT/owasp-italy-meetup-group/events/294083412/)
+Registration at the Conference is free of charge and can be performed by subscribing to the [event](https://www.meetup.com/it-IT/owasp-italy-meetup-group/events/294083412/)
 
 ### Preparing for the Conference
 Event Location: Politecnico di Milano - Via Edoardo Bonardi, 9 · Milano, MI, phone: +39

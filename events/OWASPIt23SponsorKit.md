@@ -33,9 +33,8 @@ This confirmation packet provides important information including preparing for 
 - Book your hotel room: the event will be at Polimi Aula Rogers. Via Andrea Maria Ampère, 10, 20131 Milano MI, nearby the metro station Piola. We suggested booking your hotel near the Stazione Centrale, for example, Best Western Madison Hotel, 
 NYX Hotel Milan, UNAHOTELS Century Milano.
 - Shipping Materials: you can ship your materials to the University starting from 21st August.
-  Address:
-  
-  Michele Carminati
+
+  Address: Michele Carminati
   Dipartimento di Elettronica, Informazione e Bioingegneria
   Via Giuseppe Ponzio, 34, 20133 Milano MI
 - Gold Exhibitors:

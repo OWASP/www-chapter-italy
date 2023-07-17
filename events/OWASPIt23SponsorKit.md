@@ -57,7 +57,7 @@ Event Location: Politecnico di Milano - Aula Rogers. Via Andrea Maria Ampère, 1
   Dipartimento di Elettronica, Informazione e Bioingegneria
   Via Giuseppe Ponzio, 34, 20133 Milano MI
   
-  Michele Carminati <michele.carminati@polimi.it>
+  <michele.carminati@polimi.it>
 
 OTHER QUESTIONS?
 Is there something we missed? Please Contact Us at matteo.meucci@owasp.org

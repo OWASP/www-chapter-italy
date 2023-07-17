@@ -34,6 +34,7 @@ This confirmation packet provides important information including preparing for 
 NYX Hotel Milan, UNAHOTELS Century Milano.
 - Shipping Materials: you can ship your materials to the University starting from 21st August.
   Address:
+  
   Michele Carminati
   Dipartimento di Elettronica, Informazione e Bioingegneria
   Via Giuseppe Ponzio, 34, 20133 Milano MI
@@ -49,13 +50,14 @@ Gold and Silver sponsorships include 2 Coffee breaks and lunch on Monday, Septem
 Registration at the Conference is free of charge and can be performed by subscribing to the [event](https://www.meetup.com/it-IT/owasp-italy-meetup-group/events/294083412/)
 
 ### Preparing for the Conference
-Event Location: Politecnico di Milano - Via Edoardo Bonardi, 9 · Milano, MI, phone: +39
+Event Location: Politecnico di Milano - Aula Rogers. Via Andrea Maria Ampère, 10, 20131 Milano MI, nearby the metro station Piola
 
 ### Contact Information
-- Matteo Meucci, OWASP-Italy Co-chair matteo.meucci@owasp.org +393283019559
-- University Politecnico of Milan: 
-- Michele Carminati, Ph.D. Assistant Professor (RTDb) Politecnico di Milano - Dip. Elettronica, Informazione e Bioingegneria - NECSTLab
-- Stefano Longari, Postdoctoral Researcher at Politecnico di Milano
+  Michele Carminati
+  Dipartimento di Elettronica, Informazione e Bioingegneria
+  Via Giuseppe Ponzio, 34, 20133 Milano MI
+  
+  Michele Carminati <michele.carminati@polimi.it>
 
 OTHER QUESTIONS?
 Is there something we missed? Please Contact Us at matteo.meucci@owasp.org

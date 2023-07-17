@@ -38,9 +38,10 @@ NYX Hotel Milan, UNAHOTELS Century Milano.
   Michele Carminati
   Dipartimento di Elettronica, Informazione e Bioingegneria
   Via Giuseppe Ponzio, 34, 20133 Milano MI
-- Gold Exhibitor check-in & set-up on Sunday 10th September 10 AM 3 PM
-- Gold Exhibitors will have a Monitor for each booth thanks to PoliMI.
-- Gold Exhibitor tear-down Monday, September 11th,  5:30 PM -7 PM
+- Gold Exhibitors:
+  - check-in & set-up on Sunday 10th September 10 AM 3 PM
+  - thanks to PoliMI, Gold Exhibitors will enjoy the advantage of having a dedicated monitor for each booth.
+  - tear-down Monday, September 11th,  5:30 PM -7 PM
 
 
 Gold and Silver sponsorships include 2 Coffee breaks and lunch on Monday, September 11th, access to the conference talks & expo area, social events, and conference activities.

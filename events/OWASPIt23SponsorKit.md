@@ -36,7 +36,7 @@ NYX Hotel Milan, UNAHOTELS Century Milano.
   Michele Carminati
   Dipartimento di Elettronica, Informazione e Bioingegneria
   Via Giuseppe Ponzio, 34, 20133 Milano MI
-- - Gold Exhibitor check-in & set-up Sunday?September 10th 1pm-5pm?
+- Gold Exhibitor check-in & set-up on Sunday 10th September 10 AM 3 PM
 - Gold Exhibitor tear-down Monday September 11th  5:30pm-7pm
 - Wi-Fi Shared conference Wi-Fi will be available?
 

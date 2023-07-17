@@ -13,12 +13,11 @@ region: Europe
 | :---          | :---         |
 |  |  |
 
-###  /// DRAFT To Review ///
 
 #### OWASP Italy Day 11th September 2023 - Exhibitor Packet 
 
 ## Overview 
-On behalf of the OWASP Foundation, the conference planning team and everyone attending the conference, we would like to thank you for participating in this year’s event.
+On behalf of the OWASP Foundation, the conference planning team, and everyone attending the conference, we would like to thank you for participating in this year’s event.
 
 We want to do everything we can to make your experience as positive and successful as possible. As you go through this kit, we urge you to contact us with any questions or concerns you may have.
 
@@ -30,9 +29,14 @@ This confirmation packet provides important information including preparing for 
 
 ### Checklist
 - Register your onsite team [here](https://www.meetup.com/it-IT/owasp-italy-meetup-group/events/294083412/) 
-- Book your hotel room: Suggested hotels
-- Shipping Materials: Where and when
-- Gold Exhibitor check-in & set-up Sunday?September 10th 1pm-5pm?
+- Book your hotel room: the event will be at Polimi Aula Rogers. Via Andrea Maria Ampère, 10, 20131 Milano MI, nearby the metro station Piola. We suggested to book your hotel near the Stazione Centrale, for example, Best Western Madison Hotel, 
+NYX Hotel Milan, UNAHOTELS Century Milano.
+- Shipping Materials: you can ship your materials to the University starting from 21th August.
+  Address:
+  Michele Carminati
+  Dipartimento di Elettronica, Informazione e Bioingegneria
+  Via Giuseppe Ponzio, 34, 20133 Milano MI
+- - Gold Exhibitor check-in & set-up Sunday?September 10th 1pm-5pm?
 - Gold Exhibitor tear-down Monday September 11th  5:30pm-7pm
 - Wi-Fi Shared conference Wi-Fi will be available?
 

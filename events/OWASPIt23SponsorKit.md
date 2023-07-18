@@ -30,8 +30,8 @@ This confirmation packet provides important information including preparing for 
 ### Checklist
 
 - Register your onsite team [here](https://www.meetup.com/it-IT/owasp-italy-meetup-group/events/294083412/)
-- Book your hotel room: the event will be at Polimi Aula Rogers. Via Andrea Maria Ampère, 10, 20131 Milano MI, nearby the metro station Piola. We suggested booking your hotel near the Stazione Centrale, for example, Best Western Madison Hotel, 
-NYX Hotel Milan, UNAHOTELS Century Milano.
+- Book your hotel room: the event will be at Polimi Aula Rogers. Via Andrea Maria Ampère, 10, 20131 Milano MI, nearby the metro station Piola. We suggested booking your hotel near the Stazione Centrale, for example, 4 stars hotel: Best Western Madison Hotel, NYX Hotel Milan, UNAHOTELS Century Milano, Hotel Dieci, Hotel Lombardia https://hotellombardia.com.
+
 - Shipping Materials: you can ship your materials to the University starting from 21st August.
 
   Address: Michele Carminati

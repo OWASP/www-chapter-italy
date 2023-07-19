@@ -63,6 +63,7 @@ We encourage local students, security professionals, and academics to present pr
 ### Call for Sponsorships is open!
 Please see [**here for details**](https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/2023%20OWASP%20Italy%20Day%20Sponsorship.pdf) 
 
+Exhibitor Packet details [**here**](https://owasp.org/www-chapter-italy/events/OWASPIt23SponsorKit) 
 
 ### REGISTRATION
 

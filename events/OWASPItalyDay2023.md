@@ -38,11 +38,11 @@ Please see [**here for details**](https://easychair.org/cfp/OWASP-IT23)
 Those who are interested in participating as speakers at the conference can submit an abstract of their proposed talk via Easychair by July 23, 2023. 
 The abstract must be in PDF format and should contain the following information: 
 
-    Name and surname of the speaker
-    Institutions and roles of the speaker therein
-    Short biography of the speaker
-    Title of the contribution 
-    Abstract of the presentation
+- Name and surname of the speaker
+- Institutions and roles of the speaker therein
+- Short biography of the speaker
+- Title of the contribution 
+- Abstract of the presentation
 
 The submission must be no longer than 2 pages overall. No additional formatting requirements are in place.
 

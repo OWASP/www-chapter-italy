@@ -26,8 +26,13 @@ The goal of the event is to stimulate interest in web application security and s
 
 <img src="https://github.com/OWASP/www-chapter-italy/blob/fa210fb801c80db191f922d10775bef2a25161ae/assets/images/Contrast%20Logo%2023.png?raw=true" width=400/>
 
+### PROGRAM
 
-### Call for Paper is open!
+The event will take place from 9 AM to 5 PM (Italian time). We are working on the program at the moment.
+
+#### Claudio Criscione, Senior Staff Cybersecurity Manager at Google, will be the esteemed keynote speaker at the upcoming OWASP Italy Day 2023! ####
+
+### Call for Paper is open! (Deadline: July 23rd)
 Please see [**here for details**](https://easychair.org/cfp/OWASP-IT23)
 
 Those who are interested in participating as speakers at the conference can submit an abstract of their proposed talk via Easychair by July 23, 2023. 
@@ -42,23 +47,6 @@ The abstract must be in PDF format and should contain the following information:
 The submission must be no longer than 2 pages overall. No additional formatting requirements are in place.
 
 The submission will be reviewed by the program committee and the most interesting talk proposals will be selected for the conference.
-List of Topics
-
-Selected topics of interest include:
-
-    DevSecOps
-    Threat modeling
-    Blockchain and smart contract security
-    Mobile security: emerging topics and new attack techniques
-    IoT security
-    Ransomware and cyber threats
-    Security of AI and AI for security
-    Web security: emerging topics and new attack techniques
-    Automotive security
-    Risk assessment and management
-    Security architectures
-
-We encourage local students, security professionals, and academics to present proposals as an opportunity to share knowledge and lessons learned on relevant application and software security topics with previous experience in presenting at security conferences. 
 
 ### Call for Sponsorships is open!
 Please see [**here for details**](https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/2023%20OWASP%20Italy%20Day%20Sponsorship.pdf) 
@@ -68,11 +56,6 @@ Exhibitor Packet details [**here**](https://owasp.org/www-chapter-italy/events/O
 ### REGISTRATION
 
 Registration is free of charge and can be performed by subscribing to the [event](https://www.meetup.com/it-IT/owasp-italy-meetup-group/events/294083412/) in the [OWASP Italy Meetup](https://www.meetup.com/it-IT/owasp-italy-meetup-group/). We encourage participants to subscribe to the meetup to be informed about future events organized by the chapter.
-
-
-### PROGRAM
-
-The event will take place from 9 AM to 5 PM (Italian time). We are working on the program at the moment.
 
 
 ### ORGANIZERS

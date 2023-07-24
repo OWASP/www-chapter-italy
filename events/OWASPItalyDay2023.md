@@ -9,9 +9,8 @@ region: Europe
 
 ---
 
-| <img src="https://owasp.org/assets/images/logo.png"/> | <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/01_Polimi_centrato_COL_positivo.jpg?raw=true"/>|
-| :---          | :---         |
-|  |  |
+<img src="https://github.com/OWASP/www-chapter-italy/blob/b1d8a596668be9d839639ec037711305d9d18f86/assets/images/OWASP%20Italy%20Day%202023%20-2%20.jpg"/>
+
 
 In collaboration with Politecnico di Milano (Polimi) University, we are excited to announce the upcoming OWASP Italy Day 2023 on September 11th. It will be a full-day event dedicated to application security (AppSec)!
 
@@ -64,6 +63,10 @@ Registration is free of charge and can be performed by subscribing to the [event
 - Stefano Zanero, full professor at DEIB, the computer engineering department of Politecnico di Milano.
 - Michele Carminati, Ph.D. Assistant Professor (RTDb) Politecnico di Milano - Dip. Elettronica, Informazione e Bioingegneria - NECSTLab
 - Stefano Longari, Postdoctoral Researcher at Politecnico di Milano
+
+| <img src="https://owasp.org/assets/images/logo.png"/> | <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/01_Polimi_centrato_COL_positivo.jpg?raw=true"/>|
+| :---          | :---         |
+|  |  |
 
 
 Back to the [OWASP-Italy Chapter](https://owasp.org/www-chapter-italy)

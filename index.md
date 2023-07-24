@@ -9,7 +9,7 @@ region: Europe
 
 ---
 
-<a href="https://owasp.org/www-chapter-italy/"><img src="https://github.com/OWASP/www-chapter-italy/assets/images/owsapitalia.jpg?raw=true width=400" alt="OWASP-Italy"/></a>
+<a href="https://owasp.org/www-chapter-italy/"><img src="https://github.com/OWASP/www-chapter-italy/assets/images/owsapitalia.jpg?raw=true" width=400 alt="OWASP-Italy"/></a>
 
 # Welcome to the OWASP Italy Chapter!
 

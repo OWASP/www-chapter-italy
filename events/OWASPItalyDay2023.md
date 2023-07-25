@@ -30,22 +30,6 @@ The event will take place from 9 AM to 5 PM (Italian time). We are working on th
 
 #### Claudio Criscione, Senior Staff Cybersecurity Manager at Google, will be the esteemed keynote speaker at the upcoming OWASP Italy Day 2023! ####
 
-### Call for Paper is open! (Deadline: July 23rd)
-Please see [**here for details**](https://easychair.org/cfp/OWASP-IT23)
-
-Those who are interested in participating as speakers at the conference can submit an abstract of their proposed talk via Easychair by July 23, 2023. 
-The abstract must be in PDF format and should contain the following information: 
-
-- Name and surname of the speaker
-- Institutions and roles of the speaker therein
-- Short biography of the speaker
-- Title of the contribution 
-- Abstract of the presentation
-
-The submission must be no longer than 2 pages overall. No additional formatting requirements are in place.
-
-The submission will be reviewed by the program committee and the most interesting talk proposals will be selected for the conference.
-
 ### Call for Sponsorships is open!
 Please see [**here for details**](https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/2023%20OWASP%20Italy%20Day%20Sponsorship.pdf) 
 

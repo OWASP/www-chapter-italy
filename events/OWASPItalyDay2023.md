@@ -26,7 +26,8 @@ The goal of the event is to stimulate interest in web application security and s
 
 ### PROGRAM
 
-The event will take place from 9 AM to 6 PM (Italian time). The conference will be in Italian language.
+The event will take place from 9 AM to 6 PM (Italian time). 
+#### The conference will be in Italian language
 
 <img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda1.jpg?raw=true" width=800 />  
 

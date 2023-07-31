@@ -22,7 +22,13 @@ The goal of the event is to stimulate interest in web application security and s
 
 #### GOLD SPONSORS
 
- <img src="https://github.com/OWASP/www-chapter-italy/blob/fa210fb801c80db191f922d10775bef2a25161ae/assets/images/Contrast%20Logo%2023.png?raw=true" width=300/>  <img src="https://github.com/OWASP/www-chapter-italy/blob/47e761ab0fc3122101dcf90f7bc0c97f839cee7e/assets/images/SecureFlag_POS.jpg?raw=true" width=400 />
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/fa210fb801c80db191f922d10775bef2a25161ae/assets/images/Contrast%20Logo%2023.png?raw=true" width=300/>  
+ 
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/47e761ab0fc3122101dcf90f7bc0c97f839cee7e/assets/images/SecureFlag_POS.jpg?raw=true" width=400 />
+
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/92d8b9ce16c67a4f0d025adb221b9c0217244d5b/assets/images/Qualys.png?raw=true" width=400 />
+
+ 
 
 ### PROGRAM
 

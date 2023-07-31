@@ -32,7 +32,7 @@ The event will take place from 9 AM to 6 PM (Italian time). The conference will 
 
 <img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda2.jpg?raw=true" width=800 />  
 
-<img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda3.jpg?raw=true" width=800 />  
+<img src="https://github.com/OWASP/www-chapter-italy/blob/ef4afe1a9ed2ab117410dca7fdc7e847ac702e59/assets/images/OWASP%20Italy%20Day%202023AGenda3.png?raw=true" width=800 />  
 
 <img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda4.jpg?raw=true" width=800 />  
 

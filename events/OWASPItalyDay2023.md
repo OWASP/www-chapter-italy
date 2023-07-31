@@ -28,9 +28,14 @@ The goal of the event is to stimulate interest in web application security and s
 
 The event will take place from 9 AM to 6 PM (Italian time). The conference will be in Italian language.
 
-<img src="https://github.com/OWASP/www-chapter-italy/blob/6314888a9b4dfd3e77fab2d7d9e273e63b657ebc/assets/images/OWASP%20Italy%20Day%202023AGenda1.jpg?raw=true" width=800 />  
+<img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda1.jpg?raw=true" width=800 />  
 
-#### Claudio Criscione, Senior Staff Cybersecurity Manager at Google, will be the esteemed keynote speaker at the upcoming OWASP Italy Day 2023! ####
+<img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda2.jpg?raw=true" width=800 />  
+
+<img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda3.jpg?raw=true" width=800 />  
+
+<img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda4.jpg?raw=true" width=800 />  
+
 
 ### Call for Sponsorships is open!
 Please see [**here for details**](https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/2023%20OWASP%20Italy%20Day%20Sponsorship.pdf) 
@@ -41,6 +46,7 @@ Exhibitor Packet details [**here**](https://owasp.org/www-chapter-italy/events/O
 
 Registration is free of charge and can be performed by subscribing to the [event](https://www.meetup.com/it-IT/owasp-italy-meetup-group/events/294083412/) in the [OWASP Italy Meetup](https://www.meetup.com/it-IT/owasp-italy-meetup-group/). We encourage participants to subscribe to the meetup to be informed about future events organized by the chapter.
 
+WHERE: Via Andrea Maria Ampère, 10, 20131 Milano MI - Building 11, Politecnico di Milano
 
 ### ORGANIZERS
 - Matteo Meucci, OWASP Italy Chair & IMQ Minded Security

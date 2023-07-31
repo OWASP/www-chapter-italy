@@ -26,7 +26,9 @@ The goal of the event is to stimulate interest in web application security and s
 
 ### PROGRAM
 
-The event will take place from 9 AM to 5 PM (Italian time). We are working on the program at the moment.
+The event will take place from 9 AM to 6 PM (Italian time). The conference will be in Italian language.
+
+<img src="https://github.com/OWASP/www-chapter-italy/blob/6314888a9b4dfd3e77fab2d7d9e273e63b657ebc/assets/images/OWASP%20Italy%20Day%202023AGenda1.jpg?raw=true" width=800 />  
 
 #### Claudio Criscione, Senior Staff Cybersecurity Manager at Google, will be the esteemed keynote speaker at the upcoming OWASP Italy Day 2023! ####
 

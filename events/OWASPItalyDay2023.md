@@ -53,8 +53,7 @@ The event will take place from 9 AM to 6 PM (Italian time).
 <img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda4.jpg?raw=true" width=800 />  
 
 
-### Call for Sponsorships is open!
-Please see [**here for details**](https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/2023%20OWASP%20Italy%20Day%20Sponsorship.pdf) 
+### Call for Sponsorships is CLOSED!
 
 Exhibitor Packet details [**here**](https://owasp.org/www-chapter-italy/events/OWASPIt23SponsorKit) 
 

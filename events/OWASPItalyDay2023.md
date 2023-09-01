@@ -37,6 +37,15 @@ The goal of the event is to stimulate interest in web application security and s
 </td>
   </tr>
 </table>
+
+#### BRONZE SPONSOR
+<table cellpadding="3" cellspacing="0" border="0" colour="0">
+<tr>
+<td>
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/2232bf7c2f2c32646f743f175682f1057847f65b/assets/images/MobisecLogo.png?raw=true" width=200/> 
+ </td>
+  </tr>
+</table>
  
 
 ### PROGRAM

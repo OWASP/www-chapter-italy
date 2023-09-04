@@ -65,10 +65,6 @@ WHERE: Via Andrea Maria Ampère, 10, 20131 Milano MI - Building 11, Politecnico 
 <img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda4.jpg?raw=true" width=800 />  
 
 
-### Call for Sponsorships is CLOSED!
-
-Exhibitor Packet details [**here**](https://owasp.org/www-chapter-italy/events/OWASPIt23SponsorKit) 
-
 ### REGISTRATION
 Important Registration Update
 

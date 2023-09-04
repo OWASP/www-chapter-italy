@@ -42,7 +42,7 @@ The goal of the event is to stimulate interest in web application security and s
 <table cellpadding="3" cellspacing="0" border="0" colour="0">
 <tr>
 <td>
- <img src="https://github.com/OWASP/www-chapter-italy/blob/2232bf7c2f2c32646f743f175682f1057847f65b/assets/images/MobisecLogo.png?raw=true" width=200/> 
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/2232bf7c2f2c32646f743f175682f1057847f65b/assets/images/MobisecLogo.png?raw=true" width=100/> 
  </td>
   </tr>
 </table>
@@ -51,7 +51,10 @@ The goal of the event is to stimulate interest in web application security and s
 ### PROGRAM
 
 The event will take place from 9 AM to 6 PM (Italian time). 
+
 #### The conference will be in Italian language
+
+WHERE: Via Andrea Maria Ampère, 10, 20131 Milano MI - Building 11, Politecnico di Milano
 
 <img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda1.jpg?raw=true" width=800 />  
 
@@ -67,8 +70,20 @@ The event will take place from 9 AM to 6 PM (Italian time).
 Exhibitor Packet details [**here**](https://owasp.org/www-chapter-italy/events/OWASPIt23SponsorKit) 
 
 ### REGISTRATION
+Important Registration Update
 
-Registration is free of charge and can be performed by subscribing to the [event](https://www.meetup.com/it-IT/owasp-italy-meetup-group/events/294083412/) in the [OWASP Italy Meetup](https://www.meetup.com/it-IT/owasp-italy-meetup-group/). We encourage participants to subscribe to the meetup to be informed about future events organized by the chapter.
+We would like to inform you that due to an overwhelming response, registration for the upcoming OWASP Italy event in collaboration with Politecnico di Milano is now limited. To secure your spot, please follow the instructions below:
+
+Step 1: Send an email to owasp-italy@owasp.org with the following details:
+
+Your Full Name
+Surname
+Email Address
+Sponsor Consensus (Yes/No)
+
+Step 2: Once we receive your email, our team will process your request and provide you with a confirmation.
+
+We apologize for any inconvenience this may cause and appreciate your understanding. This step is necessary to ensure the smooth execution of the event while accommodating the high demand for registrations.
 
 WHERE: Via Andrea Maria Ampère, 10, 20131 Milano MI - Building 11, Politecnico di Milano
 

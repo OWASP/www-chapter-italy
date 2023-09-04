@@ -60,7 +60,7 @@ WHERE: Via Andrea Maria Ampère, 10, 20131 Milano MI - Building 11, Politecnico 
 
 <img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda2.jpg?raw=true" width=800 />  
 
-<img src="https://github.com/OWASP/www-chapter-italy/blob/ef4afe1a9ed2ab117410dca7fdc7e847ac702e59/assets/images/OWASP%20Italy%20Day%202023AGenda3.png?raw=true" width=800 />  
+<img src="https://github.com/OWASP/www-chapter-italy/blob/9e418c4fc6b0de90614e915e8a2348e169addab0/assets/images/OWASP%20Italy%20Day%202023AGenda3.png?raw=true" width=800 />  
 
 <img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda4.jpg?raw=true" width=800 />  
 

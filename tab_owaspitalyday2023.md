@@ -13,6 +13,5 @@ region: Europe
 
 For further details regarding the OWASP Italy Day 2023, please refer to the following [link](https://owasp.org/www-chapter-italy/events/OWASPItalyDay2023)
 
-Please register [here](https://www.meetup.com/it-IT/owasp-italy-meetup-group/events/294083412/)
 
 

@@ -19,6 +19,7 @@ The event is primarily intended to appeal to security professionals, software de
 
 The goal of the event is to stimulate interest in web application security and secure software engineering practices and foster new initiatives within organizations.
 
+#### WHERE: Via Andrea Maria Ampère, 10, 20131 Milano MI - Building 11, Politecnico di Milano
 
 #### GOLD SPONSORS
 <table cellpadding="3" cellspacing="0" border="0">
@@ -54,8 +55,6 @@ The event will take place from 9 AM to 6 PM (Italian time).
 
 #### The conference will be in Italian language
 
-WHERE: Via Andrea Maria Ampère, 10, 20131 Milano MI - Building 11, Politecnico di Milano
-
 <img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda1.jpg?raw=true" width=800 />  
 
 <img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda2.jpg?raw=true" width=800 />  
@@ -71,8 +70,6 @@ Important Registration Update
 We would like to inform you that due to an overwhelming response, registration for the upcoming OWASP Italy event in collaboration with Politecnico di Milano is now closed.
 
 We apologize for any inconvenience this may cause and appreciate your understanding. 
-
-WHERE: Via Andrea Maria Ampère, 10, 20131 Milano MI - Building 11, Politecnico di Milano
 
 ### ORGANIZERS
 - Matteo Meucci, OWASP Italy Chair & IMQ Minded Security

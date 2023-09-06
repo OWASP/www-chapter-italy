@@ -65,21 +65,12 @@ WHERE: Via Andrea Maria Ampère, 10, 20131 Milano MI - Building 11, Politecnico 
 <img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda4.jpg?raw=true" width=800 />  
 
 
-### REGISTRATION
+### REGISTRATION IS NOW CLOSED
 Important Registration Update
 
-We would like to inform you that due to an overwhelming response, registration for the upcoming OWASP Italy event in collaboration with Politecnico di Milano is now limited. To secure your spot, please follow the instructions below:
+We would like to inform you that due to an overwhelming response, registration for the upcoming OWASP Italy event in collaboration with Politecnico di Milano is now closed.
 
-Step 1: Send an email to owasp-italy@owasp.org with the following details:
-
-Your Full Name
-Surname
-Email Address
-Sponsor Consensus (Yes/No)
-
-Step 2: Once we receive your email, our team will process your request and provide you with a confirmation.
-
-We apologize for any inconvenience this may cause and appreciate your understanding. This step is necessary to ensure the smooth execution of the event while accommodating the high demand for registrations.
+We apologize for any inconvenience this may cause and appreciate your understanding. 
 
 WHERE: Via Andrea Maria Ampère, 10, 20131 Milano MI - Building 11, Politecnico di Milano
 

@@ -21,7 +21,7 @@ The goal of the event is to stimulate interest in web application security and s
 
 #### WHERE: Via Andrea Maria Ampère, 10, 20131 Milano MI - Building 11, Politecnico di Milano
 
-
+---
 #### GOLD SPONSORS
 <table cellpadding="3" cellspacing="0" border="0">
 <tr>
@@ -49,7 +49,9 @@ The goal of the event is to stimulate interest in web application security and s
   </tr>
 </table>
 
- 
+
+---
+
 
 ### PROGRAM
 
@@ -66,6 +68,8 @@ The event will take place from 9 AM to 6 PM (Italian time).
 
 <img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda4.jpg?raw=true" width=800 />  
 
+
+---
 
 ### REGISTRATION IS NOW CLOSED
 Important Registration Update

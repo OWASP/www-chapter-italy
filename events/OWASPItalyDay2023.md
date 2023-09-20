@@ -23,7 +23,9 @@ The event was primarily intended to appeal to security professionals, software d
 <table cellpadding="3" cellspacing="0" border="0">
 <tr>
 <td>
+ <a href=”https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Claudio%20Criscione%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi.pdf”> 
  <img src="https://github.com/OWASP/www-chapter-italy/blob/fa210fb801c80db191f922d10775bef2a25161ae/assets/images/Contrast%20Logo%2023.png?raw=true" width=300/> 
+   </a> 
  </td>
  <td>
  <img src="https://github.com/OWASP/www-chapter-italy/blob/47e761ab0fc3122101dcf90f7bc0c97f839cee7e/assets/images/SecureFlag_POS.jpg?raw=true" width=400 /> 

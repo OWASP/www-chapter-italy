@@ -51,17 +51,72 @@ The event was primarily intended to appeal to security professionals, software d
 
 
 
-### PROGRAM
-
+### PROGRAM AND SLIDES
 
 
 <img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda1.jpg?raw=true" width=800 />  
 
+<table cellpadding="3" cellspacing="0" border="0">
+<tr>
+<td>
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/CriscioneSlide.png?raw=true" width=300/> 
+ </td>
+ <td>
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/ArduinoSlide.png?raw=true" width=300 /> 
+ </td>
+ <td>
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/Bertanislide.png?raw=true" width=300 />
+</td>
+  </tr>
+</table>
+
+
 <img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda2.jpg?raw=true" width=800 />  
 
+<table cellpadding="3" cellspacing="0" border="0">
+<tr>
+<td>
+ <img src="?raw=true" width=300/> 
+ </td>
+ <td>
+ <img src="?raw=true" width=300 /> 
+ </td>
+ <td>
+ <img src="?raw=true" width=300 />
+</td>
+  </tr>
+</table>
+
 <img src="https://github.com/OWASP/www-chapter-italy/blob/9833c701dcd44381b257088d15da79e78a74a01d/assets/images/OWASP23Agenda3.jpg?raw=true" width=800 />  
+<table cellpadding="3" cellspacing="0" border="0">
+<tr>
+<td>
+ <img src="?raw=true" width=300/> 
+ </td>
+ <td>
+ <img src="?raw=true" width=300 /> 
+ </td>
+ <td>
+ <img src="?raw=true" width=300 />
+</td>
+  </tr>
+</table>
 
 <img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda4.jpg?raw=true" width=800 />  
+
+<table cellpadding="3" cellspacing="0" border="0">
+<tr>
+<td>
+ <img src="?raw=true" width=300/> 
+ </td>
+ <td>
+ <img src="?raw=true" width=300 /> 
+ </td>
+ <td>
+ <img src="?raw=true" width=300 />
+</td>
+  </tr>
+</table>
 
 
 ---

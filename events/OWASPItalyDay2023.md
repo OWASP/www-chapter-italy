@@ -54,7 +54,7 @@ The event was primarily intended to appeal to security professionals, software d
 ### PROGRAM AND SLIDES
 
 
-<img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda1.jpg?raw=true" width=800 />  
+<img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda1.jpg?raw=true" width=900 />  
 
 <table cellpadding="3" cellspacing="0" border="0">
 <tr>
@@ -71,19 +71,16 @@ The event was primarily intended to appeal to security professionals, software d
 </table>
 
 
-<img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda2.jpg?raw=true" width=800 />  
+<img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda2.jpg?raw=true" width=900 />  
 
 <table cellpadding="3" cellspacing="0" border="0">
 <tr>
 <td>
- <img src="?raw=true" width=300/> 
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/SpagliSlide.png?raw=true" width=300/> 
  </td>
  <td>
- <img src="?raw=true" width=300 /> 
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/CurziSlide.png?raw=true" width=300 /> 
  </td>
- <td>
- <img src="?raw=true" width=300 />
-</td>
   </tr>
 </table>
 
@@ -91,29 +88,28 @@ The event was primarily intended to appeal to security professionals, software d
 <table cellpadding="3" cellspacing="0" border="0">
 <tr>
 <td>
- <img src="?raw=true" width=300/> 
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/SucciSlide.png?raw=true" width=300/> 
  </td>
  <td>
- <img src="?raw=true" width=300 /> 
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/SpagnoloSlide.png
+?raw=true" width=300 /> 
  </td>
- <td>
- <img src="?raw=true" width=300 />
-</td>
   </tr>
 </table>
 
-<img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda4.jpg?raw=true" width=800 />  
+<img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda4.jpg?raw=true" width=900 />  
 
 <table cellpadding="3" cellspacing="0" border="0">
 <tr>
 <td>
- <img src="?raw=true" width=300/> 
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/OnofriSlide.png?raw=true" width=300/> 
  </td>
  <td>
- <img src="?raw=true" width=300 /> 
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/CardelliSlide.png?raw=true" width=300 /> 
  </td>
  <td>
- <img src="?raw=true" width=300 />
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/DiBonaventuraSlide.png
+?raw=true" width=300 />
 </td>
   </tr>
 </table>

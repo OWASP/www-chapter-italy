@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: OWASP Italy
 tags: home, Italy
+country: Italy
 level: 0
 site_side: true
 region: Europe

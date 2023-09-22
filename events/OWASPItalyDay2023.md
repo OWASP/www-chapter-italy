@@ -95,10 +95,11 @@ The event was primarily intended to appeal to security professionals, software d
    [Simone Curzi](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Simone%20Curzi%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi.pptx.pdf) 
    
 <p align="center">
- <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/SucciSlide.png?raw=true" width=300/> 
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/SucciSlide.png?raw=true" width=600/> 
 </p>
 
-    [Andrea Succi](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Andrea%20Succi%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi%20_vF.pptx.pdf)
+ [Andrea Succi](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Andrea%20Succi%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi%20_vF.pptx.pdf)
+       
 
 <p align="center">
  <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/SpagnoloSlide.png

@@ -59,17 +59,6 @@ The event was primarily intended to appeal to security professionals, software d
 
 <img src="https://github.com/OWASP/www-chapter-italy/blob/d2c3f3c412a262548192e78d45312b613905b80f/assets/images/OWASP%20Italy%20Day%202023AGenda2.jpg?raw=true" width=1000 />  
 
-<table cellpadding="3" cellspacing="0" border="0">
-<tr>
-<td>
- <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/SpagliSlide.png?raw=true" width=300/> 
- </td>
- <td>
- <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/CurziSlide.png?raw=true" width=300 /> 
- </td>
-  </tr>
-</table>
-
 <img src="https://github.com/OWASP/www-chapter-italy/blob/9833c701dcd44381b257088d15da79e78a74a01d/assets/images/OWASP23Agenda3.jpg?raw=true" width=1000 />  
 <table cellpadding="3" cellspacing="0" border="0">
 <tr>
@@ -114,6 +103,15 @@ The event was primarily intended to appeal to security professionals, software d
  <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/Bertanislide.png?raw=true" width=300 /> 
 
   [Slide here](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Alessandro%20Bertani%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi.pdf) 
+
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/SpagliSlide.png?raw=true" width=300/> 
+
+  [Slide here](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Paolo%20Spagli%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi%20-%20v2.pdf) 
+
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/CurziSlide.png?raw=true" width=300 /> 
+
+   [Slide here](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Simone%20Curzi%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi.pptx.pdf) 
+
   
 
 ---

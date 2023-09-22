@@ -65,49 +65,66 @@ The event was primarily intended to appeal to security professionals, software d
 ---
 ### SLIDES
 <p align="center">
-
 <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/CriscioneSlide.png?raw=true" width=600 /> 
 </p>
 
-  [Slide here](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Claudio%20Criscione%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi.pdf) 
+  [Claudio Crisione](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Claudio%20Criscione%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi.pdf) 
+  
   <p align="center">
  <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/ArduinoSlide.png?raw=true" width=600 /> 
  </p> 
- [Slide here](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Arduino%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi.pptx%20-%202.0.pdf) 
+ 
+ [Braccio Pelenc](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Arduino%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi.pptx%20-%202.0.pdf) 
+ 
  <p align="center">
  <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/Bertanislide.png?raw=true" width=600 /> 
 </p>
-  [Slide here](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Alessandro%20Bertani%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi.pdf) 
+
+  [Alessandro Bertani](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Alessandro%20Bertani%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi.pdf) 
+  
 <p align="center">
  <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/SpagliSlide.png?raw=true" width=600/> 
 </p>
-  [Slide here](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Paolo%20Spagli%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi%20-%20v2.pdf) 
+
+  [Paolo Spagli](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Paolo%20Spagli%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi%20-%20v2.pdf) 
+  
 <p align="center">
  <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/CurziSlide.png?raw=true" width=600 /> 
 </p>
-   [Slide here](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Simone%20Curzi%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi.pptx.pdf) 
+
+   [Simone Curzi](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Simone%20Curzi%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi.pptx.pdf) 
+   
 <p align="center">
  <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/SucciSlide.png?raw=true" width=300/> 
 </p>
-    [Slide here](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Andrea%20Succi%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi%20_vF.pptx.pdf) 
+
+    [Andrea Succi](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Andrea%20Succi%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi%20_vF.pptx.pdf)
+
 <p align="center">
  <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/SpagnoloSlide.png
 ?raw=true" width=600 /> 
 </p>
-   [Slide here](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Gregor%20Spagnolo%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi.pdf) 
+
+   [Gregor Spagnolo](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Gregor%20Spagnolo%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi.pdf) 
+   
 <p align="center">
  <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/OnofriSlide.png?raw=true" width=600/> 
 </p>
-[Slide here](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Simone%20Onofri%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi_v02.pptx.pdf) 
+
+[Simone Onofri](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Simone%20Onofri%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi_v02.pptx.pdf) 
+
 <p align="center">
  <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/CardelliSlide.png?raw=true" width=600 /> 
 </p>
- [Slide here](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Riccardo%20Cardelli%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi.pdf) 
+
+ [Riccardo Cardelli](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Riccardo%20Cardelli%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi.pdf) 
+ 
 <p align="center">
  <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/DiBonaventuraSlide.png
 ?raw=true" width=600 />
 </p>
-[Slide here](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Michele%20Di%20Bonaventura%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi_FINAL.pdf) 
+
+[Michele Di Bonaventura](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Michele%20Di%20Bonaventura%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi_FINAL.pdf) 
 
   
 

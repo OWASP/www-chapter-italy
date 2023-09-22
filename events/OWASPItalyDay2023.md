@@ -61,12 +61,19 @@ The event was primarily intended to appeal to security professionals, software d
 <tr>
 <td>
 <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/CriscioneSlide.png?raw=true" width=300 /> 
+ 
+ [**Slide here**](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Claudio%20Criscione%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi.pdf) 
+
  </td>
  <td>
  <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/ArduinoSlide.png?raw=true" width=300 /> 
+  
+ [**Slide here**](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Arduino%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi.pptx%20-%202.0.pdf) 
  </td>
  <td>
- <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/Bertanislide.png?raw=true" width=300 />
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/3cec62dbac090c74fcd2156538198eb705822c7d/assets/images/Bertanislide.png?raw=true" width=300 /> 
+
+  [**Slide here**](https://github.com/OWASP/www-chapter-italy/blob/96201991fdfef280a67d3b41b85e7715d53115d8/assets/images/Alessandro%20Bertani%20-%20OWASP%20Italy%20Day%202023%20-%2011th%20Sept%20PoliMi.pdf) 
 </td>
   </tr>
 </table>

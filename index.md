@@ -36,7 +36,9 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 We are planning the following event for 2023:
 
 ### Meetup online meetings - 24th November 2023
-Stay tuned!
+For further details regarding the next online meeting, please refer to the following [link](https://owasp.org/www-chapter-italy/events/owaspit-24112023)
+
+## Past Events 2023
 
 ### OWASP Italy Day - PoliMi University - 11th September 2023
 

@@ -32,13 +32,18 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
-## Planned Events
-We are planning the following event for 2023:
+## 2024 Planned Events
+We are planning the following events for 2024:
+- 3 Meetup online meetings
+- 1 OWASP Italy Day
 
-### Meetup online meetings - 24th November 2023
-For further details regarding the next online meeting, please refer to the following [link](https://owasp.org/www-chapter-italy/events/owaspit-24112023)
+Stay tuned for the next update!  
+
 
 ## Past Events 2023
+
+### Meetup online meetings - 24th November 2023
+For further details regarding the event, please refer to the following [link](https://owasp.org/www-chapter-italy/events/owaspit-24112023)
 
 ### OWASP Italy Day - PoliMi University - 11th September 2023
 

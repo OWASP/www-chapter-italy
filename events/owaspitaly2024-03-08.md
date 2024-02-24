@@ -35,7 +35,7 @@ OAuth 2.0 requires a complex redirection trail between websites and Identity Pro
 In this talk, I will present recent attack trends in conjunction with the research trends to identify the source of the problem that allowed us to generate our hypothesis.
 Based on this observation, I will present novel attack techniques and the experiment that allowed us to verify that the OAuth 2.0 security guidance is under-specified empirically. Finally, I will explain end-to-end attack scenarios that combine our attack techniques with common web application vulnerabilities, ultimately resulting in a complete compromise of the secure delegated access that OAuth 2.0 promises.
 
-#### Luca Demetrio - Ph.D Assistant Professor at the University of Genoa, Andrea Valenza - Application Security Engineer at Prima Assicurazioni
+#### Luca Demetrio - Ph.D, Assistant Professor at the University of Genoa, Andrea Valenza - Ph.D, Application Security Engineer at Prima Assicurazioni
 Talk: "Automatically Test (and Sometimes Bypass) Web Application Firewalls"
 Abstract
 Web Application Firewalls (WAFs) are hugely popular since they block (most) attacks with low maintenance effort. However, testing their effectiveness can be challenging, often involving a trade-off between the speed of automatic testing and the precision of manual testing.

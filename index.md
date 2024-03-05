@@ -39,7 +39,7 @@ For further details and registration regarding the event, please refer to the fo
 For further details and registration regarding the event, please refer to the following [link](https://securitysummit.it/milano-2024/seminario-owasp)
 
 ## 20th June: OWASP Italy Day in Cagliari!
-For further details and registration regarding the event, please refer to the following [link](https://owasp.org/www-chapter-italy/events/owaspitalyDay2024-06-20)
+For further details and registration regarding the event, please refer to the following [link](https://owasp.org/www-chapter-italy/events/OwaspItalyDay2024-06-20)
 
 ## 2024 Planned Events
 We are planning the following events for 2024:

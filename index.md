@@ -35,10 +35,15 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ## Next incoming event: 8th March 2024
 For further details and registration regarding the event, please refer to the following [link](https://owasp.org/www-chapter-italy/events/owaspitaly2024-03-08)
 
+## 21st March 2024: OWASP Italy at Security Summit 2024
+For further details and registration regarding the event, please refer to the following [link](https://securitysummit.it/milano-2024/seminario-owasp)
+
+## 20th June: OWASP Italy Day in Cagliari!
+For further details and registration regarding the event, please refer to the following [link](https://owasp.org/www-chapter-italy/events/owaspitalyDay2024-06-20)
+
 ## 2024 Planned Events
 We are planning the following events for 2024:
-- 2 Meetup online meetings
-- 1 OWASP Italy Day next 20th June in Cagliari (Italy)
+- 2 Meetup online meetings: July and November
 
 Stay tuned for the next update!  
 

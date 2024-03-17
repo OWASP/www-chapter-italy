@@ -26,7 +26,7 @@ We are delighted to announce a strong program featuring 3 distinguished experts 
 <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/IMG_0254.jpg?raw=true" width=600 /> 
   </p>
 
-  [Tommaso Innocenti](https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/assets/images/Tommaso Innocenti_OWASP_italy_08032024.pdf) 
+  [Tommaso Innocenti](https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/Tommaso Innocenti_OWASP_italy_08032024.pdf) 
   
   <p align="center">
  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/IMG_0253.jpg?raw=true" width=600 /> 

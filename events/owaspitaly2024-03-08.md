@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Italy March Meetup
+title: OWASP Italy March 2024 Meetup
 tags: event, Italy
 level: 0
 site_side: true
@@ -9,11 +9,11 @@ region: Europe
 
 ---
 
-The OWASP Italy March 2024 Meetup will be a virtual event on March 8th, 2024. This is a free, informal event, aimed at increasing awareness and knowledge of web application security. The event was primarily intended to appeal to security professionals, software developers, software quality engineers, and computer science students with a strong interest in computer security. The goal of the event was to stimulate interest in web application security, secure software engineering practices and foster new initiatives within organizations.
+The OWASP Italy March 2024 Meetup was a virtual event on March 8th, 2024. This was a free, informal event, aimed at increasing awareness and knowledge of web application security. The event was primarily intended to appeal to security professionals, software developers, software quality engineers, and computer science students with a strong interest in computer security. The goal of the event was to stimulate interest in web application security, secure software engineering practices and foster new initiatives within organizations.
 
 ### PROGRAM
 
-The event will take place from 4 PM to 6 PM (CET time) over Zoom. We are delighted to announce a strong program featuring 3 distinguished experts in the field of cybersecurity:
+We are delighted to announce a strong program featuring 3 distinguished experts in the field of cybersecurity:
 
 | Time          | Speakers                                                                           | Title                                                                  |
 | :---          | :---                                                                               | :---                                                                   |
@@ -21,6 +21,19 @@ The event will take place from 4 PM to 6 PM (CET time) over Zoom. We are delight
 | 16.15 - 17.00 | Tommaso Innocenti                                                                  | OAuth 2.0 Redirect URI Validation Falls Short,Literally                |
 | 17.00 - 17.45 | Luca Demetrio, Andrea Valenza                                                      | Automatically Test (and Sometimes Bypass) Web Application Firewalls    |
 
+### SLIDES
+<p align="center">
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/IMG_0254.jpg?raw=true" width=600 /> 
+  </p>
+
+  [Tommaso Innocenti](https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/assets/images/Tommaso Innocenti_OWASP_italy_08032024.pdf) 
+  
+  <p align="center">
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/IMG_0253.jpg?raw=true" width=600 /> 
+   </p>
+
+ [Luca Demetrio and Andrea Valenza](https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/WAF-Testing_Valenza-Demetrio.pdf) 
+ 
 
 ### REGISTRATION
 

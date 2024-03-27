@@ -47,10 +47,10 @@ We are planning the following events for 2024:
 
 ## Past Event 2024: 
 
-## 21st March 2024: OWASP Italy at Security Summit 2024
+### 21st March 2024: OWASP Italy at Security Summit 2024
 Please refer to the following [link](https://securitysummit.it/milano-2024/seminario-owasp)
 
-## 8th March 2024 - OWASP Italy Meetup
+### 8th March 2024 - OWASP Italy Meetup
 Please refer to the following [link](https://owasp.org/www-chapter-italy/events/owaspitaly2024-03-08)
 
 ---

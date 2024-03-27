@@ -15,6 +15,7 @@ OWASP Italy Day 2024 will take place at Cagliari. This is a free, one-day, infor
 
 The event is primarily intended to appeal to security professionals, software developers, software quality engineers, and computer science students with a strong interest in computer security. 
 
+Event Location: Viale lungomare del golfo 150 Quartu Sant'Elena (CA) - https://www.frontemaresardinia.com
 ---
 
 ### Call for papers 

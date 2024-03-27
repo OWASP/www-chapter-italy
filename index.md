@@ -39,9 +39,11 @@ For further details and registration regarding the event, please refer to the fo
 
 ## 2024 Planned Events
 We are planning the following events for 2024:
-- Thanks to Stefano Chiccarelli and MOCA team, Giuseppe Porcu and Stefano Maistri we are organizing a booth for OWASP Italy @ [M0CA 2024](https://moca.camp/)
+- Thanks to Stefano Chiccarelli and MOCA team, Giuseppe Porcu and Stefano Maistri are organizing a booth for OWASP Italy @ [M0CA 2024](https://moca.camp/)
   
 - 2 Meetup online meetings: July and November
+
+---
 
 ## Past Event 2024: 
 
@@ -50,6 +52,8 @@ Please refer to the following [link](https://securitysummit.it/milano-2024/semin
 
 ## 8th March 2024 - OWASP Italy Meetup
 Please refer to the following [link](https://owasp.org/www-chapter-italy/events/owaspitaly2024-03-08)
+
+---
 
 ## Past Events 2023
 

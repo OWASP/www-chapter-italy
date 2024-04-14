@@ -16,6 +16,13 @@ OWASP Italy will host the next OWASP Italy Day 2024 on June 20th. It will be a f
 
 The event is primarily intended to appeal to security professionals, software developers, software quality engineers, and computer science students with a strong interest in computer security. 
 
+### PROGRAM
+
+The event will take place from 4 PM to 22 PM (Italian time). We are working on the program at the moment.
+
+#### Dinis Cruz, Founder @ The Cyber Boardroom, Chief Scientist @ Glasswall, vCISO and GenAI expert, will be the esteemed keynote speaker at the upcoming OWASP Italy Day 2024! ####
+
+
 
 ---
 
@@ -49,7 +56,7 @@ Community Engagement: Engaging with the OWASP community puts your company in the
 
 Lead Generation: With hundreds of attendees from various sectors, sponsoring OWASP Italy Day 2024 gives you direct access to potential clients and customers. The event will provide a focused audience interested in cybersecurity solutions, products, and training.
 
-For detailed information on our sponsorship packages please read the details [here](https://github.com/OWASP/www-chapter-italy/blob/master/events/OWASPIt24SponsorKit)
+For detailed information on our sponsorship packages please read the details [here](https://owasp.org/www-chapter-italy/events/OWASPIt24SponsorKit)
 
 ---
 

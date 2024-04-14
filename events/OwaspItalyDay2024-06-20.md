@@ -11,7 +11,7 @@ region: Europe
 
 OWASP Italy will host the next OWASP Italy Day 2024 on June 20th. It will be a full-day event dedicated to application security (AppSec)!
 
-## OWASP Italy Day 2024 will take place at Cagliari. This is a free, one-day, informal event aimed at increasing awareness and knowledge of web application security.
+#### OWASP Italy Day 2024 will take place at Cagliari. This is a free, one-day, informal event aimed at increasing awareness and knowledge of web application security.
 
 The event is primarily intended to appeal to security professionals, software developers, software quality engineers, and computer science students with a strong interest in computer security. 
 
@@ -41,7 +41,7 @@ The submission will be reviewed by the program committee and the most interestin
 
 We are excited to offer sponsorship opportunities for the OWASP Italy Day 2024, taking place in Cagliari on June 20th. This event provides a unique platform to connect with professionals from multiple facets of the software industry, including security experts, developers, engineers, and influential academics.
 
-## Why Sponsor OWASP Italy Day 2024?
+#### Why Sponsor OWASP Italy Day 2024?
 Brand Visibility: As a sponsor, your brand will be prominently displayed before, during, and after the event. This includes logo placement in event materials, promotional content, and key areas at the venue. Enhance your brand recognition within the cybersecurity and developer communities.
 
 Community Engagement: Engaging with the OWASP community puts your company in the spotlight as a leader in supporting open software and security advancements. This event will provide you with the opportunity to network with industry leaders and cybersecurity professionals, offering a chance to build relationships and share your company's expertise and solutions.

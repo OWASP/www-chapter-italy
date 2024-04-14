@@ -9,7 +9,7 @@ region: Europe
 
 ---
 
-| <img src="https://owasp.org/assets/images/logo.png" width=300/> | />|
+| <img src="https://owasp.org/assets/images/logo.png" width=300/> |
 | :---          | :---         |
 |  |  |
 
@@ -30,11 +30,12 @@ This confirmation packet provides important information including preparing for 
 ### Checklist
 
 - Register your onsite team [ToDo]
-- Book your hotel room: ToDo
+- Book your hotel room in Cagliari.
 
 - Shipping Materials: you can ship your materials ToDo.
 
   Address: ---
+  Viale lungomare del golfo 150 Quartu Sant'Elena (CA) https://www.frontemaresardinia.com
   
 - Gold Exhibitors:
   - check-in & set-up on 
@@ -42,7 +43,7 @@ This confirmation packet provides important information including preparing for 
   - tear-down 20th June at 10 PM
 
 
-Gold and Silver sponsorships include 2 Coffee breaks and dinner, access to the conference talks & expo area, social events, and conference activities.
+Gold and Silver sponsorships include Coffee breaks and dinner, access to the conference talks & expo area, social events, and conference activities.
 
 ### Registration
 
@@ -52,9 +53,8 @@ Registration at the Conference is free of charge and can be performed by subscri
 Event Location: Viale lungomare del golfo 150 Quartu Sant'Elena (CA) - https://www.frontemaresardinia.com
 
 ### Contact Information
-ToDo
-  
-  <mmail>
+
+Davide Ariu, OWASP Italy Chair & Pluribus One - davide.ariu@owasp.org
 
 OTHER QUESTIONS?
 Is there something we missed? Please Contact Us at matteo.meucci@owasp.org

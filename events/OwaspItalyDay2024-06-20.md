@@ -8,6 +8,7 @@ site_side: true
 region: Europe
 
 ---
+<img src="https://github.com/OWASP/www-chapter-italy/blob/6550e073ace38ac0e4b2902a964d3c574dd3df12/assets/images/OWASP%20Italy%20Day%202023%20-2%20.jpg?raw=true"/>  
 
 OWASP Italy will host the next OWASP Italy Day 2024 on June 20th. It will be a full-day event dedicated to application security (AppSec)!
 
@@ -48,7 +49,7 @@ Community Engagement: Engaging with the OWASP community puts your company in the
 
 Lead Generation: With hundreds of attendees from various sectors, sponsoring OWASP Italy Day 2024 gives you direct access to potential clients and customers. The event will provide a focused audience interested in cybersecurity solutions, products, and training.
 
-For detailed information on our sponsorship packages please read the details [here](https://github.com/OWASP/www-chapter-italy/blob/master/events/OWASPIt24SponsorKit.md)
+For detailed information on our sponsorship packages please read the details [here](https://github.com/OWASP/www-chapter-italy/blob/master/events/OWASPIt24SponsorKit)
 
 ---
 

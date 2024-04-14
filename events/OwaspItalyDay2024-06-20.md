@@ -56,6 +56,8 @@ Community Engagement: Engaging with the OWASP community puts your company in the
 
 Lead Generation: With hundreds of attendees from various sectors, sponsoring OWASP Italy Day 2024 gives you direct access to potential clients and customers. The event will provide a focused audience interested in cybersecurity solutions, products, and training.
 
+Please see [**here for details**](https://owasp.org/www-chapter-italy/images/2024%20OWASP%20Italy%20Day%20Sponsorship.pptx.pdf)
+
 For detailed information on our sponsorship packages please read the details [here](https://owasp.org/www-chapter-italy/events/OWASPIt24SponsorKit)
 
 ---

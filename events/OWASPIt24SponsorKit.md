@@ -9,7 +9,7 @@ region: Europe
 
 ---
 
-| <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/Logo%20Conf%202024.jpg" width=300/> |
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/Logo%20Conf%202024.jpg" width=600/> 
 
 
 

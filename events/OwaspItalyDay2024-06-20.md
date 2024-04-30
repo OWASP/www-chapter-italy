@@ -66,6 +66,9 @@ For detailed information on our sponsorship packages please read the details [he
 Viale lungomare del golfo 150 Quartu Sant'Elena (CA)
 https://www.frontemaresardinia.com
 
+### RESERVE YOUR SEAT:
+https://clicqui.net/2Lst5
+
 ### ORGANIZERS
 - Davide Ariu, OWASP Italy Chair & Pluribus One
 - Matteo Meucci, OWASP Italy Chair & IMQ Minded Security

@@ -40,6 +40,8 @@ OWASP Italy will host the next OWASP Italy Day 2024 on June 20th. It will be a f
 
 The event is primarily intended to appeal to security professionals, software developers, software quality engineers, and computer science students with a strong interest in computer security. 
 
+---
+
 ### PROGRAM
 
 The event will take place from 4 PM to 22 PM (Italian time). 

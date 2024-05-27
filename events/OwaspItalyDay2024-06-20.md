@@ -40,9 +40,13 @@ The event is primarily intended to appeal to security professionals, software de
 
 ### PROGRAM
 
-The event will take place from 4 PM to 22 PM (Italian time). We are working on the program at the moment.
+The event will take place from 4 PM to 22 PM (Italian time). We are working on the program at the moment. The following are the confirmed speakers:
 
-#### Dinis Cruz, Founder @ The Cyber Boardroom, Chief Scientist @ Glasswall, vCISO and GenAI expert, will be the esteemed keynote speaker at the upcoming OWASP Italy Day 2024! ####
+- KEYNOTE by Dinis Cruz, Founder @ The Cyber Boardroom, Chief Scientist @ Glasswall, vCISO and GenAI expert
+
+- Alessio Dalla Piazza, CTO and Cofounder of Equixly: "Enhancing API Security through Large Language Models: A Novel Approach for Detecting BOLA Vulnerabilities "
+
+
 
 ---
 

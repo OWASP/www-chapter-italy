@@ -15,23 +15,23 @@ OWASP Italy will host the next OWASP Italy Day 2024 on June 20th. It will be a f
 #### OWASP Italy Day 2024 will take place at Cagliari. This is a free, one-day, informal event aimed at increasing awareness and knowledge of web application security.
 
 #### THANK YOU TO OUR GOLD SPONSORS
-<table cellpadding="3" cellspacing="0" border="0">
+<table cellpadding="1" cellspacing="0" border="0">
 <tr>
 <td>
 
- <img src="https://github.com/OWASP/www-chapter-italy/blob/6a0b673a7f5bc1ea0614546168f9f06533ef50dc/assets/images/Equixly%20Logo.png?raw=true" width=300/> 
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/6a0b673a7f5bc1ea0614546168f9f06533ef50dc/assets/images/Equixly%20Logo.png?raw=true" width=400/> 
  </td>
   </tr>
 </table>
 
 #### THANK YOU TO OUR BRONZE SPONSOR
-<table cellpadding="3" cellspacing="0" border="0" colour="0">
+<table cellpadding="1" cellspacing="0" border="0" colour="0">
 <tr>
 <td>
- <img src="https://github.com/OWASP/www-chapter-italy/blob/60e5514c2d01de8c2c8e172c86b479a8919949c0/assets/images/IMQ%20Minded%20Security.jpg?raw=true" width=100/> 
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/60e5514c2d01de8c2c8e172c86b479a8919949c0/assets/images/IMQ%20Minded%20Security.jpg?raw=true" width=200/> 
  </td>
   <td>
- <img src="https://github.com/OWASP/www-chapter-italy/blob/38e48f144a3754ef0f5af57bd6214a1bc3b46987/assets/images/PluribusLogo.png?raw=true" width=100/> 
+ <img src="https://github.com/OWASP/www-chapter-italy/blob/38e48f144a3754ef0f5af57bd6214a1bc3b46987/assets/images/PluribusLogo.png?raw=true" width=200/> 
  </td>
   </tr>
 </table>

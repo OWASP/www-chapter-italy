@@ -8,7 +8,9 @@ site_side: true
 region: Europe
 
 ---
-<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/OWASPIT2024Top.png?raw=true"/>  
+<center> 
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/OWASPIT2024Top.png?raw=true" width=600/>  
+</center>
 
 OWASP Italy will host the next OWASP Italy Day 2024 on June 20th. It will be a full-day event dedicated to application security (AppSec)!
 
@@ -42,26 +44,26 @@ The event is primarily intended to appeal to security professionals, software de
 
 The event will take place from 4 PM to 22 PM (Italian time). 
 
-#### KEYNOTE by Dinis Cruz, 
+#### - KEYNOTE by Dinis Cruz, 
 Founder @ The Cyber Boardroom, Chief Scientist @ Glasswall, vCISO and GenAI expert 
 
-#### "Enhancing API Security through Large Language Models: A Novel Approach for Detecting BOLA Vulnerabilities "
+#### - Enhancing API Security through Large Language Models: A Novel Approach for Detecting BOLA Vulnerabilities
 Alessio Dalla Piazza
 CTO and Cofounder of Equixly: 
   
-#### Cybercrime in Italy: Trends in the First 6 Months of 2024 ##
+#### - Cybercrime in Italy: Trends in the First 6 Months of 2024 ##
 Domenico Raguseo
 Head of CyberSecurity & (Digital) Infrastructure Exprivia S.p.A.
 
-#### Ransomfeed: Project and Methods for Analyzing Ransomware Threats
+#### - Ransomfeed: Project and Methods for Analyzing Ransomware Threats
 Dario Fadda
 Security Researcher and Founder of Ransomfeed.it
 
-#### Template Engines Security Assessment: Mitigating Server-Side Template Injection Risks
+#### - Template Engines Security Assessment: Mitigating Server-Side Template Injection Risks
 Lorenzo Pisu
 Ph.D. Student, University of Cagliari - CTF Player, Srdnlen
 
-#### Backdoor in XZ Utils Library – Why We Need to Talk About It
+#### - Backdoor in XZ Utils Library – Why We Need to Talk About It
 Domenico Caldarelli
 Head of Cybersecurity
 

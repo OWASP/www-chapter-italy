@@ -4,7 +4,7 @@ displaytext: OWASP Italy Day 2024
 layout: null
 tab: true
 order: 1
-tags: Italy
+tags: example
 region: Europe
 
 ---

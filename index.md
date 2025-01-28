@@ -34,15 +34,18 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 Stay tuned for the next update!  
 
-## 2024 Planned Events
-We are planning the following events for 2024:
+## 2025 Planned Events
+We are planning the following events for 2025:
 
-### OWASP Italy Meetup Fall 2024
-Davide Ariu, Federico Loi, Fabio Marotta will be speaking at the next OWASP Italy Meetup organized by The Net value. More information [here](https://bit.ly/151024_Owasp)
+## 19th June 2025: OWASP Italy Day in Cagliari!
+For further details regarding the event, please refer to the following [link](https://owasp.org/www-chapter-italy/events/OwaspItalyDay2025-06-19)
 
 ---
 
 ## Past Event 2024: 
+
+### OWASP Italy Meetup Fall 2024
+Davide Ariu, Federico Loi, Fabio Marotta has been speaking at the OWASP Italy Fall Meetup organized by The Net value. More information [here](https://bit.ly/151024_Owasp)
 
 ## 20th September: OWASP Italy @ MOCA!
 Thanks to Stefano Chiccarelli and MOCA team, Giuseppe Porcu, Stefano Maistri and Leonardo Tamiano did organize a booth for OWASP Italy @ [M0CA 2024](https://moca.camp/)

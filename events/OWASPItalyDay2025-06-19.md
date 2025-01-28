@@ -10,9 +10,11 @@ region: Europe
 ---
 
 
+
 <center> 
 <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/OWASPITADAY2025Banner.png?raw=true" width=1600/>  
 </center>
+
 
 
 

@@ -18,7 +18,7 @@ region: Europe
 
 
 
-OWASP Italy hosted the OWASP Italy Day 2025 on June 19th. It has been a full-day event dedicated to application security (AppSec)!
+OWASP Italy will host the OWASP Italy Day 2025 on June 19th. It will be a full-day event dedicated to application security (AppSec)!
 
 #### OWASP Italy Day 2025 will be in Cagliari. This was a free, one-day, informal event aimed at increasing awareness and knowledge of web application security.
 

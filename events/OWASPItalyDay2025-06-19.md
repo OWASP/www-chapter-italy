@@ -9,7 +9,7 @@ region: Europe
 
 ---
 <center> 
-<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/OWASPITDAY2025Banner.png?raw=true" width=600/>  
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/OWASPITADAY2025Banner.png?raw=true" width=600/>  
 </center>
 
 OWASP Italy hosted the OWASP Italy Day 2025 on June 19th. It has been a full-day event dedicated to application security (AppSec)!

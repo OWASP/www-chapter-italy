@@ -38,7 +38,7 @@ Stay tuned for the next update!
 We are planning the following events for 2025:
 
 ## 19th June 2025: OWASP Italy Day in Cagliari!
-For further details regarding the event, please refer to the following [link](https://owasp.org/www-chapter-italy/events/OwaspItalyDay2025-06-19)
+For further details regarding the event, please refer to the following [link](https://owasp.org/www-chapter-italy/events/OWASPItalyDay2025-06-19)
 
 ---
 

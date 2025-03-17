@@ -28,13 +28,8 @@ This combined event will bring together cybersecurity experts, researchers, and 
 Don't miss this opportunity to be part of shaping the future of cybersecurity!
 
 More details available at: https://apwg.eu/tech2025/
-<br> 
-<br> 
-<center> 
-<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/APWG2025Banner.png?raw=true"/>  
-</center>
-<br> 
-<br> 
+
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/APWG2025Banner.png?raw=true" width= 400/>  
 
 ---
 

@@ -21,7 +21,20 @@ OWASP Italy will host the OWASP Italy Day 2025 on June 19th. It will be a full-d
 
 #### OWASP Italy Day 2025 will be in Cagliari. This was a free, one-day, informal event aimed at increasing awareness and knowledge of web application security.
 
-The event is primarily intended to appeal to security professionals, software developers, software quality engineers, and computer science students with a strong interest in computer security. 
+The event held in coordination with the prestigious APWG.EU Tech Summit and Researchers Forum 2025: "Advancing Cybercrime Solutions and Global Collaboration." that will take place next 17 and 18 June in Cagliari.
+
+This combined event will bring together cybersecurity experts, researchers, and professionals to explore innovative strategies, best practices, and groundbreaking research aimed at combating cybercrime and strengthening global cybersecurity collaboration.
+
+Don't miss this opportunity to be part of shaping the future of cybersecurity!
+
+More details available at: https://apwg.eu/tech2025/
+<br> 
+<br> 
+<center> 
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/APWG2025Banner.png?raw=true"/>  
+</center>
+<br> 
+<br> 
 
 ---
 

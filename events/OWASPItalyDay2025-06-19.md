@@ -31,6 +31,11 @@ More details available at: https://apwg.eu/tech2025/
 
 <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/APWG2025Banner.png?raw=true" width= 400/>  
 
+This event is endorsed by ISC2 and qualifies for Continuing Professional Education (CPE) credits for holders of ISC2 certifications.
+
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/ISC2.png?raw=true" width= 400/>  
+
+
 ---
 
 ### PROGRAM 

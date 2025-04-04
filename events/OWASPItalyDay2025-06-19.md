@@ -40,6 +40,14 @@ This event is endorsed by ISC2 and qualifies for Continuing Professional Educati
 
 ### PROGRAM 
 
+<br> 
+<br> 
+<center> 
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/keynoteita2025.png?raw=true" width=1600/>  
+</center>
+<br> 
+<br> 
+
 #### - Sebastien Deleersnyder 
 Co-founder & CTO at Toreon | COO & trainer at DPI | whiteboard hacking trainer at Black Hat
 

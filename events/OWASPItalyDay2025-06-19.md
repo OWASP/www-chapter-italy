@@ -67,7 +67,7 @@ Martin has locally and globally been contributing to various projects and co-org
 ### Event Location
 [Viale lungomare del golfo 150 Quartu Sant'Elena (CA)](https://www.frontemaresardinia.com)
 
-The conference is scheduled to be an in-person event., [please reserve your seat here](https://cyberjourney.it)
+The conference is scheduled to be an in-person event, [please reserve your seat here](https://clicqui.net/2NJPa)
 
 
 ### ORGANIZERS

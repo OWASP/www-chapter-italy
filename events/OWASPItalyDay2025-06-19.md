@@ -12,7 +12,7 @@ region: Europe
 <br> 
 <br> 
 <center> 
-<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/OWASPITADAY2025Banner.png?raw=true" width=400/>  
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/OWASPITADAY2025Banner.png?raw=true" width=1600/>  
 </center>
 <br> 
 <br> 
@@ -43,7 +43,7 @@ This event is endorsed by ISC2 and qualifies for Continuing Professional Educati
 <br> 
 <br> 
 <center> 
-<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/keynoteita2025.png?raw=true" width=1600/>  
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/keynoteita2025.png?raw=true" width=800/>  
 </center>
 <br> 
 <br> 

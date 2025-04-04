@@ -47,7 +47,12 @@ Co-founder & CTO at Toreon | COO & trainer at DPI | whiteboard hacking trainer a
 Martin has locally and globally been contributing to various projects and co-organized OWASP AppSec conferences. He served more than 5 years as a member of the Board of Directors, two of them as Chairmen of the board.
 
 ---
-Call For papers and Call For Sponsorhip will open soon.
+
+### Call for paper is open!
+[Please send you submissions here.](https://sessionize.com/owasp-italy-day-2025-cfs)
+
+### Call For Sponsorhip 
+[Here you can find the details of the CFS.](https://github.com/OWASP/www-chapter-italy/blob/59f792a77ba0a8e8131aa5e4e6a98cb75d595d38/assets/images/2025%20OWASP%20Italy%20Day%20Sponsorship.pdf)
 
 ---
 

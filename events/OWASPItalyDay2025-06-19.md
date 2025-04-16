@@ -72,7 +72,7 @@ The conference is scheduled to be an in-person event, [please reserve your seat 
 
 ### ORGANIZERS
 - Davide Ariu, OWASP Italy Chair & Pluribus One
-- Matteo Meucci, OWASP Italy Chair & IMQ Minded Security
+- Matteo Meucci, OWASP Italy Chair & Synapsed.ai
 
 
 

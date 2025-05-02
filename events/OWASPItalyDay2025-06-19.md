@@ -56,7 +56,10 @@ Martin has locally and globally been contributing to various projects and co-org
 
 ---
 
-### Call for paper is closed
+### Call for paper is open!
+
+Sunday 4th May last day to apply!
+[Please send you submissions here.](https://sessionize.com/owasp-italy-day-2025-cfs)
 
 ### Call For Sponsorship 
 [Here you can find the details of the CFS.](https://github.com/OWASP/www-chapter-italy/blob/59f792a77ba0a8e8131aa5e4e6a98cb75d595d38/assets/images/2025%20OWASP%20Italy%20Day%20Sponsorship.pdf)

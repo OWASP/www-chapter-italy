@@ -48,8 +48,8 @@ This event is endorsed by ISC2 and qualifies for Continuing Professional Educati
 <br> 
 <br> 
 
-#### - Sebastien Deleersnyder 
-Co-founder & CTO at Toreon | COO & trainer at DPI | whiteboard hacking trainer at Black Hat
+#### - Simone Onofri
+ |  | 
 
 #### - Martin Knobloch, VP Security Engineering at Valtech.com
 Martin has locally and globally been contributing to various projects and co-organized OWASP AppSec conferences. He served more than 5 years as a member of the Board of Directors, two of them as Chairmen of the board.

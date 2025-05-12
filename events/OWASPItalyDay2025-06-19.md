@@ -43,13 +43,13 @@ This event is endorsed by ISC2 and qualifies for Continuing Professional Educati
 <br> 
 <br> 
 <center> 
-<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/keynoteita2025.png?raw=true" width=600/>  
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/day2025.png?raw=true" width=600/>  
 </center>
 <br> 
 <br> 
 
 #### - Simone Onofri
- |  | 
+Security Lead | W3C  
 
 #### - Martin Knobloch, VP Security Engineering at Valtech.com
 Martin has locally and globally been contributing to various projects and co-organized OWASP AppSec conferences. He served more than 5 years as a member of the Board of Directors, two of them as Chairmen of the board.

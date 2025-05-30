@@ -21,9 +21,7 @@ region: Europe
 
 ## 🥇 Gold Sponsor
 
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/1.png" alt="Endor Labs">
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/1.png" width=1600/>
     
 ## 🥈 Silver Sponsors
 

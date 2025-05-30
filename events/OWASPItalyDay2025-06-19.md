@@ -22,7 +22,7 @@ region: Europe
 ## 🥇 Gold Sponsor
 
 <p align="center">
-  <img src="https://github.com/OWASP/www-chapter-italy/blob/081d3e47e62acf0a8ee7f37e185353971a15a899/assets/images/1.png?raw=true" width=1600/" alt="Edor Labs">
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/081d3e47e62acf0a8ee7f37e185353971a15a899/assets/images/1.png?raw=true" width=1600/ alt="Edor Labs">
 </p>
 
 ---

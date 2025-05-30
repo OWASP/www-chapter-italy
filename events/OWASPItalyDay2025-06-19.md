@@ -23,16 +23,16 @@ region: Europe
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://owasp.org/www-chapter-italy/events/assets/img/1.png" alt="Speaker 1" 
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/1.png" alt="Endor Labs" 
     
 ## 🥈 Silver Sponsors
 
 style="max-width: 100px; height: auto;">
-  <img src="https://owasp.org/www-chapter-italy/events/assets/img/2.png" alt="Speaker 2" style="max-width: 100px; height: auto;">
-  <img src="https://owasp.org/www-chapter-italy/events/assets/img/3.png" alt="Speaker 3" style="max-width: 100px; height: auto;">
-  <img src="https://owasp.org/www-chapter-italy/events/assets/img/4.png" alt="Speaker 4" style="max-width: 100px; height: auto;">
-  <img src="https://owasp.org/www-chapter-italy/events/assets/img/5.png" alt="Speaker 5" style="max-width: 100px; height: auto;">
-  <img src="https://owasp.org/www-chapter-italy/events/assets/img/6.png" alt="Speaker 6" style="max-width: 100px; height: auto;">
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/2.png" alt="Speaker 2" style="max-width: 100px; height: auto;">
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/3.png" alt="Speaker 3" style="max-width: 100px; height: auto;">
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/4.png" alt="Speaker 4" style="max-width: 100px; height: auto;">
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/5.png" alt="Speaker 5" style="max-width: 100px; height: auto;">
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/6.png" alt="Speaker 6" style="max-width: 100px; height: auto;">
 </div>
 
 

@@ -30,7 +30,6 @@ region: Europe
   <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/4.png" alt="Teleco" style="max-width: 100px; height: auto;">
   <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/5.png" alt="Oplon" style="max-width: 100px; height: auto;">
   <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/6.png" alt="Playmoove" style="max-width: 100px; height: auto;">
-</div>
 
 
 

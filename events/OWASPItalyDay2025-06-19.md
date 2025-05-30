@@ -78,12 +78,6 @@ This event is endorsed by ISC2 and qualifies for Continuing Professional Educati
 
 
 
-### Call for paper is close now!
-
-
-### Call For Sponsorship 
-[Here you can find the details of the CFS.](https://github.com/OWASP/www-chapter-italy/blob/59f792a77ba0a8e8131aa5e4e6a98cb75d595d38/assets/images/2025%20OWASP%20Italy%20Day%20Sponsorship.pdf)
-
 ---
 
 ### Event Location

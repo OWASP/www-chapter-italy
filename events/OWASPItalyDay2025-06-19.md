@@ -23,23 +23,22 @@ region: Europe
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/1.png" alt="Endor Labs" 
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/1.png" alt="Endor Labs">
     
 ## 🥈 Silver Sponsors
 
-style="max-width: 100px; height: auto;">
-  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/2.png" alt="Speaker 2" style="max-width: 100px; height: auto;">
-  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/3.png" alt="Speaker 3" style="max-width: 100px; height: auto;">
-  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/4.png" alt="Speaker 4" style="max-width: 100px; height: auto;">
-  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/5.png" alt="Speaker 5" style="max-width: 100px; height: auto;">
-  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/6.png" alt="Speaker 6" style="max-width: 100px; height: auto;">
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/2.png" alt="HB Agency" style="max-width: 100px; height: auto;">
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/3.png" alt="Enermed" style="max-width: 100px; height: auto;">
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/4.png" alt="Teleco" style="max-width: 100px; height: auto;">
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/5.png" alt="Oplon" style="max-width: 100px; height: auto;">
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/6.png" alt="Playmoove" style="max-width: 100px; height: auto;">
 </div>
 
 
 
 OWASP Italy will host the OWASP Italy Day 2025 on June 19th. It will be a full-day event dedicated to application security (AppSec)!
 
-#### OWASP Italy Day 2025 will be in Cagliari. This was a free, one-day, informal event aimed at increasing awareness and knowledge of web application security.
+#### OWASP Italy Day 2025 will be in Cagliari. This is a free, one-day, informal event aimed at increasing awareness and knowledge of web application security.
 
 The event held in coordination with the prestigious APWG.EU Tech Summit and Researchers Forum 2025: "Advancing Cybercrime Solutions and Global Collaboration." that will take place next 17 and 18 June in Cagliari.
 

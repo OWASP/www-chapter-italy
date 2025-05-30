@@ -21,14 +21,34 @@ region: Europe
 
 ## 🥇 Gold Sponsor
 
-
+<p align="center">
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/081d3e47e62acf0a8ee7f37e185353971a15a899/assets/images/1.png" alt="Edor Labs">
+</p>
 
 ---
 
 ## 🥈 Silver Sponsors
 
 
+<p align="center">
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/081d3e47e62acf0a8ee7f37e185353971a15a899/assets/images/2.png" alt="Immagine 2">
+</p>
 
+<p align="center">
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/081d3e47e62acf0a8ee7f37e185353971a15a899/assets/images/3.png" alt="Immagine 3">
+</p>
+
+<p align="center">
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/081d3e47e62acf0a8ee7f37e185353971a15a899/assets/images/4.png" alt="Immagine 4">
+</p>
+
+<p align="center">
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/081d3e47e62acf0a8ee7f37e185353971a15a899/assets/images/5.png" alt="Immagine 5">
+</p>
+
+<p align="center">
+  <img src="https://github.com/OWASP/www-chapter-italy/blob/081d3e47e62acf0a8ee7f37e185353971a15a899/assets/images/6.png" alt="Immagine 6">
+</p>
 
 
 

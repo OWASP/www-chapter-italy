@@ -21,7 +21,7 @@ region: Europe
 
 ## 🥇 Gold Sponsor
 
-<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/endor.png?raw=true" width= 600/>
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/endor.png?raw=true" width= 400/>
     
 ## 🥈 Silver Sponsors
 

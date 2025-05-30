@@ -21,15 +21,15 @@ region: Europe
 
 ## 🥇 Gold Sponsor
 
-<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/1.png?raw=true">
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/1.png?raw=true" width= 600/>
     
 ## 🥈 Silver Sponsors
 
-<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/2.png?raw=true" width= 400/>  
-<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/3.png?raw=true" width= 400/>  
-<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/4.png?raw=true" width= 400/>  
-<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/5.png?raw=true" width= 400/>  
-<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/6.png?raw=true" width= 400/>  
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/2.png?raw=true" width= 300/>  
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/3.png?raw=true" width= 300/>  
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/4.png?raw=true" width= 300/>  
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/5.png?raw=true" width= 300/>  
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/6.png?raw=true" width= 300/>  
 
 
 

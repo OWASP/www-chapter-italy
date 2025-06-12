@@ -57,25 +57,37 @@ This event is endorsed by ISC2 and qualifies for Continuing Professional Educati
 
 ## OWASP Italy 2025 Day Agenda
 
+* **15:30 – 15:50** • Check-In
+* **15:50 – 16:00** • Welcome
 
-| Time          | Title                                                                | Speaker(s)                         | Affiliation(s)                                                   |                        |
-| ------------- | -------------------------------------------------------------------- | ---------------------------------- | ---------------------------------------------------------------- | ---------------------- |
-| 15:30 – 15:50 | Check-In                                                             | —                                  | —                                                                |                        |
-| 15:50 – 16:00 | Welcome                                                              | —                                  | —                                                                |                        |
-| 16:00 – 16:30 | Keynote: *In Tool We Trust*                                          | Martin Knobloch                    | VP Security Engineering, Valtech.com                             |                        |
-| 16:30 – 17:00 | Keynote: *Threat Modeling Digital Credentials: What Could Go Wrong?* | Simone Onofri                      | Security Lead, W3C                                               |                        |
-| 17:00 – 17:25 | *Threat Modeling AI and Blockchain Applications*                     | Marco Morana                       | Field CISO, Avocado Systems                                      |                        |
-| 17:25 – 17:50 | *If your Helm chart is insecure, your pet LLM can fix it, can’t it?* | Fabio Massacci                     | Professor, Vrije Universiteit Amsterdam & Università di Trento   |                        |
-| 17:50 – 18:15 | *Threats in Models: AI Supply Chain in Application Security*         | Fabrizio Bugli                     | Solutions Engineer Professional Lead, Checkmarx                  |                        |
-| 18:15 – 18:45 | Coffee Break                                                         | —                                  | —                                                                |                        |
-| 18:50 – 19:10 | *A Chat with Artificial Intelligence – Simply Explained!*            | Giacinto Fiore & Pasquale Viscanti | Co-Founders, Intelligenza Artificiale Spiegata Semplice & AIWEEK |                        |
-| 19:10 – 19:35 | *Evolving Your AppSec Program in the Era of AI*                      | Henrik Plate                       | Principal Security Researcher                                    |                        |
-| 19:35 – 20:00 | *Building a Product Security Team – Lessons from the Field*          | Francesco Paolo Giordano           | Senior Product Security Engineer, PagoPA S.p.A.                  |                        |
-| 20:00 – 20:25 | *Threats in Models: AI Supply Chain in Application Security*         | Inga Cherny                        | Security Researcher, Cato Networks                               |                        |
-| 20:25 – 20:50 | *DevSecOps: Where to Move To?*                                       | Enrico Trasatti                    | Cyber Security Manager, Sogei                                    |                        |
-| 20:50 – 22:15 | Greetings and Dinner                                                 | —                                  | —                                                                |                        |
-| 22:15 – 01:00 | DJ Party                                                             | —                                  | —     
+**Keynotes**
 
+* **16:00 – 16:30** • *In Tools We Trust* — **Martin Knobloch**, VP Sec Eng @ Valtech
+* **16:30 – 17:00** • *Threat Modeling Digital Credentials: What Could Go Wrong?* — **Simone Onofri**, Security Lead @ W3C
+
+**Talks**
+
+* **17:00 – 17:25** • *Threat Modeling AI & Blockchain Applications* — **Marco Morana**, Field CISO @ Avocado Systems
+
+* **17:25 – 17:50** • *If Your Helm Chart Is Insecure…* — **Fabio Massacci**, Prof. @ VU Amsterdam / UniTrento
+
+* **17:50 – 18:15** • *Threats in Models: AI Supply Chain in AppSec* — **Fabrizio Bugli**, Checkmarx
+
+* **18:15 – 18:45** • ☕ **Coffee Break**
+
+* **18:50 – 19:10** • *A Chat with AI – Simply Explained!* — **Giacinto Fiore & Pasquale Viscanti**, IA Spiegata Semplice / AIWEEK
+
+* **19:10 – 19:35** • *Evolving Your AppSec Program in the Era of AI* — **Henrik Plate**
+
+* **19:35 – 20:00** • *Building a Product Security Team* — **F. Paolo Giordano**, PagoPA
+
+* **20:00 – 20:25** • *Threats in Models: AI Supply Chain in AppSec* — **Inga Cherny**, Cato Networks
+
+* **20:25 – 20:50** • *DevSecOps: Where to Move To?* — **Enrico Trasatti**, Sogei
+
+* **20:50 – 22:15** • 🚀 **Greetings & Dinner**
+
+* **22:15 – 01:00** • 🎧 **DJ Party**
 
 
 ---

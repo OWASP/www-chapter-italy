@@ -21,8 +21,10 @@ region: Europe
 
 ## 🥇 Gold Sponsor
 
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/BlackDuck.png?raw=true" width= 400/>
+
 <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/Endor.png?raw=true" width= 400/>
-    
+
 ## 🥈 Silver Sponsors
 
 <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/2.png?raw=true" width= 300/>  

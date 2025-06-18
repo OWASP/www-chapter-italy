@@ -83,11 +83,9 @@ This event is endorsed by ISC2 and qualifies for Continuing Professional Educati
 
 * **19:35 – 20:00** • *Building a Product Security Team* — **F. Paolo Giordano**, PagoPA
 
-* **20:00 – 20:25** • *Threats in Models: AI Supply Chain in AppSec* — **Inga Cherny**, Cato Networks
+* **20:00 – 20:25** • *Threats in Models; Considerations and Impact of AI Supply Chain in Application Security* — **Fabrizio Bugli**, Checkmarx
 
-* **20:25 – 20:50** • *Threats in Models: AI Supply Chain in AppSec* — **Fabrizio Bugli**, Checkmarx
-
-* **20:50 – 22:15** • 🚀 **Greetings & Dinner**
+* **20:25 – 22:15** • 🚀 **Greetings & Dinner**
 
 * **22:15 – 01:00** • 🎧 **DJ Party**
 

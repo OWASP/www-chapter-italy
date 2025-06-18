@@ -73,7 +73,7 @@ This event is endorsed by ISC2 and qualifies for Continuing Professional Educati
 
 * **17:25 – 17:50** • *If Your Helm Chart Is Insecure…* — **Fabio Massacci**, Prof. @ VU Amsterdam / UniTrento
 
-* **17:50 – 18:15** • *Threats in Models: AI Supply Chain in AppSec* — **Fabrizio Bugli**, Checkmarx
+* **17:50 – 18:15** • *DevSecOps: Where to Move To?* — **Enrico Trasatti**, Sogei
 
 * **18:15 – 18:45** • ☕ **Coffee Break**
 
@@ -85,7 +85,7 @@ This event is endorsed by ISC2 and qualifies for Continuing Professional Educati
 
 * **20:00 – 20:25** • *Threats in Models: AI Supply Chain in AppSec* — **Inga Cherny**, Cato Networks
 
-* **20:25 – 20:50** • *DevSecOps: Where to Move To?* — **Enrico Trasatti**, Sogei
+* **20:25 – 20:50** • *Threats in Models: AI Supply Chain in AppSec* — **Fabrizio Bugli**, Checkmarx
 
 * **20:50 – 22:15** • 🚀 **Greetings & Dinner**
 

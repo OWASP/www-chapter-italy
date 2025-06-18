@@ -79,7 +79,7 @@ This event is endorsed by ISC2 and qualifies for Continuing Professional Educati
 
 * **18:50 – 19:10** • *A Chat with AI – Simply Explained!* — **Giacinto Fiore & Pasquale Viscanti**, IA Spiegata Semplice / AIWEEK
 
-* **19:10 – 19:35** • *Evolving Your AppSec Program in the Era of AI* — **Henrik Plate**
+* **19:10 – 19:35** • *Evolving Your AppSec Program in the Era of AI* — **Luca Compagna**
 
 * **19:35 – 20:00** • *Building a Product Security Team* — **F. Paolo Giordano**, PagoPA
 

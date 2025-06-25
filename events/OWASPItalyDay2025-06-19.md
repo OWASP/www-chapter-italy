@@ -65,7 +65,7 @@ Here is a snapshot of our presentations and events from 2025:
       <a href="https://github.com/OWASP/www-chapter-italy/blob/220f33d350f4c094399a731140b4b7fc6c183469/assets/images/2025/2025-Martin.pdf">🔗 View Presentation</a>
     </td>
     <td>
-      <img src="https://github.com/OWASP/www-chapter-italy/blob/220f33d350f4c094399a731140b4b7fc6c183469/assets/images/2025/Simone.jpeg" width="250"><br>
+      <img src="https://github.com/OWASP/www-chapter-italy/blob/220f33d350f4c094399a731140b4b7fc6c183469/assets/images/2025/Simone.jpeg?raw=true" width="250"><br>
       <strong>Simone Onofri, W3C Security Lead</strong><br>
       <em>Threat Modeling Digital Credentials: What Could Go Wrong?</em><br>
       <a href="https://github.com/OWASP/www-chapter-italy/blob/220f33d350f4c094399a731140b4b7fc6c183469/assets/images/2025/2025-Onofri.pptx">🔗 View Presentation</a>

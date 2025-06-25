@@ -125,10 +125,10 @@ Here is a snapshot of our key presentations and events from 2025:
   </tr>
   <tr>
     <td>
-      <img src="/assets/images/2025/Fab.jpeg" width="250"><br>
+      <img src="https://github.com/OWASP/www-chapter-italy/blob/f3698a27d130cea1f56c4e57017f245b7ece2e07/assets/images/2025/Fab.jpeg" width="250"><br>
       <strong>Fabrizio Bugli, Checkmarx</strong><br>
       <em>Threats in Models; Considerations and Impact of AI Supply Chain in Application Security</em><br>
-      <a href="/assets/images/2025/2025-Bugli.pptx">🔗 View Presentation</a>
+      <a href="https://github.com/OWASP/www-chapter-italy/blob/f3698a27d130cea1f56c4e57017f245b7ece2e07/assets/images/2025/2025-Bugli.pptx">🔗 View Presentation</a>
     </td>
   </tr>
 </table>

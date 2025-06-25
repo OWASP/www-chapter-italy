@@ -35,16 +35,11 @@ region: Europe
 
 
 
-
-OWASP Italy will host the OWASP Italy Day 2025 on June 19th. It will be a full-day event dedicated to application security (AppSec)!
-
-#### OWASP Italy Day 2025 will be in Cagliari. This is a free, one-day, informal event aimed at increasing awareness and knowledge of web application security.
+#### OWASP Italy Day 2025 has been in Cagliari. This was a free, one-day, informal event aimed at increasing awareness and knowledge of web application security.
 
 The event held in coordination with the prestigious APWG.EU Tech Summit and Researchers Forum 2025: "Advancing Cybercrime Solutions and Global Collaboration." that will take place next 17 and 18 June in Cagliari.
 
-This combined event will bring together cybersecurity experts, researchers, and professionals to explore innovative strategies, best practices, and groundbreaking research aimed at combating cybercrime and strengthening global cybersecurity collaboration.
-
-Don't miss this opportunity to be part of shaping the future of cybersecurity!
+This combined event has bring together cybersecurity experts, researchers, and professionals to explore innovative strategies, best practices, and groundbreaking research aimed at combating cybercrime and strengthening global cybersecurity collaboration.
 
 More details available at: https://apwg.eu/tech2025/
 
@@ -57,7 +52,7 @@ This event is endorsed by ISC2 and qualifies for Continuing Professional Educati
 
 ---
 
-## OWASP Italy 2025 Day Agenda
+## OWASP Italy 2025 Day Agenda and presentations
 
 * **15:30 – 15:50** • Check-In
 * **15:50 – 16:00** • Welcome
@@ -65,37 +60,83 @@ This event is endorsed by ISC2 and qualifies for Continuing Professional Educati
 **Keynotes**
 
 * **16:00 – 16:30** • *In Tools We Trust* — **Martin Knobloch**, VP Sec Eng @ Valtech
-* **16:30 – 17:00** • *Threat Modeling Digital Credentials: What Could Go Wrong?* — **Simone Onofri**, Security Lead @ W3C
 
-**Talks**
 
-* **17:00 – 17:25** • *Threat Modeling AI & Blockchain Applications* — **Marco Morana**, Field CISO @ Avocado Systems
+## 🎤 OWASP Italy 2025 Presentations
 
-* **17:25 – 17:50** • *If Your Helm Chart Is Insecure…* — **Fabio Massacci**, Prof. @ VU Amsterdam / UniTrento
+Here is a snapshot of our key presentations and events from 2025:
 
-* **17:50 – 18:15** • *DevSecOps: Where to Move To?* — **Enrico Trasatti**, Sogei
-
-* **18:15 – 18:45** • ☕ **Coffee Break**
-
-* **18:50 – 19:10** • *A Chat with AI – Simply Explained!* — **Giacinto Fiore & Pasquale Viscanti**, IA Spiegata Semplice / AIWEEK
-
-* **19:10 – 19:35** • *Evolving Your AppSec Program in the Era of AI* — **Luca Compagna**
-
-* **19:35 – 20:00** • *Building a Product Security Team* — **F. Paolo Giordano**, PagoPA
-
-* **20:00 – 20:25** • *Threats in Models; Considerations and Impact of AI Supply Chain in Application Security* — **Fabrizio Bugli**, Checkmarx
-
-* **20:25 – 22:15** • 🚀 **Greetings & Dinner**
-
-* **22:15 – 01:00** • 🎧 **DJ Party**
-
+<table>
+  <tr>
+    <td>
+      <img src="/www-chapter-italy/assets/images/2025/Martin.jpg" width="250"><br>
+      <strong>Martin Knobloch, VP Sec Eng @ Valtech</strong><br>
+      <em>In Tools We Trust</em><br>
+      <a href="/assets/images/2025/2025-Martin.pdf">🔗 View Presentation</a>
+    </td>
+    <td>
+      <img src="/www-chapter-italy/assets/images/2025/Simone.jpg" width="250"><br>
+      <strong>Simone Onofri, W3C Security Lead</strong><br>
+      <em>Threat Modeling Digital Credentials: What Could Go Wrong?</em><br>
+      <a href="/assets/images/2025/2025-Onofri.pptx">🔗 View Presentation</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/www-chapter-italy/assets/images/2025/testing-guide-release.jpg" width="250"><br>
+      <strong>Marco Morana,  Field CISO @ Avocado Systems</strong><br>
+      <em>Threat Modeling AI & Blockchain Applications</em><br>
+      <a href="/assets/images/2025/2025-Morana.pptx">🔗 View Presentation</a>
+    </td>
+    <td>
+      <img src="/www-chapter-italy/assets/images/2025/owasp-day-milano.jpg" width="250"><br>
+      <strong>Fabio Masacci, Prof. @ VU Amsterdam / UniTrento</strong><br>
+      <em>If Your Helm Chart Is Insecure…</em><br>
+      <a href="/assets/images/2025/2025-Masacci.pptx">🔗 View Presentation</a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <img src="/www-chapter-italy/assets/images/2025/testing-guide-release.jpg" width="250"><br>
+      <strong>Enrico Trasatti, Sogei</strong><br>
+      <em>DevSecOps: Where to Move To?</em><br>
+      <a href="/assets/images/2025/">🔗 Wait for approval</a>
+    </td>
+    <td>
+      <img src="/www-chapter-italy/assets/images/2025/IASemplice.jpg" width="250"><br>
+      <strong>Giacinto Fiore & Pasquale Viscanti, IA Spiegata Semplice / AIWEEK</strong><br>
+      <em>A Chat with AI – Simply Explained!</em><br>
+      <a href="/assets/images/2025/">🔗 Link at the video</a>
+    </td>
+  </tr>
+      <tr>
+    <td>
+      <img src="/www-chapter-italy/assets/images/2025/Luca.jpg" width="250"><br>
+      <strong>Luca Compagna, Security @ EndorLabs </strong><br>
+      <em>Evolving Your AppSec Program in the Era of AI</em><br>
+      <a href="/assets/images/2025/2025-Compagna.pptx">🔗 View Presentation</a>
+    </td>
+    <td>
+      <img src="/www-chapter-italy/assets/images/2025/IASemplice.jpg" width="250"><br>
+      <strong>*F. Paolo Giordano**, PagoPA</strong><br>
+      <em>Building a Product Security Team</em><br>
+      <a href="/assets/images/2025/">🔗 View Presentation</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/www-chapter-italy/assets/images/2025/Fab.jpg" width="250"><br>
+      <strong>Fabrizio Bugli, Checkmarx</strong><br>
+      <em>Threats in Models; Considerations and Impact of AI Supply Chain in Application Security</em><br>
+      <a href="/assets/images/2025/2025-Bugli.pptx">🔗 View Presentation</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Event Location
 [Viale lungomare del golfo 150 Quartu Sant'Elena (CA)](https://www.frontemaresardinia.com)
-
-The conference is scheduled to be an in-person event, [please reserve your seat here](https://clicqui.net/2NJPa)
 
 
 ### ORGANIZERS

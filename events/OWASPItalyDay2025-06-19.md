@@ -59,7 +59,7 @@ Here is a snapshot of our presentations and events from 2025:
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/2025/Martin.jpeg" width="250"><br>
+      <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/2025/Martin.jpeg" width="350"><br>
       <strong>Martin Knobloch, VP Sec Eng @ Valtech</strong><br>
       <em>In Tools We Trust</em><br>
       <a href="https://github.com/OWASP/www-chapter-italy/blob/220f33d350f4c094399a731140b4b7fc6c183469/assets/images/2025/2025-Martin.pdf">🔗 View Presentation</a>

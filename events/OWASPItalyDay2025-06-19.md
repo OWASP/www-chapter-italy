@@ -52,19 +52,9 @@ This event is endorsed by ISC2 and qualifies for Continuing Professional Educati
 
 ---
 
-## OWASP Italy 2025 Day Agenda and presentations
-
-* **15:30 – 15:50** • Check-In
-* **15:50 – 16:00** • Welcome
-
-**Keynotes**
-
-* **16:00 – 16:30** • *In Tools We Trust* — **Martin Knobloch**, VP Sec Eng @ Valtech
-
-
 ## 🎤 OWASP Italy 2025 Presentations
 
-Here is a snapshot of our key presentations and events from 2025:
+Here is a snapshot of our presentations and events from 2025:
 
 <table>
   <tr>

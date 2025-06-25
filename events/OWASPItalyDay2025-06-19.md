@@ -65,7 +65,7 @@ Here is a snapshot of our presentations and events from 2025:
       <a href="https://github.com/OWASP/www-chapter-italy/blob/220f33d350f4c094399a731140b4b7fc6c183469/assets/images/2025/2025-Martin.pdf">🔗 View Presentation</a>
     </td>
     <td>
-      <img src="https://github.com/OWASP/www-chapter-italy/blob/220f33d350f4c094399a731140b4b7fc6c183469/assets/images/2025/Simone.jpeg?raw=true" width="250"><br>
+      <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/2025/Simone.jpeg" width="250"><br>
       <strong>Simone Onofri, W3C Security Lead</strong><br>
       <em>Threat Modeling Digital Credentials: What Could Go Wrong?</em><br>
       <a href="https://github.com/OWASP/www-chapter-italy/blob/220f33d350f4c094399a731140b4b7fc6c183469/assets/images/2025/2025-Onofri.pptx">🔗 View Presentation</a>
@@ -73,13 +73,13 @@ Here is a snapshot of our presentations and events from 2025:
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/OWASP/www-chapter-italy/blob/220f33d350f4c094399a731140b4b7fc6c183469/assets/images/2025/Marco.jpeg" width="250"><br>
+      <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/2025/Marco.jpeg" width="250"><br>
       <strong>Marco Morana,  Field CISO @ Avocado Systems</strong><br>
       <em>Threat Modeling AI & Blockchain Applications</em><br>
       <a href="https://github.com/OWASP/www-chapter-italy/blob/220f33d350f4c094399a731140b4b7fc6c183469/assets/images/2025/2025-Morana.pptx">🔗 View Presentation</a>
     </td>
     <td>
-      <img src="https://github.com/OWASP/www-chapter-italy/blob/220f33d350f4c094399a731140b4b7fc6c183469/assets/images/2025/Masacci.jpeg" width="250"><br>
+      <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/2025/Masacci.jpeg" width="250"><br>
       <strong>Fabio Masacci, Prof. @ VU Amsterdam / UniTrento</strong><br>
       <em>If Your Helm Chart Is Insecure…</em><br>
       <a href="https://github.com/OWASP/www-chapter-italy/blob/220f33d350f4c094399a731140b4b7fc6c183469/assets/images/2025/2025-Masacci.pptx">🔗 View Presentation</a>
@@ -87,13 +87,13 @@ Here is a snapshot of our presentations and events from 2025:
   </tr>
     <tr>
     <td>
-      <img src="https://github.com/OWASP/www-chapter-italy/blob/220f33d350f4c094399a731140b4b7fc6c183469/assets/images/2025/Enrico.jpeg" width="250"><br>
+      <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/2025/Enrico.jpeg" width="250"><br>
       <strong>Enrico Trasatti e Francesco Favara, Sogei</strong><br>
       <em>DevSecOps: Where to Move To?</em><br>
       <a href="/assets/images/2025/">🔗 Wait for approval</a>
     </td>
     <td>
-      <img src="https://github.com/OWASP/www-chapter-italy/blob/220f33d350f4c094399a731140b4b7fc6c183469/assets/images/2025/IASemplice.jpeg" width="250"><br>
+      <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/2025/IASemplice.jpeg" width="250"><br>
       <strong>Giacinto Fiore & Pasquale Viscanti, IA Spiegata Semplice / AIWEEK</strong><br>
       <em>A Chat with AI – Simply Explained!</em><br>
       <a href="/assets/images/2025/">🔗 Link at the video</a>
@@ -101,13 +101,13 @@ Here is a snapshot of our presentations and events from 2025:
   </tr>
       <tr>
     <td>
-      <img src="https://github.com/OWASP/www-chapter-italy/blob/220f33d350f4c094399a731140b4b7fc6c183469/assets/images/2025/Luca.jpeg" width="250"><br>
+      <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/2025/Luca.jpeg" width="250"><br>
       <strong>Luca Compagna, Security @ EndorLabs </strong><br>
       <em>Evolving Your AppSec Program in the Era of AI</em><br>
       <a href="https://github.com/OWASP/www-chapter-italy/blob/220f33d350f4c094399a731140b4b7fc6c183469/assets/images/2025/2025-Compagna.pdf">🔗 View Presentation</a>
     </td>
     <td>
-      <img src="https://github.com/OWASP/www-chapter-italy/blob/220f33d350f4c094399a731140b4b7fc6c183469/assets/images/2025/PagoPA.jpeg" width="250"><br>
+      <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/2025/PagoPA.jpeg" width="250"><br>
       <strong>F. Paolo Giordano, PagoPA</strong><br>
       <em>Building a Product Security Team</em><br>
       <a href="https://github.com/OWASP/www-chapter-italy/blob/220f33d350f4c094399a731140b4b7fc6c183469/assets/images/2025/2025-Giordano.pptx">🔗 View Presentation</a>
@@ -115,7 +115,7 @@ Here is a snapshot of our presentations and events from 2025:
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/OWASP/www-chapter-italy/blob/220f33d350f4c094399a731140b4b7fc6c183469/assets/images/2025/Fab.jpeg" width="250"><br>
+      <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/2025/Fab.jpeg" width="250"><br>
       <strong>Fabrizio Bugli, Checkmarx</strong><br>
       <em>Threats in Models; Considerations and Impact of AI Supply Chain in Application Security</em><br>
       <a href="https://github.com/OWASP/www-chapter-italy/blob/f3698a27d130cea1f56c4e57017f245b7ece2e07/assets/images/2025/2025-Bugli.pptx">🔗 View Presentation</a>

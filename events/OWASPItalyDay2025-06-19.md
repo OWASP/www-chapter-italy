@@ -96,7 +96,7 @@ Here is a snapshot of our presentations and events from 2025:
       <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/2025/IASemplice.jpeg" width="350"><br>
       <strong>Giacinto Fiore & Pasquale Viscanti, IA Spiegata Semplice / AIWEEK</strong><br>
       <em>A Chat with AI – Simply Explained!</em><br>
-      <a href="/assets/images/2025/">🔗 Link at the video</a>
+      <a href="/assets/images/2025/">🔗 The video will be available soon</a>
     </td>
   </tr>
       <tr>

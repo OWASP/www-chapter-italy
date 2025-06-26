@@ -34,18 +34,17 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 Stay tuned for the next update!  
 
-## 2025 Planned Events
+## 2025 Events
 We are planning the following events for 2025:
+
+### OWASP Italy Meetup Fall 2025
 
 ### 19th June 2025: OWASP Italy Day in Cagliari!
 For further details regarding the event, please refer to the following [link](https://owasp.org/www-chapter-italy/events/OWASPItalyDay2025-06-19)
 
----
-## Past Event 2025: 
-
 ### 13th March 2025: OWASP Italy @ Security Summit!
-We will have 2 talks at tbe next Security Summit:
-https://securitysummit.it/milano-2025
+We had 2 talks at the Security Summit.
+[More details here](https://securitysummit.it/milano-2025/security-summit-milano-2025-seminario-owasp)
 
 ---
 

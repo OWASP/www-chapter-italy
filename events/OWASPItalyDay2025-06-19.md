@@ -90,7 +90,7 @@ Here is a snapshot of our presentations and events from 2025:
       <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/2025/Enrico.jpeg" width="350"><br>
       <strong>Enrico Trasatti e Francesco Favara, Sogei</strong><br>
       <em>DevSecOps: Where to Move To?</em><br>
-      <a href="/assets/images/2025/">🔗 Wait for approval</a>
+      <a href="https://github.com/OWASP/www-chapter-italy/blob/98139ba157abee4f4a2ae6d0d57bb87f29fe51b6/assets/images/2025/2025-OWASP-Sogei-DevSecOps-Cagliari_v2.pdf">🔗 View Presentation</a>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/2025/IASemplice.jpeg" width="350"><br>

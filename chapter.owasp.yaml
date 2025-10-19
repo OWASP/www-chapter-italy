@@ -1,0 +1,27 @@
+community:
+  - name: chapter-italy
+    platform: slack
+    url: https://owasp.slack.com/archives/C2M6L0D63
+leaders:
+  - name: Matteo Meucci
+    email: matteo.meucci@owasp.org
+    github: MatOwasp
+  - name: Davide Ariu
+    email: davide.ariu@owasp.org
+    github: dadowasp
+location:
+  country: Italy
+  country_code: IT
+  region: Europe
+  latitude: 42.6384261
+  longitude: 12.674297
+name: OWASP Italy
+repositories:
+  - name: www-chapter-italy
+    url: https://github.com/OWASP/www-chapter-italy
+    description: OWASP Foundation Web Repository
+tags:
+  - home
+  - Italy
+  - custom-tag-1
+website: https://owasp.org/www-chapter-italy

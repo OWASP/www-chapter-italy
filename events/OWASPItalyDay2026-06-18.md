@@ -84,8 +84,3 @@ All details are available in the official Call for Trainers:
 Back to the [OWASP Italy Chapter](https://owasp.org/www-chapter-italy)
 
 ---
-```
-
----
-
-Would you like me to also create the **matching “Call for Trainers” markdown page** (to link with the `👉 [OWASP Italy Day 2026 – CfT Details](#)` placeholder), using OWASP’s standard CfT layout and sections (topics, trainer terms, profit share, submission link, etc.)?

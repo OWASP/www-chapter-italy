@@ -79,7 +79,9 @@ All details are available in the official Call for Trainers:
 ## 🧭 Organizers
 
 - **Davide Ariu**, OWASP Italy Chair & Pluribus One  
-- **Matteo Meucci**, OWASP Italy Chair & Synapsed.ai  
+- **Matteo Meucci**, OWASP Italy Chair & Synapsed.ai
+- **Laura Ariu, OWASP Italy & Pluribus One
+- **Luca Piras, OWASP Italy & Pluribus One
 
 Back to the [OWASP Italy Chapter](https://owasp.org/www-chapter-italy)
 

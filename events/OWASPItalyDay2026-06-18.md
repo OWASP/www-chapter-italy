@@ -42,28 +42,9 @@ We are looking for **1-day and 1.5-day hands-on trainings** on topics such as:
 
 Trainers are encouraged to submit courses that are **practical, skill-oriented, and include real exercises and labs**.  
 All details are available in the official Call for Trainers:  
-👉 [OWASP Italy Day 2026 – CfT Details](#) *(link to be added once published)*  
+👉 [OWASP Italy Day 2026 – CfT Details](https://sessionize.com/owasp-italy-day-cft-2026/)
 
----
-
-## 💡 Themes for 2026
-
-- **AI Security & Trustworthiness**  
-- **AppSec in the Era of LLMs and Generative AI**  
-- **DevSecOps & Automation**  
-- **Secure Coding and Software Supply Chain Security**  
-- **Threat Modeling and Risk Assessment**  
-- **OWASP Projects in Practice**
-
----
-
-## 🏖️ Location
-
-**Venue:** TBD 
-
----
-
-## 🧑‍🏫 Call for Trainers – Key Dates
+### Call for Trainers – Key Dates
 
 | Phase | Date |
 |-------|------|
@@ -73,6 +54,70 @@ All details are available in the official Call for Trainers:
 | Program Announcement | Week of January 26, 2026 |
 | Training Day(s) | June 17–18, 2026 |
 | OWASP Italy Day Conference | June 18, 2026 – from 3:30 PM |
+
+
+---
+
+## 📝 Call for Papers (CfP)
+
+The **Call for Papers (CfP)** opens on **November 14, 2025**, and closes on **January 12, 2026 (11:59 PM EST)**.
+
+We invite **practitioners, researchers, engineers, and leaders** to submit high-quality talks that offer **practical insights, case studies, and real-world solutions** in the fields of **Application Security, AI Security, and Trustworthy AI**.
+
+We welcome proposals covering (but not limited to):
+
+### 🔐 Application Security & DevSecOps
+
+* Secure development practices and modern SDLC
+* DevSecOps workflows and automation
+* Cloud, Mobile, and Container Security
+* Vulnerability research and exploit analysis
+* Code review, threat modeling, red/blue/purple teaming
+* Secure architecture patterns and defensive strategies
+
+### 🤖 AI Security & Trustworthy AI
+
+* AI threat modeling, attack surfaces, and testing
+* Responsible AI, governance, and compliance
+* Model security (LLM vulnerabilities, poisoning, inference attacks)
+* AI supply chain risks
+* Secure AI development lifecycle (AI-SDLC)
+* Tools, frameworks, and practical defensive techniques
+
+### 🌐 Emerging Topics & Industry Case Studies
+
+* Research results or ongoing academic work
+* Real-world lessons learned from enterprise deployments
+* Innovative frameworks, tools, and methodologies
+* Regulatory alignment (EU AI Act, NIST AI RMF, ISO/IEC 42001 & 5338)
+
+All submissions should aim to deliver **actionable insights**, demos, or technical depth—keeping OWASP’s mission of **open knowledge and community value** at the core.
+
+Full details are available in the official Call for Papers form:
+👉 **[OWASP Italy Day 2026 – CfP Details](https://sessionize.com/owasp-italy-day-cfs-2026/)
+
+---
+
+### Call for Papers – Key Dates
+
+| Phase                     | Date                             |
+| ------------------------- | -------------------------------- |
+| CfP Opens                 | November 14, 2025                 |
+| CfP Closes                | January 12, 2026 – 11:59 PM EST  |
+| Review & Selection        | January 12–19, 2026              |
+| Notifications to Speakers | Week of January 19, 2026         |
+| Program Announcement      | Week of January 26, 2026         |
+| Conference Day            | **June 18, 2026 – from 3:30 PM** |
+
+---
+
+## 🏖️ Location
+
+**Venue:** TBD 
+
+---
+
+
 
 ---
 

@@ -65,31 +65,18 @@ The **Call for Papers (CfP)** opens on **November 14, 2025**, and closes on **Ja
 We invite **practitioners, researchers, engineers, and leaders** to submit high-quality talks that offer **practical insights, case studies, and real-world solutions** in the fields of **Application Security, AI Security, and Trustworthy AI**.
 
 We welcome proposals covering (but not limited to):
-
-### 🔐 Application Security & DevSecOps
-
 * Secure development practices and modern SDLC
-* DevSecOps workflows and automation
-* Cloud, Mobile, and Container Security
-* Vulnerability research and exploit analysis
-* Code review, threat modeling, red/blue/purple teaming
-* Secure architecture patterns and defensive strategies
-
-### 🤖 AI Security & Trustworthy AI
-
 * AI threat modeling, attack surfaces, and testing
-* Responsible AI, governance, and compliance
-* Model security (LLM vulnerabilities, poisoning, inference attacks)
-* AI supply chain risks
 * Secure AI development lifecycle (AI-SDLC)
-* Tools, frameworks, and practical defensive techniques
-
-### 🌐 Emerging Topics & Industry Case Studies
-
-* Research results or ongoing academic work
-* Real-world lessons learned from enterprise deployments
-* Innovative frameworks, tools, and methodologies
-* Regulatory alignment (EU AI Act, NIST AI RMF, ISO/IEC 42001 & 5338)
+* AppSec
+* Artificial Intelligence (AI)
+* Security for mobile, cloud and serverless applications
+* Blockchain and Internet of Things for security-related uses
+* Penetration testing and application-level attacks
+* Threat modeling, application and systems architecture
+* DevSecOps
+* Planning and implementation of an application security program
+* Creation of a team and culture dedicated to application security (AppSec)  
 
 All submissions should aim to deliver **actionable insights**, demos, or technical depth—keeping OWASP’s mission of **open knowledge and community value** at the core.
 

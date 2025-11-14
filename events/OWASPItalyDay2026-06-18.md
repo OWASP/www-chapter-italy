@@ -83,8 +83,6 @@ All submissions should aim to deliver **actionable insights**, demos, or technic
 Full details are available in the official Call for Papers form:
 👉 **[OWASP Italy Day 2026 – CfP Details](https://sessionize.com/owasp-italy-day-cfs-2026/)
 
----
-
 ### Call for Papers – Key Dates
 
 | Phase                     | Date                             |

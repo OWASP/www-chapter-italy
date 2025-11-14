@@ -10,7 +10,7 @@ region: Europe
 <br> 
 <br> 
 <center> 
-<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/OWASPITADAY2026Banner.png?raw=true" width=1200/>  
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/OWASPITADAY2026Banner.png?raw=true" width=800/>  
 </center>
 <br> 
 <br> 

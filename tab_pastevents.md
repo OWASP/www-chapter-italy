@@ -1014,7 +1014,7 @@ the full article.
 -----
 
 Luca Carettoni has published the article "La sicurezza delle
-applicazioni Web secondo l'Open Web Application Security Project".
+applicazioni Web secondo l'Open Worldwide Application Security Project".
 [Here](http://sicurezza.html.it/articoli/leggi/1721/la-sicurezza-delle-applicazioni-web-secondo-lopen-/)you
 can read the full article.
 

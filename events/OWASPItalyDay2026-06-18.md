@@ -108,9 +108,9 @@ An advanced guide to Android mobile security, based on real-world experience fro
 ## 🧭 Organizers
 
 - <img src="../assets/images/organizers/davide-ariu.jpg?raw=true" alt="Davide Ariu" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />**Davide Ariu**, OWASP Italy Chair & Pluribus One  
-- <img src="/assets/images/organizers/matteo-meucci.jpg?raw=true" alt="Matteo Meucci" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />**Matteo Meucci**, OWASP Italy Chair & Synapsed.ai
-- <img src="/assets/images/organizers/laura-ariu.jpg?raw=true" alt="Laura Arius" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />**Laura Ariu**, OWASP Italy & Pluribus One
-- <img src="/assets/images/organizers/luca-piras.jpg?raw=true" alt="Luca Piras" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />**Luca Piras**, OWASP Italy & Pluribus One
+- <img src="../assets/images/organizers/matteo-meucci.jpg?raw=true" alt="Matteo Meucci" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />**Matteo Meucci**, OWASP Italy Chair & Synapsed.ai
+- <img src="../assets/images/organizers/laura-ariu.jpg?raw=true" alt="Laura Arius" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />**Laura Ariu**, OWASP Italy & Pluribus One
+- <img src="../assets/images/organizers/luca-piras.jpg?raw=true" alt="Luca Piras" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />**Luca Piras**, OWASP Italy & Pluribus One
 
 Back to the [OWASP Italy Chapter](https://owasp.org/www-chapter-italy)
 

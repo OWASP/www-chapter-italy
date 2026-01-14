@@ -36,7 +36,17 @@ Stay tuned for the next update!
 
 ---
 
-# OWASP ITALY 2026!
+# Next onsite event: OWASP ITALY 2026!
+
+<br> 
+<br> 
+<center> 
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/OWASP-IT-26-banner.png?raw=true" width=600/>  
+</center>
+<br> 
+<br> 
+
+
 We are planning the next OWASP Italy 2026 in Cagliari, Call for Sponsorship, Call for Trainings will open soon!
 More details [here](https://owasp.org/www-chapter-italy/events/OWASPItalyDay2026-06-18)
 

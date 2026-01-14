@@ -34,7 +34,7 @@ OWASP continues to strongly invest in **advanced training on AI Security, Threat
 Below is a selection of **official OWASP trainings** available in 2026, delivered by international experts and OWASP project leaders.
 
 
-### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/marco-morana.jpg?raw=true" alt="Marco Morana" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> 🧠 AI-Powered Threat Modeling  
+### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/marco-morana.jpg?raw=true" alt="Marco Morana" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> AI-Powered Threat Modeling  
 **Modernizing Security Analysis with LLM Augmentation**
 
 - **Speaker:** [Marco Morana](https://www.linkedin.com/in/go4it)  
@@ -45,7 +45,7 @@ Below is a selection of **official OWASP trainings** available in 2026, delivere
 An advanced training focused on modernizing Threat Modeling by leveraging Large Language Models and AI augmentation techniques to improve security risk analysis.
 
 
-### <img src="https://github.com/OWASP/www-chapter-italy/blob/456ae7d721d2db1e4a04ff690dbbe4b91e1a2654/assets/images/trainers/fabio-cerullo.jpg?raw=true" alt="Fabio Cerullo" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> 🔐 Secure Coding for Large Language Model Applications
+### <img src="https://github.com/OWASP/www-chapter-italy/blob/456ae7d721d2db1e4a04ff690dbbe4b91e1a2654/assets/images/trainers/fabio-cerullo.jpg?raw=true" alt="Fabio Cerullo" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> Secure Coding for Large Language Model Applications
 
 - **Speaker:** [Fabio Cerullo](https://ie.linkedin.com/in/fcerullo)  
   *Cycubix LTD*
@@ -55,7 +55,7 @@ An advanced training focused on modernizing Threat Modeling by leveraging Large 
 A practical introduction to secure development of LLM-based applications, covering common vulnerabilities, security patterns, and best practices.
 
 
-### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/vandana-verma-sehgal.jpg?raw=true" alt="Vandana Verma Sehgal" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> 🤖 AI Security Training
+### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/vandana-verma-sehgal.jpg?raw=true" alt="Vandana Verma Sehgal" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> AI Security Training
 
 - **Speaker:** [Vandana Verma Sehgal](https://in.linkedin.com/in/vandana-verma)  
   *Member, OWASP Global Board of Directors*
@@ -65,7 +65,7 @@ A practical introduction to secure development of LLM-based applications, coveri
 An introductory training covering the fundamentals of AI security, designed for professionals looking to understand threats, risks, and mitigation strategies in real-world environments.
 
 
-### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/krishnendu-dasgupta.jpg?raw=true" alt="Krishnendu Dasgupta" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> 🌐 Building, Securing, and Deploying AI Agent Swarms  
+### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/krishnendu-dasgupta.jpg?raw=true" alt="Krishnendu Dasgupta" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> Building, Securing, and Deploying AI Agent Swarms  
 **in a Trustless Decentralized Ecosystem**
 
 - **Speaker:** [Krishnendu Dasgupta](https://in.linkedin.com/in/krishdasgupta)  
@@ -76,7 +76,7 @@ An introductory training covering the fundamentals of AI security, designed for 
 An innovative training focused on designing, securing, and deploying AI agent swarms within decentralized and trustless ecosystems.
 
 
-### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/sven-schleier.jpg?raw=true" alt="Sven Schleier" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> 📱 The Mobile Playbook  
+### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/sven-schleier.jpg?raw=true" alt="Sven Schleier" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> The Mobile Playbook  
 **A Guide for Android Security**
 
 - **Speaker:** [Sven Schleier](https://at.linkedin.com/in/sven-schleier)  

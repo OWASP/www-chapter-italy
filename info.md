@@ -2,7 +2,9 @@
 * OWASP-Italy
 
 ### Social Links
-* [Meetup](https://www.meetup.com/owasp-italy-meetup-group/)
+
+* [Slack](https://owasp.slack.com/)
+#chapter-italy channel
 
 * [OWASP-Italy Google group](https://groups.google.com/a/owasp.org/g/italy-chapter)
 
@@ -10,7 +12,6 @@
 
 * [OWASP-Italy Twitter](https://twitter.com/owaspitaly)
 
-* [Slack](https://owasp.slack.com/)
-chapter-italy channel
+
 
 

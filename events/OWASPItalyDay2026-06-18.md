@@ -34,7 +34,7 @@ OWASP continues to strongly invest in **advanced training on AI Security, Threat
 Below is a selection of **official OWASP trainings** available in 2026, delivered by international experts and OWASP project leaders.
 
 
-### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/marco-morana.jpg" alt="Marco Morana" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> 🧠 AI-Powered Threat Modeling  
+### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/marco-morana.jpg?raw=true" alt="Marco Morana" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> 🧠 AI-Powered Threat Modeling  
 **Modernizing Security Analysis with LLM Augmentation**
 
 - **Speaker:** [Marco Morana](https://www.linkedin.com/in/go4it)  
@@ -45,7 +45,7 @@ Below is a selection of **official OWASP trainings** available in 2026, delivere
 An advanced training focused on modernizing Threat Modeling by leveraging Large Language Models and AI augmentation techniques to improve security risk analysis.
 
 
-### <img src="https://github.com/OWASP/www-chapter-italy/blob/456ae7d721d2db1e4a04ff690dbbe4b91e1a2654/assets/images/trainers/fabio-cerullo.jpg" alt="Fabio Cerullo" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> 🔐 Secure Coding for Large Language Model Applications
+### <img src="https://github.com/OWASP/www-chapter-italy/blob/456ae7d721d2db1e4a04ff690dbbe4b91e1a2654/assets/images/trainers/fabio-cerullo.jpg?raw=true" alt="Fabio Cerullo" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> 🔐 Secure Coding for Large Language Model Applications
 
 - **Speaker:** [Fabio Cerullo](https://ie.linkedin.com/in/fcerullo)  
   *Cycubix LTD*

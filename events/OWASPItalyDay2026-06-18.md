@@ -26,17 +26,18 @@ The main conference will start on **June 18th at 3:30 PM**, following a day of *
 
 ---
 
-## 🎓 "AI & Security Trainings – 2026 Program"
+
+## 🎓 AI & Security Trainings – 2026 Program
 
 OWASP continues to strongly invest in **advanced training on AI Security, Threat Modeling, and Secure Development**.
 
 Below is a selection of **official OWASP trainings** available in 2026, delivered by international experts and OWASP project leaders.
 
 
-### 🧠 AI-Powered Threat Modeling  
+### <img src="/assets/images/trainers/marco-morana.jpg" alt="Marco Morana" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> 🧠 AI-Powered Threat Modeling  
 **Modernizing Security Analysis with LLM Augmentation**
 
-- **Speaker:** Marco Morana  
+- **Speaker:** [Marco Morana](https://www.linkedin.com/in/go4it)  
   *Field CISO – Head of Application & Product Security Architecture, Avocado Systems Inc.*
 - **Format:** 1.5-day training  
 - **Level:** Intermediate  
@@ -44,9 +45,9 @@ Below is a selection of **official OWASP trainings** available in 2026, delivere
 An advanced training focused on modernizing Threat Modeling by leveraging Large Language Models and AI augmentation techniques to improve security risk analysis.
 
 
-### 🔐 Secure Coding for Large Language Model Applications
+### <img src="/assets/images/trainers/fabio-cerullo.jpg" alt="Fabio Cerullo" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> 🔐 Secure Coding for Large Language Model Applications
 
-- **Speaker:** Fabio Cerullo  
+- **Speaker:** [Fabio Cerullo](https://ie.linkedin.com/in/fcerullo)  
   *Cycubix LTD*
 - **Format:** 1.5-day training  
 - **Level:** Introductory / Overview  
@@ -54,9 +55,9 @@ An advanced training focused on modernizing Threat Modeling by leveraging Large 
 A practical introduction to secure development of LLM-based applications, covering common vulnerabilities, security patterns, and best practices.
 
 
-### 🤖 AI Security Training
+### <img src="/assets/images/trainers/vandana-verma-sehgal.jpg" alt="Vandana Verma Sehgal" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> 🤖 AI Security Training
 
-- **Speaker:** Vandana Verma Sehgal  
+- **Speaker:** [Vandana Verma Sehgal](https://in.linkedin.com/in/vandana-verma)  
   *Member, OWASP Global Board of Directors*
 - **Format:** 1-day training  
 - **Level:** Introductory / Overview  
@@ -64,10 +65,10 @@ A practical introduction to secure development of LLM-based applications, coveri
 An introductory training covering the fundamentals of AI security, designed for professionals looking to understand threats, risks, and mitigation strategies in real-world environments.
 
 
-### 🌐 Building, Securing, and Deploying AI Agent Swarms  
+### <img src="/assets/images/trainers/krishnendu-dasgupta.jpg" alt="Krishnendu Dasgupta" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> 🌐 Building, Securing, and Deploying AI Agent Swarms  
 **in a Trustless Decentralized Ecosystem**
 
-- **Speaker:** Krishnendu Dasgupta  
+- **Speaker:** [Krishnendu Dasgupta](https://in.linkedin.com/in/krishdasgupta)  
   *Founder, AXONVERTEX AI*
 - **Format:** 1-day training  
 - **Level:** Intermediate  
@@ -75,10 +76,10 @@ An introductory training covering the fundamentals of AI security, designed for 
 An innovative training focused on designing, securing, and deploying AI agent swarms within decentralized and trustless ecosystems.
 
 
-### 📱 The Mobile Playbook  
+### <img src="/assets/images/trainers/sven-schleier.jpg" alt="Sven Schleier" width="28" height="28" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> 📱 The Mobile Playbook  
 **A Guide for Android Security**
 
-- **Speaker:** Sven Schleier  
+- **Speaker:** [Sven Schleier](https://at.linkedin.com/in/sven-schleier)  
   *OWASP MAS Project Co-Lead*
 - **Format:** 1-day training  
 - **Level:** Advanced  
@@ -86,9 +87,12 @@ An innovative training focused on designing, securing, and deploying AI agent sw
 An advanced guide to Android mobile security, based on real-world experience from the OWASP Mobile Application Security (MAS) project.
 
 
+### Key Dates
+
+| Item | Date |
+|---|---|
 | Training Day(s) | June 17–18, 2026 |
 | OWASP Italy Day Conference | June 18, 2026 – from 3:30 PM |
-
 
 
 

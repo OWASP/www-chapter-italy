@@ -26,32 +26,72 @@ The main conference will start on **June 18th at 3:30 PM**, following a day of *
 
 ---
 
-## 🎓 Call for Trainers (CfT)
+## 🎓 "AI & Security Trainings – 2026 Program"
 
-The **Call for Trainers (CfT)** opens on **October 27, 2025**, and closes on **December 22, 2025 (11:59 PM EST)**.  
+OWASP continues to strongly invest in **advanced training on AI Security, Threat Modeling, and Secure Development**.
 
-We are looking for **1-day and 1.5-day hands-on trainings** on topics such as:  
+Below is a selection of **official OWASP trainings** available in 2026, delivered by international experts and OWASP project leaders.
 
-- Secure development, frameworks, SDLC  
-- DevSecOps and SRE integration  
-- Vulnerability analysis and code review  
-- Threat modeling  
-- Mobile, Cloud, and Container Security  
-- OWASP tools in practice  
-- **AI Security and Trustworthy AI**  
+---
 
-Trainers are encouraged to submit courses that are **practical, skill-oriented, and include real exercises and labs**.  
-All details are available in the official Call for Trainers:  
-👉 [OWASP Italy Day 2026 – CfT Details](https://sessionize.com/owasp-italy-day-cft-2026/)
+### 🧠 AI-Powered Threat Modeling  
+**Modernizing Security Analysis with LLM Augmentation**
 
-### Call for Trainers – Key Dates
+- **Speaker:** Marco Morana  
+  *Field CISO – Head of Application & Product Security Architecture, Avocado Systems Inc.*
+- **Format:** 1.5-day training  
+- **Level:** Intermediate  
 
-| Phase | Date |
-|-------|------|
-| CfT Opens | October 27, 2025 |
-| CfT Closes | December 22, 2025 – 11:59 PM EST |
-| Notifications | Week of January 19, 2026 |
-| Program Announcement | Week of January 26, 2026 |
+An advanced training focused on modernizing Threat Modeling by leveraging Large Language Models and AI augmentation techniques to improve security risk analysis.
+
+---
+
+### 🔐 Secure Coding for Large Language Model Applications
+
+- **Speaker:** Fabio Cerullo  
+  *Cycubix LTD*
+- **Format:** 1.5-day training  
+- **Level:** Introductory / Overview  
+
+A practical introduction to secure development of LLM-based applications, covering common vulnerabilities, security patterns, and best practices.
+
+---
+
+### 🤖 AI Security Training
+
+- **Speaker:** Vandana Verma Sehgal  
+  *Member, OWASP Global Board of Directors*
+- **Format:** 1-day training  
+- **Level:** Introductory / Overview  
+
+An introductory training covering the fundamentals of AI security, designed for professionals looking to understand threats, risks, and mitigation strategies in real-world environments.
+
+---
+
+### 🌐 Building, Securing, and Deploying AI Agent Swarms  
+**in a Trustless Decentralized Ecosystem**
+
+- **Speaker:** Krishnendu Dasgupta  
+  *Founder, AXONVERTEX AI*
+- **Format:** 1-day training  
+- **Level:** Intermediate  
+
+An innovative training focused on designing, securing, and deploying AI agent swarms within decentralized and trustless ecosystems.
+
+---
+
+### 📱 The Mobile Playbook  
+**A Guide for Android Security**
+
+- **Speaker:** Sven Schleier  
+  *OWASP MAS Project Co-Lead*
+- **Format:** 1-day training  
+- **Level:** Advanced  
+
+An advanced guide to Android mobile security, based on real-world experience from the OWASP Mobile Application Security (MAS) project.
+
+
+
 | Training Day(s) | June 17–18, 2026 |
 | OWASP Italy Day Conference | June 18, 2026 – from 3:30 PM |
 

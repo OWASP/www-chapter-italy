@@ -47,7 +47,7 @@ Stay tuned for the next update!
 <br> 
 
 
-We are planning the next OWASP Italy 2026 in Cagliari, Call for Sponsorship, Call for Trainings will open soon!
+We are planning the next OWASP Italy 2026 in Cagliari!
 More details [here](https://owasp.org/www-chapter-italy/events/OWASPItalyDay2026-06-18)
 
 ---

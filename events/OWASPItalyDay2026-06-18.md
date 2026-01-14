@@ -32,7 +32,6 @@ OWASP continues to strongly invest in **advanced training on AI Security, Threat
 
 Below is a selection of **official OWASP trainings** available in 2026, delivered by international experts and OWASP project leaders.
 
----
 
 ### 🧠 AI-Powered Threat Modeling  
 **Modernizing Security Analysis with LLM Augmentation**
@@ -44,7 +43,6 @@ Below is a selection of **official OWASP trainings** available in 2026, delivere
 
 An advanced training focused on modernizing Threat Modeling by leveraging Large Language Models and AI augmentation techniques to improve security risk analysis.
 
----
 
 ### 🔐 Secure Coding for Large Language Model Applications
 
@@ -55,7 +53,6 @@ An advanced training focused on modernizing Threat Modeling by leveraging Large 
 
 A practical introduction to secure development of LLM-based applications, covering common vulnerabilities, security patterns, and best practices.
 
----
 
 ### 🤖 AI Security Training
 
@@ -66,7 +63,6 @@ A practical introduction to secure development of LLM-based applications, coveri
 
 An introductory training covering the fundamentals of AI security, designed for professionals looking to understand threats, risks, and mitigation strategies in real-world environments.
 
----
 
 ### 🌐 Building, Securing, and Deploying AI Agent Swarms  
 **in a Trustless Decentralized Ecosystem**
@@ -78,7 +74,6 @@ An introductory training covering the fundamentals of AI security, designed for 
 
 An innovative training focused on designing, securing, and deploying AI agent swarms within decentralized and trustless ecosystems.
 
----
 
 ### 📱 The Mobile Playbook  
 **A Guide for Android Security**
@@ -91,60 +86,20 @@ An innovative training focused on designing, securing, and deploying AI agent sw
 An advanced guide to Android mobile security, based on real-world experience from the OWASP Mobile Application Security (MAS) project.
 
 
-
 | Training Day(s) | June 17–18, 2026 |
 | OWASP Italy Day Conference | June 18, 2026 – from 3:30 PM |
 
 
----
 
-## 📝 Call for Papers (CfP)
-
-The **Call for Papers (CfP)** opens on **November 14, 2025**, and closes on **January 12, 2026 (11:59 PM EST)**.
-
-We invite **practitioners, researchers, engineers, and leaders** to submit high-quality talks that offer **practical insights, case studies, and real-world solutions** in the fields of **Application Security, AI Security, and Trustworthy AI**.
-
-We welcome proposals covering (but not limited to):
-* Secure development practices and modern SDLC
-* AI threat modeling, attack surfaces, and testing
-* Secure AI development lifecycle (AI-SDLC)
-* AppSec
-* Artificial Intelligence (AI)
-* Security for mobile, cloud and serverless applications
-* Blockchain and Internet of Things for security-related uses
-* Penetration testing and application-level attacks
-* Threat modeling, application and systems architecture
-* DevSecOps
-* Planning and implementation of an application security program
-* Creation of a team and culture dedicated to application security (AppSec)  
-
-All submissions should aim to deliver **actionable insights**, demos, or technical depth—keeping OWASP’s mission of **open knowledge and community value** at the core.
-
-Full details are available in the official Call for Papers form:
-👉 **[OWASP Italy Day 2026 – CfP Details](https://sessionize.com/owasp-italy-day-cfs-2026/)
-
-### Call for Papers – Key Dates
-
-| Phase                     | Date                             |
-| ------------------------- | -------------------------------- |
-| CfP Opens                 | November 14, 2025                 |
-| CfP Closes                | January 12, 2026 – 11:59 PM EST  |
-| Review & Selection        | January 12–19, 2026              |
-| Notifications to Speakers | Week of January 19, 2026         |
-| Program Announcement      | Week of January 26, 2026         |
-| Conference Day            | **June 18, 2026 – from 3:30 PM** |
 
 ---
 
 ## 🏖️ Location
 
-**Venue:** TBD 
+**Venue:** Emerson Beach Club - Cagliari (Italy)
 
 ---
 
-
-
----
 
 ## 🧭 Organizers
 

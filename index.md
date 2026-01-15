@@ -42,7 +42,7 @@ Starting at 4 PM CET
 
 ## Speakers
 
-### Simone Curzi - Microsoft <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/speakers/simone-curzi.jpeg?raw=true" alt="Marco Morana" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />
+### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/speakers/simone-curzi.jpeg?raw=true" alt="Marco Morana" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> Simone Curzi - Microsoft 
 
 **Talk:** *Am I Secure Enough? Rethinking Security as an Investment with Quantitative Risk Analysis*
 
@@ -59,7 +59,7 @@ The result is not just better prioritization, but a shared language that allows 
 
 ---
 
-### Krishnendu Dasgupta - AXONVERTEX AI  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/krishnendu-dasgupta.jpg?raw=true" alt="Marco Morana" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />
+### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/krishnendu-dasgupta.jpg?raw=true" alt="Marco Morana" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> Krishnendu Dasgupta - AXONVERTEX AI  
 
 **Talk (draft):** *Your Agents Have Power — Do They Have Guardrails? Engineering Agent Security in Practice*
 

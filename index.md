@@ -42,8 +42,7 @@ Starting at 4 PM CET
 
 ## Speakers
 
-### Simone Curzi - Microsoft
-![Simone Curzi](assets/images/speakers/simone-curzi.jpeg)
+### Simone Curzi - Microsoft <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/simone-curzi.jpeg?raw=true" alt="Marco Morana" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />
 
 **Talk:** *Am I Secure Enough? Rethinking Security as an Investment with Quantitative Risk Analysis*
 
@@ -60,8 +59,7 @@ The result is not just better prioritization, but a shared language that allows 
 
 ---
 
-### Krishnendu Dasgupta - AXONVERTEX AI  
-![Krishnendu Dasgupta](assets/images/speakers/krishnendu-dasgupta.jpg)
+### Krishnendu Dasgupta - AXONVERTEX AI  <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/krishnendu-dasgupta.jpg?raw=true" alt="Marco Morana" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />
 
 **Talk (draft):** *Your Agents Have Power — Do They Have Guardrails? Engineering Agent Security in Practice*
 

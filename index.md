@@ -38,35 +38,17 @@ Stay tuned for the next update!
 
 # Next online event: February 13, 2026
 
-Starting at 4 PM CET
-
 ## Speakers
 
 ### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/speakers/simone-curzi.jpeg?raw=true" alt="Marco Morana" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> Simone Curzi - Microsoft 
 
 **Talk:** *Am I Secure Enough? Rethinking Security as an Investment with Quantitative Risk Analysis*
 
-**Synopsis**  
-Security is often treated as a non-negotiable cost: we must be secure, no matter what. In the real world, resources are finite and security decisions have a cost, an operational impact, and a measurable effect on risk.
-
-This talk challenges the idea that one should not ask “Am I secure enough?” or “Which mitigations should I focus on?”. On the contrary, these are the most important questions security professionals should be able to answer.
-
-By applying Quantitative Risk Analysis, security controls can be evaluated in terms of implementation cost, operational cost, and residual risk, enabling a true Return on Security Investment (ROSI) perspective.
-
-The session introduces **QRiskTree**, an open-source tool designed to support this approach, helping security teams model threats, compare mitigations, and make data-informed decisions.
-
-The result is not just better prioritization, but a shared language that allows security professionals to communicate risk and value effectively with business decision makers, reframing security from “a necessary expense” to “a strategic investment”.
-
----
-
 ### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/krishnendu-dasgupta.jpg?raw=true" alt="Marco Morana" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> Krishnendu Dasgupta - AXONVERTEX AI  
 
 **Talk (draft):** *Your Agents Have Power — Do They Have Guardrails? Engineering Agent Security in Practice*
 
-**Synopsis (draft — replace with final abstract)**  
-Modern AI agents can plan, call tools, access data, and execute actions across systems. This session focuses on **Agent Security**: where agents introduce new attack surfaces (tool misuse, permission creep, data exposure, unsafe autonomy) and what practical guardrails are needed to keep agentic workflows secure and trustworthy. We will discuss patterns for least-privilege tool access, policy enforcement, telemetry/traceability, and continuous testing—so teams can move fast without losing control.
-
-
+More information [here](events/2026-02-13-online.md)
 
 ---
 

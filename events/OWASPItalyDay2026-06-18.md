@@ -98,7 +98,7 @@ An advanced guide to Android mobile security, based on real-world experience fro
 
 ---
 
-The **Call for Papers (CfP)** closes on **Februasy 2, 2026 (11:59 PM EST)**.
+## The **Call for Papers (CfP)** closes on **February 2, 2026 (11:59 PM EST)**.
 
 We invite **practitioners, researchers, engineers, and leaders** to submit high-quality talks that offer **practical insights, case studies, and real-world solutions** in the fields of **Application Security, AI Security, and Trustworthy AI**.
 

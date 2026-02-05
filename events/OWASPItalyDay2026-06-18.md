@@ -33,6 +33,8 @@ OWASP continues to strongly invest in **advanced training on AI Security, Threat
 
 Below is a selection of **official OWASP trainings** available in 2026, delivered by international experts and OWASP project leaders.
 
+Please reserve your seat [here](https://www.eventbrite.com/e/owasp-appsec-italy-2026-trainings-tickets-1981026107415)
+
 
 ### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/marco-morana.jpg?raw=true" alt="Marco Morana" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> AI-Powered Threat Modeling  
 **Modernizing Security Analysis with LLM Augmentation**
@@ -94,6 +96,7 @@ An advanced guide to Android mobile security, based on real-world experience fro
 | Training Day(s) | June 17–18, 2026 |
 | OWASP Italy Day Conference | June 18, 2026 – from 3:30 PM |
 
+#### Please reserve your seat [here](https://www.eventbrite.com/e/owasp-appsec-italy-2026-trainings-tickets-1981026107415)
 
 
 ---

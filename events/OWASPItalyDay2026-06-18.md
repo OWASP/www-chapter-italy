@@ -117,11 +117,9 @@ Setting the stage for an evening focused on modern attack surfaces, AI-native th
 
 ---
 
-## 🟣 16:00 – 16:45  
-# 🌟 KEYNOTE SESSION  
-## Vandana Verma — Snyk  
-
-<img src="/assets/images/events/owaspitalyday2026/vandana-verma.jpg" width="200">
+### 🟣 16:00 – 16:45  
+## 🌟 KEYNOTE SESSION  
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/vandana-verma-sehgal.jpg?raw=true" alt="Vandana Verma Sehgal" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> **Vandana Verma** — Snyk  
 
 *Abstract and bio coming soon.*
 

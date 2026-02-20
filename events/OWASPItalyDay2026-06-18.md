@@ -104,13 +104,13 @@ An advanced guide to Android mobile security, based on real-world experience fro
 
 ---
 
-## 🟢 15:00 – 15:45  
-### Registration & Welcome Coffee
+### 🟢 15:00 – 15:45  
+#### Registration & Welcome Coffee
 
 ---
 
-## 🟢 15:45 – 16:00  
-### 🎤 Opening Remarks  
+### 🟢 15:45 – 16:00  
+#### 🎤 Opening Remarks  
 OWASP Italy Leadership  
 
 Setting the stage for an evening focused on modern attack surfaces, AI-native threats, and secure engineering at scale.
@@ -118,7 +118,7 @@ Setting the stage for an evening focused on modern attack surfaces, AI-native th
 ---
 
 ### 🟣 16:00 – 16:45  
-## 🌟 KEYNOTE SESSION  
+#### 🌟 KEYNOTE SESSION  
 <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/vandana-verma-sehgal.jpg?raw=true" alt="Vandana Verma Sehgal" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> **Vandana Verma** — Snyk  
 
 *Abstract and bio coming soon.*
@@ -126,7 +126,7 @@ Setting the stage for an evening focused on modern attack surfaces, AI-native th
 ---
 
 ### 🔵 16:45 – 17:15 
-## Killing the Noise: AI Triage for High-Volume API Security Findings
+#### Killing the Noise: AI Triage for High-Volume API Security Findings
 <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/alessio-dalla-piazza.jpg" alt="Alessio" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> **Alessio Dalla Piazza** — Co-Founder & CTO, Equixly  
 
 **Why this matters:**  

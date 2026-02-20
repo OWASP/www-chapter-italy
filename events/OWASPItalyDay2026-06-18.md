@@ -127,8 +127,9 @@ Setting the stage for an evening focused on modern attack surfaces, AI-native th
 
 ---
 
-### 🔵 16:45 – 17:15 - Killing the Noise: AI Triage for High-Volume API Security Findings
-<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/alessio-dalla-piazza.jpg" alt="Alessio" width="50" height="50" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> **Alessio Dalla Piazza** — Co-Founder & CTO, Equixly  
+### 🔵 16:45 – 17:15 
+## Killing the Noise: AI Triage for High-Volume API Security Findings
+<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/alessio-dalla-piazza.jpg" alt="Alessio" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> **Alessio Dalla Piazza** — Co-Founder & CTO, Equixly  
 
 **Why this matters:**  
 Security teams are drowning in false positives. This talk shows how AI can reduce noise without introducing new risks.
@@ -143,10 +144,9 @@ Security teams are drowning in false positives. This talk shows how AI can reduc
 
 ---
 
-### 🔵 17:45 – 18:15 - From Scratch: Building an AppSec Program That Actually Works  
-<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/julio-araujo.jpg" alt="Julio" width="50" height="50" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />  **Julio Araujo** — Head of Security @ Rocket.Chat  
-
-<img src="/assets/images/events/owaspitalyday2026/julio-araujo.jpg" width="180">
+### 🔵 17:45 – 18:15 
+## From Scratch: Building an AppSec Program That Actually Works  
+<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/julio-araujo.jpg" alt="Julio" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />  **Julio Araujo** — Head of Security @ Rocket.Chat  
 
 A real-world blueprint for building an AppSec program with:
 - Limited resources  
@@ -155,7 +155,7 @@ A real-world blueprint for building an AppSec program with:
 
 Practical lessons from embedding security into SDLC in a fast-moving open-source environment.
 
-📎 linkedin.com/in/julio-cfa/
+📎 https://linkedin.com/in/julio-cfa/
 
 ---
 
@@ -164,15 +164,9 @@ Practical lessons from embedding security into SDLC in a fast-moving open-source
 
 ---
 
-# 🤖 AI SECURITY TRACK
-
----
-
-## 🔴 18:30 – 19:00  
-# It’s Giving Insecure Vibes: Secure Coding Literacy for Vibe Coders  
-### Betta Lyon Delsordo — Ethical Hacker @ AWS  
-
-<img src="/assets/images/events/owaspitalyday2026/betta-lyon-delsordo.png" width="180">
+### 🔴 18:30 – 19:00  
+## It’s Giving Insecure Vibes: Secure Coding Literacy for Vibe Coders  
+<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/betta-lyon-delsordo.png" alt="Betta" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> **Betta Lyon Delsordo** — Ethical Hacker @ AWS  
 
 AI-assisted coding is accelerating development — but also vulnerabilities.
 
@@ -184,15 +178,13 @@ This session covers:
 
 Speaker at DEF CON 33, ESET World, WiCyS.
 
-📎 linkedin.com/in/betta-lyon-delsordo/
+📎 https://linkedin.com/in/betta-lyon-delsordo/
 
 ---
 
-## 🔴 19:00 – 19:30  
-# LLM Prompt Injection: When Language Models Become an Attack Surface  
-### Matteo Grollino — RED Team Senior Member, Relatech  
-
-<img src="/assets/images/events/owaspitalyday2026/matteo-grollino.jpg" width="180">
+### 🔴 19:00 – 19:30  
+## LLM Prompt Injection: When Language Models Become an Attack Surface
+<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/matteo-grollino.jpg" alt="Matteo" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> **Matteo Grollino** — RED Team Senior Member, Relatech  
 
 The #1 risk in the OWASP Top 10 for LLM Applications.
 
@@ -206,11 +198,9 @@ A must-attend for anyone building AI-powered web applications.
 
 ---
 
-## 🔴 19:30 – 20:00  
-# Agentic AI Under Siege: Verifiable Safety Envelopes for Micro-LLMs  
-### Vaishnavi Gudur — Senior Software Engineer, Microsoft  
-
-<img src="/assets/images/events/owaspitalyday2026/vaishnavi-gudur.png" width="180">
+### 🔴 19:30 – 20:00  
+## Agentic AI Under Siege: Verifiable Safety Envelopes for Micro-LLMs  
+<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/vaishnavi-gudur.png" alt="Vaishnavi" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />  **Vaishnavi Gudur** — Senior Software Engineer, Microsoft  
 
 How do we make AI agents **provably safe**?
 
@@ -223,15 +213,13 @@ Topics include:
 
 Regulated environments. Multi-tenant safety. Practical architectures.
 
-📎 linkedin.com/in/vaishnavi-gudur
+📎 https://linkedin.com/in/vaishnavi-gudur
 
 ---
 
-## 🔵 20:00 – 20:30  
-# OWASP MAS Project Updates  
-### Sven Schleier — OWASP MAS Project Co-Lead  
-
-<img src="/assets/images/events/owaspitalyday2026/sven-schleier.png" width="180">
+### 🔵 20:00 – 20:30  
+## OWASP MAS Project Updates  
+<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/sven-schleier.png" alt="Sven" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />  **Sven Schleier** — OWASP MAS Project Co-Lead  
 
 Latest updates from:
 - MASWE  
@@ -241,16 +229,13 @@ Latest updates from:
 
 Hands-on improvements for mobile security testing professionals.
 
-📎 linkedin.com/in/sven-schleier/
+📎 https://linkedin.com/in/sven-schleier/
 
 ---
 
-## 🔵 20:30 – 21:00  
-# Zero-Trust Software Supply Chain at Enterprise Scale  
-### Ritesh Ranjan & Ravinder Singh Dafauti — Adobe  
-
-<img src="/assets/images/events/owaspitalyday2026/ritesh-ranjan.png" width="150">
-<img src="/assets/images/events/owaspitalyday2026/ravinder-singh-dafauti.jpg" width="150">
+### 🔵 20:30 – 21:00  
+## Zero-Trust Software Supply Chain at Enterprise Scale  
+<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/ritesh-ranjan.png" alt="Ritesh" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />  <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/ravinder-singh-dafauti.jpg" alt="Ravinder" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />**Ritesh Ranjan & Ravinder Singh Dafauti** — Adobe  
 
 Securing 100K+ builds per day with:
 - SLSA Level 3 alignment  
@@ -261,8 +246,8 @@ Securing 100K+ builds per day with:
 
 A practical blueprint for real-world supply chain security.
 
-📎 linkedin.com/in/ritesh-ranjan-1bab2196/  
-📎 linkedin.com/in/ravinder-singh-04b781b1/
+📎 https://linkedin.com/in/ritesh-ranjan-1bab2196/  
+📎 https://linkedin.com/in/ravinder-singh-04b781b1/
 
 ---
 

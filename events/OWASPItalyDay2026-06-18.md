@@ -131,7 +131,7 @@ Setting the stage for an evening focused on modern attack surfaces, AI-native th
 # Killing the Noise: AI Triage for High-Volume API Security Findings  
 ### Alessio Dalla Piazza — Co-Founder & CTO, Equixly  
 
-<img src="/assets/images/events/owaspitalyday2026/alessio-dalla-piazza.jpg" width="180">
+<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/speakers/alessio-dalla-piazza.jpg?raw=true" alt="Alessio” width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;"/>
 
 **Why this matters:**  
 Security teams are drowning in false positives. This talk shows how AI can reduce noise without introducing new risks.

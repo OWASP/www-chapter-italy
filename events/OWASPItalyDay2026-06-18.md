@@ -26,8 +26,21 @@ The main conference will start on **June 18th at 3:30 PM**, following a day of *
 
 ---
 
+---
 
-## 🎓 AI & Security Trainings – 2026 Program
+# 📌 OWASP Italy Day 2026  
+**18 June 2026 – Cagliari**
+
+---
+
+- [AI & Security Trainings](#AI-&-Security-Trainings-17-,-18-June-–-2026-Program)
+- [Conference Agenda – 18 June](#conference-agenda--18-june)
+- [Sponsors & Community Support](#sponsors--community-support)
+- [Registration Information](#registration-information)
+
+---
+
+## 🎓 AI & Security Trainings 17,18 June – 2026 Program
 
 OWASP continues to strongly invest in **advanced training on AI Security, Threat Modeling, and Secure Development**.
 

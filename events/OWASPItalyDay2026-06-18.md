@@ -127,11 +127,8 @@ Setting the stage for an evening focused on modern attack surfaces, AI-native th
 
 ---
 
-## 🔵 16:45 – 17:15  
-# Killing the Noise: AI Triage for High-Volume API Security Findings  
-### Alessio Dalla Piazza — Co-Founder & CTO, Equixly  
-
-<img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/speakers/alessio-dalla-piazza.jpg?raw=true" alt="Alessio” width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;"/>
+### 🔵 16:45 – 17:15 - Killing the Noise: AI Triage for High-Volume API Security Findings
+<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/alessio-dalla-piazza.jpg" alt="Alessio" width="50" height="50" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> **Alessio Dalla Piazza** — Co-Founder & CTO, Equixly  
 
 **Why this matters:**  
 Security teams are drowning in false positives. This talk shows how AI can reduce noise without introducing new risks.
@@ -142,13 +139,12 @@ Security teams are drowning in false positives. This talk shows how AI can reduc
 - Reachability analysis for filtering  
 - Where LLM triage works — and where it fails  
 
-📎 linkedin.com/in/alessiodallapiazza/
+📎 https://linkedin.com/in/alessiodallapiazza/
 
 ---
 
-## 🔵 17:45 – 18:15  
-# From Scratch: Building an AppSec Program That Actually Works  
-### Julio Araujo — Head of Security @ Rocket.Chat  
+### 🔵 17:45 – 18:15 - From Scratch: Building an AppSec Program That Actually Works  
+<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/julio-araujo.jpg" alt="Julio" width="50" height="50" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />  **Julio Araujo** — Head of Security @ Rocket.Chat  
 
 <img src="/assets/images/events/owaspitalyday2026/julio-araujo.jpg" width="180">
 

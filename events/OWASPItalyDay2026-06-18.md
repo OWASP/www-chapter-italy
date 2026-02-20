@@ -100,61 +100,101 @@ An advanced guide to Android mobile security, based on real-world experience fro
 
 
 ---
+# 🗓 Agenda
 
-## The **Call for Papers (CfP)** closes on **February 2, 2026 (11:59 PM EST)**.
-
-We invite **practitioners, researchers, engineers, and leaders** to submit high-quality talks that offer **practical insights, case studies, and real-world solutions** in the fields of **Application Security, AI Security, and Trustworthy AI**.
-
-We welcome proposals covering (but not limited to):
-
-### 🔐 Application Security & DevSecOps
-
-* Secure development practices and modern SDLC
-* DevSecOps workflows and automation
-* Cloud, Mobile, and Container Security
-* Vulnerability research and exploit analysis
-* Code review, threat modeling, red/blue/purple teaming
-* Secure architecture patterns and defensive strategies
-
-### 🤖 AI Security & Trustworthy AI
-
-- **AI Security & Trustworthiness**  
-- **AppSec in the Era of LLMs and Generative AI**  
-- **DevSecOps & Automation**  
-- **Secure Coding and Software Supply Chain Security**  
-- **Threat Modeling and Risk Assessment**  
-- **OWASP Projects in Practice**
-* AI threat modeling, attack surfaces, and testing
-* Responsible AI, governance, and compliance
-* Model security (LLM vulnerabilities, poisoning, inference attacks)
-* AI supply chain risks
-* Secure AI development lifecycle (AI-SDLC)
-* Tools, frameworks, and practical defensive techniques
-
-### 🌐 Emerging Topics & Industry Case Studies
-
-* Research results or ongoing academic work
-* Real-world lessons learned from enterprise deployments
-* Innovative frameworks, tools, and methodologies
-* Regulatory alignment (EU AI Act, NIST AI RMF, ISO/IEC 42001 & 5338)
-
-All submissions should aim to deliver **actionable insights**, demos, or technical depth—keeping OWASP’s mission of **open knowledge and community value** at the core.
-
-Full details are available in the official Call for Papers form:
-👉 **[OWASP Italy Day 2026 – CfP Details](https://sessionize.com/owasp-italy-day-cfs-2026/)
+## 15:00 – 15:45  
+**Registration & Welcome Coffee**
 
 ---
 
-### Call for Papers – Key Dates
+## 15:45 – 16:00  
+🎤 **Opening Remarks**  
+OWASP Italy 
 
-| Phase                     | Date                             |
-| ------------------------- | -------------------------------- |
-| CfP Opens                 | November 14, 2025                 |
-| CfP Closes                | February 2, 2026 – 11:59 PM EST  |
-| Review & Selection        | February 12–19, 2026              |
-| Notifications to Speakers | February 19, 2026         |
-| Program Announcement      | February 26, 2026         |
-| Conference Day            | **June 18, 2026 – from 3:30 PM** |
+---
+
+## 16:00 – 16:45  
+### TBD
+**Vandana Verma** — Snyk 
+
+---
+
+## 16:45 – 17:15  
+### Killing the Noise: AI Triage for High-Volume API Security Findings  
+**Alessio Dalla Piazza** — Co-Founder & CTO, Equixly  
+
+
+---
+
+## 17:45 – 18:15  
+### From Scratch: Creating an AppSec Program — Challenges & Lessons Learned  
+**Julio Araujo** — Head of Security @ Rocket.Chat  
+
+---
+
+## 18:15 – 18:30  
+☕ **Coffee Break**
+
+---
+
+## 18:30 – 19:00
+### It’s Giving Insecure Vibes: Secure Coding Literacy for Vibe Coders  
+**Betta Lyon Delsordo** — Ethical Hacker @ AWS | Speaker  
+
+---
+
+## 19:00 – 19:30
+### LLM Prompt Injection: When Language Models Become an Attack Surface  
+**Matteo Grollino** — RED Team Senior Member, Relatech  
+
+---
+
+## 19:30 – 20:00 
+### Agentic AI Under Siege: Verifiable Safety Envelopes for Micro-LLMs and MCP  
+**Vaishnavi Gudur** — Senior Software Engineer, Microsoft  
+
+---
+
+## 20:00 – 20:30  
+### OWASP Mobile Application Security (MAS) — Project Updates  
+**Sven Schleier** — OWASP MAS Project Co-Lead  
+
+Latest updates from the OWASP MAS project and the future of mobile application security standards.
+
+---
+
+## 20:30 – 21:00 
+### From Code to Customer: Building a Zero-Trust Software Supply Chain at Enterprise Scale  
+**Ritesh Ranjan** — Computer Scientist, Adobe  
+**Ravinder Singh Dafauti** — Computer Scientist, Adobe  
+
+Practical implementation of Zero Trust principles across enterprise software supply chains.
+
+---
+
+
+## 21:00 – 21:30  
+🏆 **Closing Remarks & Community Announcements**
+
+---
+
+## 21:30 – 1:00 AM
+🍹 **Dinner Networking & Community Aperitivo**
+
+---
+
+# 🎟 Registration
+
+Registration details and sponsorship information will be published soon.
+
+Stay tuned.
+
+---
+
+# 🤝 Sponsors
+
+Sponsorship opportunities are available.  
+Contact the OWASP Italy board for partnership information.
 
 
 ## 🏖️ Location

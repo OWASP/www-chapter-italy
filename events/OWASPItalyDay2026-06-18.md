@@ -100,101 +100,195 @@ An advanced guide to Android mobile security, based on real-world experience fro
 
 
 ---
-# 🗓 Agenda
-
-## 15:00 – 15:45  
-**Registration & Welcome Coffee**
+# 🗓 OWASP ITALY DAY June 18 - Agenda
 
 ---
 
-## 15:45 – 16:00  
-🎤 **Opening Remarks**  
-OWASP Italy 
+## 🟢 15:00 – 15:45  
+### Registration & Welcome Coffee
 
 ---
 
-## 16:00 – 16:45  
-### TBD
-**Vandana Verma** — Snyk 
+## 🟢 15:45 – 16:00  
+### 🎤 Opening Remarks  
+OWASP Italy Leadership  
+
+Setting the stage for an evening focused on modern attack surfaces, AI-native threats, and secure engineering at scale.
 
 ---
 
-## 16:45 – 17:15  
-### Killing the Noise: AI Triage for High-Volume API Security Findings  
-**Alessio Dalla Piazza** — Co-Founder & CTO, Equixly  
+## 🟣 16:00 – 16:45  
+# 🌟 KEYNOTE SESSION  
+## Vandana Verma — Snyk  
 
+<img src="/assets/images/events/owaspitalyday2026/vandana-verma.jpg" width="200">
 
----
-
-## 17:45 – 18:15  
-### From Scratch: Creating an AppSec Program — Challenges & Lessons Learned  
-**Julio Araujo** — Head of Security @ Rocket.Chat  
+*Abstract and bio coming soon.*
 
 ---
 
-## 18:15 – 18:30  
-☕ **Coffee Break**
+## 🔵 16:45 – 17:15  
+# Killing the Noise: AI Triage for High-Volume API Security Findings  
+### Alessio Dalla Piazza — Co-Founder & CTO, Equixly  
+
+<img src="/assets/images/events/owaspitalyday2026/alessio-dalla-piazza.jpg" width="180">
+
+**Why this matters:**  
+Security teams are drowning in false positives. This talk shows how AI can reduce noise without introducing new risks.
+
+**What you'll learn:**
+- Algorithmic vs beacon-based detection  
+- EPSS prioritization strategies  
+- Reachability analysis for filtering  
+- Where LLM triage works — and where it fails  
+
+📎 linkedin.com/in/alessiodallapiazza/
 
 ---
 
-## 18:30 – 19:00
-### It’s Giving Insecure Vibes: Secure Coding Literacy for Vibe Coders  
-**Betta Lyon Delsordo** — Ethical Hacker @ AWS | Speaker  
+## 🔵 17:45 – 18:15  
+# From Scratch: Building an AppSec Program That Actually Works  
+### Julio Araujo — Head of Security @ Rocket.Chat  
+
+<img src="/assets/images/events/owaspitalyday2026/julio-araujo.jpg" width="180">
+
+A real-world blueprint for building an AppSec program with:
+- Limited resources  
+- Vulnerability overload  
+- Cultural friction  
+
+Practical lessons from embedding security into SDLC in a fast-moving open-source environment.
+
+📎 linkedin.com/in/julio-cfa/
 
 ---
 
-## 19:00 – 19:30
-### LLM Prompt Injection: When Language Models Become an Attack Surface  
-**Matteo Grollino** — RED Team Senior Member, Relatech  
+## ☕ 18:15 – 18:30  
+### Coffee Break
 
 ---
 
-## 19:30 – 20:00 
-### Agentic AI Under Siege: Verifiable Safety Envelopes for Micro-LLMs and MCP  
-**Vaishnavi Gudur** — Senior Software Engineer, Microsoft  
+# 🤖 AI SECURITY TRACK
 
 ---
 
-## 20:00 – 20:30  
-### OWASP Mobile Application Security (MAS) — Project Updates  
-**Sven Schleier** — OWASP MAS Project Co-Lead  
+## 🔴 18:30 – 19:00  
+# It’s Giving Insecure Vibes: Secure Coding Literacy for Vibe Coders  
+### Betta Lyon Delsordo — Ethical Hacker @ AWS  
 
-Latest updates from the OWASP MAS project and the future of mobile application security standards.
+<img src="/assets/images/events/owaspitalyday2026/betta-lyon-delsordo.png" width="180">
 
----
+AI-assisted coding is accelerating development — but also vulnerabilities.
 
-## 20:30 – 21:00 
-### From Code to Customer: Building a Zero-Trust Software Supply Chain at Enterprise Scale  
-**Ritesh Ranjan** — Computer Scientist, Adobe  
-**Ravinder Singh Dafauti** — Computer Scientist, Adobe  
+This session covers:
+- Common AI-generated vulnerabilities  
+- Secure prompting techniques  
+- Hybrid AI-assisted secure review  
+- Real-world exploitation examples  
 
-Practical implementation of Zero Trust principles across enterprise software supply chains.
+Speaker at DEF CON 33, ESET World, WiCyS.
 
----
-
-
-## 21:00 – 21:30  
-🏆 **Closing Remarks & Community Announcements**
+📎 linkedin.com/in/betta-lyon-delsordo/
 
 ---
 
-## 21:30 – 1:00 AM
-🍹 **Dinner Networking & Community Aperitivo**
+## 🔴 19:00 – 19:30  
+# LLM Prompt Injection: When Language Models Become an Attack Surface  
+### Matteo Grollino — RED Team Senior Member, Relatech  
+
+<img src="/assets/images/events/owaspitalyday2026/matteo-grollino.jpg" width="180">
+
+The #1 risk in the OWASP Top 10 for LLM Applications.
+
+This session explores:
+- Direct vs indirect prompt injection  
+- System prompt manipulation  
+- AI attack surface expansion  
+- Live demonstration  
+
+A must-attend for anyone building AI-powered web applications.
 
 ---
 
-# 🎟 Registration
+## 🔴 19:30 – 20:00  
+# Agentic AI Under Siege: Verifiable Safety Envelopes for Micro-LLMs  
+### Vaishnavi Gudur — Senior Software Engineer, Microsoft  
 
-Registration details and sponsorship information will be published soon.
+<img src="/assets/images/events/owaspitalyday2026/vaishnavi-gudur.png" width="180">
 
-Stay tuned.
+How do we make AI agents **provably safe**?
+
+Topics include:
+- Zero-trust AI boundaries  
+- Policy-as-code guardrails  
+- Signed tool invocation  
+- Adversarial CI testing  
+- Immutable audit logs  
+
+Regulated environments. Multi-tenant safety. Practical architectures.
+
+📎 linkedin.com/in/vaishnavi-gudur
 
 ---
 
-# 🤝 Sponsors
+## 🔵 20:00 – 20:30  
+# OWASP MAS Project Updates  
+### Sven Schleier — OWASP MAS Project Co-Lead  
 
-Sponsorship opportunities are available.  
-Contact the OWASP Italy board for partnership information.
+<img src="/assets/images/events/owaspitalyday2026/sven-schleier.png" width="180">
+
+Latest updates from:
+- MASWE  
+- MASTG v2 Beta  
+- Android & iOS test apps  
+- iOS 17+ testing techniques  
+
+Hands-on improvements for mobile security testing professionals.
+
+📎 linkedin.com/in/sven-schleier/
+
+---
+
+## 🔵 20:30 – 21:00  
+# Zero-Trust Software Supply Chain at Enterprise Scale  
+### Ritesh Ranjan & Ravinder Singh Dafauti — Adobe  
+
+<img src="/assets/images/events/owaspitalyday2026/ritesh-ranjan.png" width="150">
+<img src="/assets/images/events/owaspitalyday2026/ravinder-singh-dafauti.jpg" width="150">
+
+Securing 100K+ builds per day with:
+- SLSA Level 3 alignment  
+- Hardened CI runners  
+- Ephemeral build environments  
+- Keyless container signing  
+- Enterprise-scale provenance  
+
+A practical blueprint for real-world supply chain security.
+
+📎 linkedin.com/in/ritesh-ranjan-1bab2196/  
+📎 linkedin.com/in/ravinder-singh-04b781b1/
+
+---
+
+## 🏁 21:00 – 21:30  
+### Closing Remarks & Community Announcements  
+
+---
+
+## 🍹 21:30 – 01:00  
+# Dinner Networking & OWASP Community Aperitivo  
+
+An opportunity to connect with speakers, contributors, and security professionals from across Europe.
+
+---
+
+# 🤝 Sponsorship & Community
+
+Interested in sponsoring OWASP Italy Day 2026?  
+Contact the OWASP Italy Board for partnership opportunities.
+
+---
+
 
 
 ## 🏖️ Location

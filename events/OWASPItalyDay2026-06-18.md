@@ -143,7 +143,7 @@ Security teams are drowning in false positives. This talk shows how AI can reduc
 ---
 
 ### 🔵 17:45 – 18:15 
-## From Scratch: Building an AppSec Program That Actually Works  
+#### From Scratch: Building an AppSec Program That Actually Works  
 <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/julio-araujo.jpg" alt="Julio" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />  **Julio Araujo** — Head of Security @ Rocket.Chat  
 
 A real-world blueprint for building an AppSec program with:
@@ -157,13 +157,13 @@ Practical lessons from embedding security into SDLC in a fast-moving open-source
 
 ---
 
-## ☕ 18:15 – 18:30  
-### Coffee Break
+### ☕ 18:15 – 18:30  
+#### Coffee Break
 
 ---
 
 ### 🔴 18:30 – 19:00  
-## It’s Giving Insecure Vibes: Secure Coding Literacy for Vibe Coders  
+#### It’s Giving Insecure Vibes: Secure Coding Literacy for Vibe Coders  
 <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/betta-lyon-delsordo.png" alt="Betta" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> **Betta Lyon Delsordo** — Ethical Hacker @ AWS  
 
 AI-assisted coding is accelerating development — but also vulnerabilities.
@@ -181,7 +181,7 @@ Speaker at DEF CON 33, ESET World, WiCyS.
 ---
 
 ### 🔴 19:00 – 19:30  
-## LLM Prompt Injection: When Language Models Become an Attack Surface
+#### LLM Prompt Injection: When Language Models Become an Attack Surface
 <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/matteo-grollino.jpg" alt="Matteo" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> **Matteo Grollino** — RED Team Senior Member, Relatech  
 
 The #1 risk in the OWASP Top 10 for LLM Applications.
@@ -197,7 +197,7 @@ A must-attend for anyone building AI-powered web applications.
 ---
 
 ### 🔴 19:30 – 20:00  
-## Agentic AI Under Siege: Verifiable Safety Envelopes for Micro-LLMs  
+#### Agentic AI Under Siege: Verifiable Safety Envelopes for Micro-LLMs  
 <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/vaishnavi-gudur.png" alt="Vaishnavi" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />  **Vaishnavi Gudur** — Senior Software Engineer, Microsoft  
 
 How do we make AI agents **provably safe**?
@@ -216,7 +216,7 @@ Regulated environments. Multi-tenant safety. Practical architectures.
 ---
 
 ### 🔵 20:00 – 20:30  
-## OWASP MAS Project Updates  
+#### OWASP MAS Project Updates  
 <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/sven-schleier.png" alt="Sven" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />  **Sven Schleier** — OWASP MAS Project Co-Lead  
 
 Latest updates from:
@@ -232,7 +232,7 @@ Hands-on improvements for mobile security testing professionals.
 ---
 
 ### 🔵 20:30 – 21:00  
-## Zero-Trust Software Supply Chain at Enterprise Scale  
+#### Zero-Trust Software Supply Chain at Enterprise Scale  
 <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/ritesh-ranjan.png" alt="Ritesh" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />  <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/ravinder-singh-dafauti.jpg" alt="Ravinder" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />**Ritesh Ranjan & Ravinder Singh Dafauti** — Adobe  
 
 Securing 100K+ builds per day with:
@@ -249,13 +249,13 @@ A practical blueprint for real-world supply chain security.
 
 ---
 
-## 🏁 21:00 – 21:30  
-### Closing Remarks & Community Announcements  
+### 🏁 21:00 – 21:30  
+#### Closing Remarks & Community Announcements  
 
 ---
 
-## 🍹 21:30 – 01:00  
-# Dinner Networking & OWASP Community Aperitivo  
+### 🍹 21:30 – 01:00  
+#### Dinner Networking & OWASP Community Aperitivo  
 
 An opportunity to connect with speakers, contributors, and security professionals from across Europe.
 

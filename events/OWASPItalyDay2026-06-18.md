@@ -33,8 +33,11 @@ The main conference will start on **June 18th at 3:30 PM**, following a day of *
 
 ---
 
-- [AI & Security Trainings](#ai--security-trainings-1718-june--2026-program)
-- [Conference Agenda – 18 June](#conference-agenda--18-june)
+- [AI & Security Trainings](#ai-security-trainings-1718-june-2026-program)
+- [OWASP Italy Day Agenda](#owasp-italy-day-june-18---agenda)
+- [Sponsorship & Community](#-sponsorship--community)
+- [Location](#-location)
+- [Organizers](#-organizers)
 
 ---
 

@@ -33,10 +33,8 @@ The main conference will start on **June 18th at 3:30 PM**, following a day of *
 
 ---
 
-- [AI & Security Trainings](#AI-&-Security-Trainings-17-,-18-June-–-2026-Program)
+- [AI & Security Trainings](#ai--security-trainings-1718-june--2026-program)
 - [Conference Agenda – 18 June](#conference-agenda--18-june)
-- [Sponsors & Community Support](#sponsors--community-support)
-- [Registration Information](#registration-information)
 
 ---
 

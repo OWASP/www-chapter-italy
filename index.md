@@ -36,22 +36,6 @@ Stay tuned for the next update!
 
 ---
 
-# Next online event: February 13, 2026
-
-## Speakers
-
-### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/speakers/simone-curzi.jpeg?raw=true" alt="Marco Morana" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> Simone Curzi - Microsoft 
-
-**Talk:** *Am I Secure Enough? Rethinking Security as an Investment with Quantitative Risk Analysis*
-
-### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/krishnendu-dasgupta.jpg?raw=true" alt="Marco Morana" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> Krishnendu Dasgupta - AXONVERTEX AI  
-
-**Talk (draft):** *Your Agents Have Power — Do They Have Guardrails? Engineering Agent Security in Practice*
-
-More information [here](events/2026-02-13-online.md)
-
----
-
 # Next onsite event: OWASP ITALY 2026!
 
 <br> 
@@ -67,6 +51,23 @@ We are planning the next OWASP Italy 2026 in Cagliari!
 More details [here](https://owasp.org/www-chapter-italy/events/OWASPItalyDay2026-06-18)
 
 ---
+
+# Past online event: February 13, 2026
+
+## Speakers
+
+### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/speakers/simone-curzi.jpeg?raw=true" alt="Marco Morana" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> Simone Curzi - Microsoft 
+
+**Talk:** *Am I Secure Enough? Rethinking Security as an Investment with Quantitative Risk Analysis*
+
+### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/krishnendu-dasgupta.jpg?raw=true" alt="Marco Morana" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> Krishnendu Dasgupta - AXONVERTEX AI  
+
+**Talk (draft):** *Your Agents Have Power — Do They Have Guardrails? Engineering Agent Security in Practice*
+
+More information [here](events/2026-02-13-online.md)
+
+---
+
 
 ## Past Event 2025: 
 

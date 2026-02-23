@@ -28,8 +28,7 @@ The main conference will start on **June 18th at 3:30 PM**, following a day of *
 
 ---
 
-# 📌 OWASP Italy Day 2026  
-**18 June 2026 – Cagliari**
+# 📌 OWASP Italy Day 2026 Trainings and Conference! 
 
 <br> 
 <center> 

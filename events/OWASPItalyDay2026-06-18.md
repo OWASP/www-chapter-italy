@@ -98,9 +98,9 @@ An innovative training focused on designing, securing, and deploying AI agent sw
 - **Speaker:** [Sven Schleier](https://at.linkedin.com/in/sven-schleier)  
   *OWASP MAS Project Co-Lead*
 - **Format:** 1-day training  
-- **Level:** Advanced  
+- **Level:** Intermediate
 
-An advanced guide to Android mobile security, based on real-world experience from the OWASP Mobile Application Security (MAS) project.
+A guide to Android mobile security, based on real-world experience from the OWASP Mobile Application Security (MAS) project.
 
 
 ### Key Dates

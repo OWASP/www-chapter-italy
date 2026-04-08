@@ -115,13 +115,15 @@ A guide to Android mobile security, based on real-world experience from the OWAS
 | Training Day(s) | June 17–18, 2026 |
 | OWASP Italy Day Conference | June 18, 2026 – from 3:30 PM |
 
-#### Please reserve your seat [here](https://www.eventbrite.com/e/owasp-appsec-italy-2026-trainings-tickets-1981026107415)
+#### Please reserve your seat for the trainings [here](https://www.eventbrite.com/e/owasp-appsec-italy-2026-trainings-tickets-1981026107415)
 
 
 ---
 # 🗓 OWASP ITALY DAY June 18 - Agenda
 
 ---
+
+#### Please reserve your seat at the Conference [here](https://cyberjourney.it/en/home/)
 
 ### 🟢 15:00 – 15:45  
 #### Registration & Welcome Coffee

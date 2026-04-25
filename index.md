@@ -52,6 +52,12 @@ More details [here](https://owasp.org/www-chapter-italy/events/OWASPItalyDay2026
 
 ---
 
+# Next online event: OWASP ITALY Online Meeting (Date TBD)
+
+More information [here](events/2026-05.md)
+
+---
+
 # Past online event: February 13, 2026
 
 ## Speakers

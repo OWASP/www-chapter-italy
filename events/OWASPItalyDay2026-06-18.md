@@ -139,10 +139,17 @@ Setting the stage for an evening focused on modern attack surfaces, AI-native th
 ---
 
 ### 🟣 16:00 – 16:45  
-#### 🌟 KEYNOTE SESSION  
+#### 🌟 KEYNOTE SESSION - The AI Security Moment: Why the Next Cybersecurity Crisis Will Be Algorithmic
 <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/vandana-verma-sehgal.jpg?raw=true" alt="Vandana Verma Sehgal" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> **Vandana Verma** — Snyk  
 
-*Abstract and bio coming soon.*
+Abstract
+We are living through one of the fastest technological shifts in history. AI systems are no longer experimental tools, they are decision-makers, copilots, and increasingly autonomous actors embedded inside our organizations. While AI adoption is accelerating at record speed, security and governance are struggling to keep up.
+
+In this keynote, we explore why AI security is rapidly becoming the defining cybersecurity challenge of this decade. From generative AI assistants to autonomous agents capable of executing workflows, modern AI systems introduce entirely new attack surfaces that traditional security models were never designed to handle.
+
+The challenge is not just about securing models, it is about securing AI ecosystems: data pipelines, agent workflows, APIs, tool integrations, and the complex chain of decisions AI systems now make on our behalf.
+
+Drawing from emerging research, real-world incidents, and global security frameworks, this talk will explore the new threat landscape created by AI and why organizations must rethink how they approach risk, trust, and control in intelligent systems. Because the next major security incident may not be caused by malware or ransomware. It may be caused by an AI that did exactly what it was told to do.
 
 ---
 

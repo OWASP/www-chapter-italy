@@ -35,6 +35,11 @@ The main conference will start on **June 18th at 3:30 PM**, following a day of *
 </center>
 <br> 
 
+<br> 
+<center> 
+<img src="https://github.com/OWASP/www-chapter-italy/blob/6567e950ab4f5d70fe2c9676b87dce578041c3b9/assets/images/2026/jim_manico_secure_code_ai_web_banner_1600x900.png?raw=true" width=1000/>  
+</center>
+<br> 
 
 ---
 
@@ -116,6 +121,33 @@ A guide to Android mobile security, based on real-world experience from the OWAS
 | OWASP Italy Day Conference | June 18, 2026 – from 3:30 PM |
 
 #### Please reserve your seat for the trainings [here](https://www.eventbrite.com/e/owasp-appsec-italy-2026-trainings-tickets-1981026107415)
+
+---
+### Featured Morning Workshop — Secure Code with AI (18th June)
+**It’s Manico Show Time!**
+
+A Practical Methodology for Claude Code, Codex, and Machine-Readable Security Rules
+
+* Speaker: [Jim Manico](https://www.linkedin.com/in/jmanico/) — Founder, Manicode Security
+* Format: Hands-on Technical Workshop · 3 hours · Live demonstrations with open Q&A
+* Date: June 18, 2026 — Morning session, before the main conference
+* Track: Application Security · Secure Software Engineering · AI Engineering · Developer Productivity
+* Level: Intermediate to Advanced — Developers, Security Engineers, Technical Leads, Architects
+
+Artificial intelligence coding assistants now generate a substantial portion of production code, yet most engineering teams deploy them with poor defaults and no security guardrails. The result is predictable: vulnerabilities, poor quality, and an expanding attack surface.
+
+This hands-on workshop presents a practical, demonstration-driven methodology for secure AI-assisted development. Attendees will observe the configuration of a secure Claude Code environment, the authoring of machine-readable security rules that govern model behavior on a per-repository basis, and a coordinated workflow using Claude Code and Codex together for code generation, security review, and testing.
+
+The session delivers immediately applicable techniques for shipping secure code from the first commit.
+
+**Key takeaways**
+
+* Configure a secure Claude Code development environment
+* Use machine-readable security rules at repository level
+* Combine Claude Code and Codex for code generation, security review, and testing
+* Apply secure-by-default AI coding workflows from the first commit
+
+
 
 
 ---

@@ -37,7 +37,7 @@ The main conference will start on **June 18th at 3:30 PM**, following a day of *
 
 <br> 
 <center> 
-<img src="https://github.com/OWASP/www-chapter-italy/blob/64bb00b243b745e15a9db7c93f7cb97655469947/assets/images/2026/jim_manico_secure_code_ai_web_banner_1600x900.png?raw=true" width=1000/>  
+<img src="https://github.com/OWASP/www-chapter-italy/blob/6785313f1fbe6cca200e5a000c183f0975a77a97/assets/images/2026/jim_manico_secure_code_ai_web_banner_1600x900.png?raw=true"/>  
 </center>
 <br> 
 

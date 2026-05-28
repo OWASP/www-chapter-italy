@@ -126,7 +126,7 @@ The session delivers immediately applicable techniques for shipping secure code 
 #### Please reserve your seat at the Conference [here](https://cyberjourney.it/en/home/)
 
 ### 🟢 15:30 – 16:00  
-#### Check.in & Welcome
+#### Check-in & Welcome
 
 ---
 

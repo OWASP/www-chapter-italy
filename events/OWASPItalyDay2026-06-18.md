@@ -59,18 +59,6 @@ Below is a selection of **official OWASP trainings** available in 2026, delivere
 
 Please reserve your seat [here](https://www.eventbrite.com/e/owasp-appsec-italy-2026-trainings-tickets-1981026107415)
 
-
-### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/marco-morana.jpg?raw=true" alt="Marco Morana" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> AI-Powered Threat Modeling  
-**Modernizing Security Analysis with LLM Augmentation**
-
-- **Speaker:** [Marco Morana](https://www.linkedin.com/in/go4it)  
-  *Field CISO – Head of Application & Product Security Architecture, Avocado Systems Inc.*
-- **Format:** 1.5-day training  
-- **Level:** Intermediate  
-
-An advanced training focused on modernizing Threat Modeling by leveraging Large Language Models and AI augmentation techniques to improve security risk analysis.
-
-
 ### <img src="https://github.com/OWASP/www-chapter-italy/blob/456ae7d721d2db1e4a04ff690dbbe4b91e1a2654/assets/images/trainers/fabio-cerullo.jpg?raw=true" alt="Fabio Cerullo" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> Secure Coding for Large Language Model Applications
 
 - **Speaker:** [Fabio Cerullo](https://ie.linkedin.com/in/fcerullo)  
@@ -79,16 +67,6 @@ An advanced training focused on modernizing Threat Modeling by leveraging Large 
 - **Level:** Introductory / Overview  
 
 A practical introduction to secure development of LLM-based applications, covering common vulnerabilities, security patterns, and best practices.
-
-
-### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/vandana-verma-sehgal.jpg?raw=true" alt="Vandana Verma Sehgal" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> AI Security Training
-
-- **Speaker:** [Vandana Verma Sehgal](https://in.linkedin.com/in/vandana-verma)  
-  *Member, OWASP Global Board of Directors*
-- **Format:** 1-day training  
-- **Level:** Introductory / Overview  
-
-An introductory training covering the fundamentals of AI security, designed for professionals looking to understand threats, risks, and mitigation strategies in real-world environments.
 
 
 ### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/krishnendu-dasgupta.jpg?raw=true" alt="Krishnendu Dasgupta" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> Building, Securing, and Deploying AI Agent Swarms  
@@ -101,16 +79,6 @@ An introductory training covering the fundamentals of AI security, designed for 
 
 An innovative training focused on designing, securing, and deploying AI agent swarms within decentralized and trustless ecosystems.
 
-
-### <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/sven-schleier.jpg?raw=true" alt="Sven Schleier" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> The Mobile Playbook  
-**A Guide for Android Security**
-
-- **Speaker:** [Sven Schleier](https://at.linkedin.com/in/sven-schleier)  
-  *OWASP MAS Project Co-Lead*
-- **Format:** 1-day training  
-- **Level:** Intermediate
-
-A guide to Android mobile security, based on real-world experience from the OWASP Mobile Application Security (MAS) project.
 
 
 ### Key Dates
@@ -157,20 +125,12 @@ The session delivers immediately applicable techniques for shipping secure code 
 
 #### Please reserve your seat at the Conference [here](https://cyberjourney.it/en/home/)
 
-### 🟢 15:00 – 15:45  
-#### Registration & Welcome Coffee
+### 🟢 15:30 – 16:00  
+#### Check.in & Welcome
 
 ---
 
-### 🟢 15:45 – 16:00  
-#### 🎤 Opening Remarks  
-OWASP Italy Leadership  
-
-Setting the stage for an evening focused on modern attack surfaces, AI-native threats, and secure engineering at scale.
-
----
-
-### 🟣 16:00 – 16:45  
+### 🟣 16:00 – 16:30  
 #### 🌟 KEYNOTE SESSION - The AI Security Moment: Why the Next Cybersecurity Crisis Will Be Algorithmic
 <img src="https://github.com/OWASP/www-chapter-italy/blob/master/assets/images/trainers/vandana-verma-sehgal.jpg?raw=true" alt="Vandana Verma Sehgal" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> **Vandana Verma** — Snyk  
 
@@ -185,24 +145,7 @@ Drawing from emerging research, real-world incidents, and global security framew
 
 ---
 
-### 🔵 16:45 – 17:15 
-#### Killing the Noise: AI Triage for High-Volume API Security Findings
-<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/alessio-dalla-piazza.jpg" alt="Alessio" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> **Alessio Dalla Piazza** — Co-Founder & CTO, Equixly  
-
-**Why this matters:**  
-Security teams are drowning in false positives. This talk shows how AI can reduce noise without introducing new risks.
-
-**What you'll learn:**
-- Algorithmic vs beacon-based detection  
-- EPSS prioritization strategies  
-- Reachability analysis for filtering  
-- Where LLM triage works — and where it fails  
-
-📎 https://linkedin.com/in/alessiodallapiazza/
-
----
-
-### 🔵 17:45 – 18:15 
+### 🔵 16:30 – 17:00
 #### From Scratch: Building an AppSec Program That Actually Works  
 <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/julio-araujo.jpg" alt="Julio" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />  **Julio Araujo** — Head of Security @ Rocket.Chat  
 
@@ -217,12 +160,58 @@ Practical lessons from embedding security into SDLC in a fast-moving open-source
 
 ---
 
-### ☕ 18:15 – 18:30  
+### 🔴 17:00 – 17:30 
+#### Spec-Driven Development: The Engineering Discipline That Secures, Economizes, and Certifies AI-Assisted Software 
+<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/jim-manico.png" alt="Jim" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />  **Jim Manico** — Founder, Manicode Security
+How do we make AI software **secure**?
+
+Artificial intelligence now generates a substantial portion of production code, yet most engineering organizations continue to instruct these systems through informal prompts and unstructured tickets. The consequence is predictable and severe: unverifiable output, security regressions, poor quality, and uncontrolled cost. Spec-driven development establishes a different paradigm. By codifying requirements as structured, machine-readable artifacts, engineering teams provide artificial intelligence with a deterministic target and provide auditors, reviewers, and regulators with a verifiable contract. This session presents the methodology, the supporting artifacts, and the measurable advantages across four critical dimensions: security, cost, compliance, and engineering velocity.
+
+📎 https://www.linkedin.com/in/jmanico/
+
+
+### 🔵 17:30 – 18:00 
+#### Killing the Noise: AI Triage for High-Volume API Security Findings
+<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/alessio-dalla-piazza.jpg" alt="Alessio" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> **Alessio Dalla Piazza** — Co-Founder & CTO, Equixly  
+
+**Why this matters:**  
+Security teams are drowning in false positives. This talk shows how AI can reduce noise without introducing new risks.
+
+**What you'll learn:**
+- Algorithmic vs beacon-based detection  
+- EPSS prioritization strategies  
+- Reachability analysis for filtering  
+- Where LLM triage works — and where it fails  
+
+📎 https://linkedin.com/in/alessiodallapiazza/
+
+
+
+---
+
+### ☕ 18:00 – 18:30  
 #### Coffee Break
 
 ---
 
-### 🔴 18:30 – 19:00  
+### 🔵 18:30 – 19:00  
+#### OWASP MAS Project Updates  
+<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/sven-schleier.png" alt="Sven" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />  **Sven Schleier** — OWASP MAS Project Co-Lead  
+
+Latest updates from:
+- MASWE  
+- MASTG v2 Beta  
+- Android & iOS test apps  
+- iOS 17+ testing techniques  
+
+Hands-on improvements for mobile security testing professionals.
+
+📎 https://linkedin.com/in/sven-schleier/
+
+---
+
+
+### 🔴 19:00 – 19:30  
 #### It’s Giving Insecure Vibes: Secure Coding Literacy for Vibe Coders  
 <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/betta-lyon-delsordo.png" alt="Betta" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> **Betta Lyon Delsordo** — Ethical Hacker @ AWS  
 
@@ -240,58 +229,7 @@ Speaker at DEF CON 33, ESET World, WiCyS.
 
 ---
 
-### 🔴 19:00 – 19:30  
-#### LLM Prompt Injection: When Language Models Become an Attack Surface
-<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/matteo-grollino.jpg" alt="Matteo" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> **Matteo Grollino** — RED Team Senior Member, Relatech  
-
-The #1 risk in the OWASP Top 10 for LLM Applications.
-
-This session explores:
-- Direct vs indirect prompt injection  
-- System prompt manipulation  
-- AI attack surface expansion  
-- Live demonstration  
-
-A must-attend for anyone building AI-powered web applications.
-
----
-
-### 🔴 19:30 – 20:00  
-#### Agentic AI Under Siege: Verifiable Safety Envelopes for Micro-LLMs  
-<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/vaishnavi-gudur.png" alt="Vaishnavi" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />  **Vaishnavi Gudur** — Senior Software Engineer, Microsoft  
-
-How do we make AI agents **provably safe**?
-
-Topics include:
-- Zero-trust AI boundaries  
-- Policy-as-code guardrails  
-- Signed tool invocation  
-- Adversarial CI testing  
-- Immutable audit logs  
-
-Regulated environments. Multi-tenant safety. Practical architectures.
-
-📎 https://linkedin.com/in/vaishnavi-gudur
-
----
-
-### 🔵 20:00 – 20:30  
-#### OWASP MAS Project Updates  
-<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/sven-schleier.png" alt="Sven" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />  **Sven Schleier** — OWASP MAS Project Co-Lead  
-
-Latest updates from:
-- MASWE  
-- MASTG v2 Beta  
-- Android & iOS test apps  
-- iOS 17+ testing techniques  
-
-Hands-on improvements for mobile security testing professionals.
-
-📎 https://linkedin.com/in/sven-schleier/
-
----
-
-### 🔵 20:30 – 21:00  
+### 🔵 19:30 – 20:00  
 #### Zero-Trust Software Supply Chain at Enterprise Scale  
 <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/ritesh-ranjan.png" alt="Ritesh" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />  <img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/ravinder-singh-dafauti.jpg" alt="Ravinder" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />**Ritesh Ranjan & Ravinder Singh Dafauti** — Adobe  
 
@@ -309,24 +247,32 @@ A practical blueprint for real-world supply chain security.
 
 ---
 
-### 🏁 21:00 – 21:30  
-#### Closing Remarks & Community Announcements  
+### 🔴 20:00 – 20:30  
+#### LLM Prompt Injection: When Language Models Become an Attack Surface
+<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/matteo-grollino.jpg" alt="Matteo" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" /> **Matteo Grollino** — RED Team Senior Member, Relatech  
+
+The #1 risk in the OWASP Top 10 for LLM Applications.
+
+This session explores:
+- Direct vs indirect prompt injection  
+- System prompt manipulation  
+- AI attack surface expansion  
+- Live demonstration  
+
+A must-attend for anyone building AI-powered web applications.
 
 ---
 
-### 🍹 21:30 – 01:00  
-#### Dinner Networking & OWASP Community Aperitivo  
+### 🏁 20:30 – 21:00  
+#### Final Greetings 
+
+---
+
+### 🍹 21:00 – 00:00 AM
+#### Dinner & DJ Party
 
 An opportunity to connect with speakers, contributors, and security professionals from across Europe.
 
----
-
-# 🤝 Sponsorship & Community
-
-Interested in sponsoring OWASP Italy Day 2026?  
-Contact the OWASP Italy Board for partnership opportunities.
-
----
 
 
 ## 🏖️ Location

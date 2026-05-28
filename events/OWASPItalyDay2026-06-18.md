@@ -162,7 +162,7 @@ Practical lessons from embedding security into SDLC in a fast-moving open-source
 
 ### 🔴 17:00 – 17:30 
 #### Spec-Driven Development: The Engineering Discipline That Secures, Economizes, and Certifies AI-Assisted Software 
-<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/jim-manico.png" alt="Jim" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />  **Jim Manico** — Founder, Manicode Security
+<img src="https://raw.githubusercontent.com/OWASP/www-chapter-italy/master/assets/images/speakers/jim-manico.jpeg" alt="Jim" width="34" height="34" style="border-radius:50%; vertical-align:middle; margin-right:8px;" />  **Jim Manico** — Founder, Manicode Security
 How do we make AI software **secure**?
 
 Artificial intelligence now generates a substantial portion of production code, yet most engineering organizations continue to instruct these systems through informal prompts and unstructured tickets. The consequence is predictable and severe: unverifiable output, security regressions, poor quality, and uncontrolled cost. Spec-driven development establishes a different paradigm. By codifying requirements as structured, machine-readable artifacts, engineering teams provide artificial intelligence with a deterministic target and provide auditors, reviewers, and regulators with a verifiable contract. This session presents the methodology, the supporting artifacts, and the measurable advantages across four critical dimensions: security, cost, compliance, and engineering velocity.

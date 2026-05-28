@@ -29,25 +29,6 @@ The main conference will start on **June 18th at 3:30 PM**, following a day of *
 
 # 📌 Trainings and Conference Programs! 
 
-<br> 
-<center> 
-<img src="https://github.com/OWASP/www-chapter-italy/blob/6567e950ab4f5d70fe2c9676b87dce578041c3b9/assets/images/2026/owasp_italy_2026.png?raw=true" width=1000/>  
-</center>
-<br> 
-
-<br> 
-<center> 
-<img src="https://github.com/OWASP/www-chapter-italy/blob/6785313f1fbe6cca200e5a000c183f0975a77a97/assets/images/2026/jim_manico_secure_code_ai_web_banner_1600x900.png?raw=true"/>  
-</center>
-<br> 
-
----
-
-- [AI & Security Trainings](#-ai-security-trainings-1718-june-2026-program)
-- [OWASP Italy Day Agenda](#-owasp-italy-day-june-18---agenda)
-- [Sponsorship & Community](#-sponsorship--community)
-- [Location](#-location)
-- [Organizers](#-organizers)
 
 ---
 
@@ -91,6 +72,13 @@ An innovative training focused on designing, securing, and deploying AI agent sw
 #### Please reserve your seat for the trainings [here](https://www.eventbrite.com/e/owasp-appsec-italy-2026-trainings-tickets-1981026107415)
 
 ---
+
+<br> 
+<center> 
+<img src="https://github.com/OWASP/www-chapter-italy/blob/6785313f1fbe6cca200e5a000c183f0975a77a97/assets/images/2026/jim_manico_secure_code_ai_web_banner_1600x900.png?raw=true"/>  
+</center>
+<br> 
+
 ### Featured Morning Workshop — Secure Code with AI (18th June)
 **It’s Manico Show Time!**
 

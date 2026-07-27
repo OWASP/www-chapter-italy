@@ -39,7 +39,9 @@ Stay tuned for the next update!
 # Next online events: OWASP ITALY Online Meeting 
 
 Thursday, 29 October 2026
+
 Friday, 26 February 2027
+
 Thursday, 29 April 2027
 
 More information [here](events/2026-05)

@@ -36,7 +36,13 @@ Stay tuned for the next update!
 
 ---
 
-# Next onsite event: OWASP ITALY 2026!
+# Next online event: OWASP ITALY Online Meeting (Date TBD)
+
+More information [here](events/2026-05)
+
+---
+
+# Past onsite event: OWASP ITALY 2026!
 
 <br> 
 <br> 
@@ -47,14 +53,8 @@ Stay tuned for the next update!
 <br> 
 
 
-We are planning the next OWASP Italy 2026 in Cagliari!
+We did a fantastic OWASP Italy 2026 in Cagliari!
 More details [here](https://owasp.org/www-chapter-italy/events/OWASPItalyDay2026-06-18)
-
----
-
-# Next online event: OWASP ITALY Online Meeting (Date TBD)
-
-More information [here](events/2026-05)
 
 ---
 
